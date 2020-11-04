@@ -1,0 +1,2060 @@
+ProspectiveBuyerKey,FirstName,LastName,Age,MaritalStatus,Gender,AnnualIncome,TotalChildren,ChildrenAtHomeCount,EducationLevel,WorkClass,HomeOwnership,CarsOwned,City,StateProvinceCode,PostalCode,Unknown
+1,Ole,Larson,74,M,M,40000,3,0,Partial Co,Professional,1,2,Cedar City,UT,84720,0
+2,Ingrid,Larson,70,M,F,80000,4,0,Bachelors,Management,1,2,Colma,ND,58575,4
+3,Ole,Larson,56,S,M,130000,3,4,Partial Co,Professional,1,4,Lynnwood,MN,55725,1
+4,Carl,Carlson,35,S,M,50000,0,0,Partial Co,Skilled Manual,1,2,Chula Vista,ND,58406,4
+5,Katrin,Hanson,55,M,F,10000,2,0,Partial Co,Manual,1,0,Dallas,OH,44006,4
+6,Sven,Hanson,36,S,M,50000,0,0,High Schoo,Professional,0,2,Puyallup,MN,55504,1
+7,Katrin,Larson,40,M,F,50000,1,1,Bachelors,Skilled Manual,1,0,Colma,ND,58633,4
+8,Inga,Anderson,57,M,F,40000,3,0,Partial Co,Skilled Manual,1,2,Culver City,ND,58349,4
+9,Hans,Larson,44,M,M,90000,0,0,Bachelors,Professional,1,0,Beverly Hills,ND,58688,4
+10,Erika,Olson,64,M,F,40000,5,0,High Schoo,Professional,0,3,Port Orchard,MN,56331,1
+11,Katrin,Larson,37,M,F,60000,0,0,Partial Co,Skilled Manual,1,2,Edmonds,MN,55702,1
+12,Ella,Johnson,32,M,F,40000,0,0,Partial Hi,Clerical,1,2,Puyallup,MN,56419,1
+13,Katrin,Johnson,33,S,F,30000,0,0,Partial Hi,Clerical,1,2,Pleasanton,ND,58426,4
+14,Ella,Anderson,33,M,F,50000,0,0,Partial Co,Skilled Manual,1,2,West Covina,ND,58714,4
+15,Sven,Larson,46,S,M,70000,2,0,Graduate D,Professional,1,1,Bellingham,MN,55629,1
+16,Erika,Johnson,60,S,F,50000,2,1,High Schoo,Professional,1,2,Citrus Heights,ND,58330,4
+17,Ole,Carlson,38,M,M,30000,0,0,High Schoo,Manual,1,1,Spokane,MN,55457,1
+18,Erika,Hanson,42,S,F,50000,2,2,Bachelors,Skilled Manual,0,1,Berkeley,ND,58658,4
+19,Erika,Carlson,44,S,F,30000,2,2,Partial Co,Manual,1,0,Los Angeles,ND,58408,4
+20,Ole,Carlson,44,S,M,30000,1,1,Bachelors,Clerical,1,1,Los Angeles,ND,58073,4
+21,Erika,Hanson,60,S,F,10000,2,0,Bachelors,Clerical,1,1,Dallas,OH,45291,4
+22,Inga,Carlson,61,M,F,70000,5,1,Partial Hi,Skilled Manual,1,3,Burien,MN,56402,1
+23,John,Johnson,36,S,M,90000,4,4,Partial Co,Skilled Manual,0,2,Milwaukie,SD,57680,1
+24,Erik,Johnson,32,M,M,40000,0,0,High Schoo,Skilled Manual,1,2,Chantilly,ID,83798,5
+25,Ole,Larson,33,S,M,20000,0,0,High Schoo,Manual,1,1,Colma,ND,58042,4
+26,Ole,Hanson,33,M,M,60000,0,0,Partial Co,Skilled Manual,1,2,Portland,SD,57644,1
+27,Ole,Larson,33,M,M,30000,0,0,Partial Hi,Clerical,1,2,Burbank,ND,58141,4
+28,Erika,Hanson,45,M,F,20000,2,2,High Schoo,Manual,0,2,Kirkland,MN,56209,1
+29,Kirsten,Hanson,42,S,F,120000,0,0,Bachelors,Management,1,3,Redwood City,ND,58058,4
+30,Inga,Anderson,51,M,F,30000,0,0,Bachelors,Clerical,1,0,South Bend,MT,59865,3
+31,Kirsten,Hanson,54,S,F,130000,3,4,Partial Co,Professional,0,3,Saint Ann,NE,68848,0
+32,Ingrid,Larson,40,S,F,70000,4,0,Graduate D,Professional,1,0,Concord,ND,58653,4
+33,Katrin,Anderson,44,S,F,30000,1,1,Bachelors,Clerical,1,1,Daly City,ND,58846,4
+34,Erika,Anderson,74,S,F,20000,1,0,Graduate D,Clerical,0,0,Olympia,MN,56315,1
+35,Sven,Hanson,49,S,M,20000,1,0,Graduate D,Clerical,1,0,Altadena,ND,58232,4
+36,Hans,Johnson,35,S,M,50000,1,1,Bachelors,Skilled Manual,0,1,Spokane,MN,55917,1
+37,John,Carlson,35,S,M,20000,0,0,Partial Co,Manual,1,1,Bellflower,ND,58100,4
+38,Ingrid,Hanson,73,S,F,110000,2,3,Graduate D,Management,0,4,Colma,ND,58516,4
+39,Ingrid,Carlson,57,M,F,30000,1,0,Bachelors,Skilled Manual,0,1,Colma,ND,58206,4
+40,Carl,Anderson,54,M,M,50000,2,0,Partial Hi,Skilled Manual,1,2,Yakima,MN,56706,1
+41,Carl,Hanson,69,M,M,50000,3,0,Bachelors,Management,1,2,Ballard,MN,55234,1
+42,Erika,Johnson,60,M,F,50000,4,0,Bachelors,Management,0,2,Colma,ND,58249,4
+43,Ella,Larson,49,S,F,70000,5,4,Partial Co,Skilled Manual,1,3,Newport Hills,MN,56033,1
+44,John,Hanson,57,S,M,90000,4,1,Partial Co,Professional,1,2,Lynnwood,MN,56445,1
+45,Ella,Carlson,57,S,F,90000,4,2,Partial Co,Professional,0,1,San Francisco,ND,58779,4
+46,Inga,Carlson,75,M,F,30000,2,0,Partial Co,Clerical,1,2,Concord,ND,58447,4
+47,Ella,Carlson,50,S,F,50000,1,0,Partial Co,Skilled Manual,0,1,Concord,ND,58253,4
+48,Katrin,Anderson,42,M,F,80000,0,0,Bachelors,Management,0,1,Merritt Island,WI,53051,5
+49,Carl,Larson,34,S,M,70000,0,0,High Schoo,Management,0,2,Burien,MN,56002,1
+50,Katrin,Olson,40,S,F,60000,1,0,Graduate D,Professional,1,0,Grossmont,ND,58545,4
+51,Ella,Olson,76,M,F,50000,2,0,Graduate D,Management,1,2,Yakima,MN,55072,1
+52,Ole,Carlson,53,S,M,70000,2,1,Partial Co,Professional,0,0,Chandler,IL,60539,4
+53,Ole,Larson,37,S,M,50000,0,0,Graduate D,Skilled Manual,1,0,Fremont,ND,58488,4
+54,Kirsten,Hanson,52,S,F,80000,5,4,Graduate D,Professional,0,0,Bradenton,WI,53429,5
+55,Inga,Hanson,38,S,F,90000,0,0,High Schoo,Management,1,3,Gold Bar,MN,56532,1
+56,Hans,Carlson,33,S,M,50000,0,0,Partial Co,Skilled Manual,1,2,Euclid,OH,44119,3
+57,Hans,Johnson,50,M,M,60000,1,0,Partial Co,Skilled Manual,1,1,Ithaca,MN,55958,2
+58,Ole,Carlson,41,S,M,30000,2,2,Partial Co,Clerical,0,2,Chula Vista,ND,58479,4
+59,Inga,Olson,50,S,F,10000,1,1,High Schoo,Manual,0,1,Concord,ND,58597,4
+60,Katrin,Olson,66,M,F,50000,3,0,Graduate D,Management,1,2,Olympia,MN,56365,1
+61,Inga,Johnson,59,M,F,70000,5,2,Partial Hi,Skilled Manual,1,2,Lynnwood,MN,55227,1
+62,Katrin,Hanson,63,M,F,70000,4,1,Bachelors,Management,1,1,Colma,ND,58216,4
+63,John,Johnson,33,S,M,30000,0,0,Partial Co,Clerical,1,1,Bremerton,MN,56691,1
+64,Ole,Anderson,44,M,M,10000,1,1,High Schoo,Manual,0,1,Downey,ND,58465,4
+65,Hans,Olson,34,S,M,20000,0,0,High Schoo,Manual,1,1,Colma,ND,58247,4
+66,Ingrid,Hanson,63,M,F,70000,4,1,Bachelors,Management,1,1,Concord,ND,58716,4
+67,Ella,Hanson,55,M,F,60000,2,0,High Schoo,Professional,1,2,Milwaukie,SD,57340,1
+68,Katrin,Carlson,56,M,F,60000,3,1,Partial Hi,Skilled Manual,0,2,Tacoma,MN,56408,1
+69,Kirsten,Olson,49,S,F,10000,1,1,High Schoo,Manual,1,1,Kirkland,MN,55561,1
+70,Ole,Anderson,48,S,M,50000,1,0,Partial Co,Skilled Manual,0,1,Kenmore,MN,55042,1
+71,Inga,Anderson,78,S,F,80000,3,0,Graduate D,Management,1,1,Scottsdale,IL,61472,4
+72,Kirsten,Olson,57,M,F,30000,1,0,Bachelors,Skilled Manual,0,1,Camarillo,ND,58236,4
+73,Erika,Olson,58,M,F,40000,3,0,Partial Co,Professional,0,2,West Covina,ND,58689,4
+74,Ella,Hanson,59,M,F,10000,3,0,High Schoo,Manual,1,2,Concord,ND,58580,4
+75,Inga,Larson,60,M,F,50000,2,1,High Schoo,Professional,1,2,Clarkston,WY,82248,5
+76,Ole,Larson,33,M,M,30000,0,0,Partial Hi,Clerical,1,2,Redlands,ND,58601,4
+77,Katrin,Anderson,44,M,F,20000,2,2,High Schoo,Manual,0,1,Corvallis,SD,57328,1
+78,Ingrid,Hanson,38,M,F,30000,0,0,High Schoo,Manual,1,1,Portland,SD,57306,1
+79,Ingrid,Johnson,46,M,F,70000,0,0,Bachelors,Professional,0,1,Clay,MN,56110,2
+80,Ingrid,Johnson,41,M,F,10000,2,2,High Schoo,Manual,1,1,Los Angeles,ND,58096,4
+81,Ella,Olson,51,S,F,90000,4,2,Partial Co,Professional,0,1,San Francisco,ND,58831,4
+82,Kirsten,Carlson,49,S,F,10000,1,0,Bachelors,Manual,1,0,Beaverton,SD,57158,1
+83,Inga,Johnson,60,S,F,40000,2,1,Partial Hi,Skilled Manual,1,2,Bellingham,MN,55840,1
+84,Erik,Olson,37,M,M,40000,0,0,Graduate D,Clerical,1,0,Mill Valley,ND,58264,4
+85,Ingrid,Johnson,43,S,F,50000,0,0,Graduate D,Skilled Manual,1,0,Sedro Woolley,MN,56046,1
+86,Hans,Johnson,38,M,M,50000,1,1,Graduate D,Skilled Manual,1,0,Sedro Woolley,MN,55478,1
+87,John,Anderson,55,S,M,50000,2,0,Partial Hi,Skilled Manual,0,2,Everett,MT,59801,0
+88,John,Anderson,70,S,M,60000,3,0,Graduate D,Management,1,2,W. Linn,SD,57307,1
+89,Katrin,Carlson,46,M,F,40000,0,0,High Schoo,Skilled Manual,0,1,Issaquah,MN,55347,1
+90,Hans,Olson,55,M,M,110000,3,4,Partial Co,Professional,1,4,Imperial Beach,ND,58481,4
+91,Hans,Olson,43,M,M,40000,0,0,High Schoo,Skilled Manual,1,1,Ballard,MN,56211,1
+92,Ella,Johnson,57,S,F,90000,4,2,Partial Co,Professional,0,1,Anacortes,MN,55222,1
+93,Carl,Olson,31,M,M,40000,0,0,High Schoo,Skilled Manual,1,2,Glendale,ND,58207,4
+94,Ella,Johnson,46,M,F,30000,2,2,Partial Co,Clerical,1,2,Chula Vista,ND,58266,4
+95,Ole,Anderson,71,S,M,20000,1,0,Bachelors,Clerical,0,0,Long Beach,ND,58085,4
+96,Katrin,Carlson,56,M,F,50000,2,0,Partial Hi,Skilled Manual,1,2,Monroe,MN,56385,1
+97,Inga,Larson,38,M,F,10000,3,3,High Schoo,Manual,1,1,Bremerton,MN,56626,1
+98,Katrin,Johnson,36,S,F,30000,0,0,Partial Co,Clerical,1,1,W. Linn,SD,57149,1
+99,Erik,Larson,41,M,M,30000,0,0,Bachelors,Clerical,1,0,Downey,ND,58276,4
+100,Kirsten,Olson,42,S,F,120000,0,1,Bachelors,Management,0,4,Issaquah,MN,55522,1
+101,Carl,Carlson,37,S,M,50000,1,0,Graduate D,Skilled Manual,1,0,Mill Valley,NE,68660,0
+102,Kirsten,Johnson,32,S,F,40000,1,1,Bachelors,Skilled Manual,1,1,Portland,SD,57467,1
+103,Inga,Olson,43,S,F,70000,5,5,Bachelors,Professional,1,3,Edmonds,MN,56192,1
+104,Katrin,Larson,39,S,F,10000,0,0,Partial Hi,Manual,0,2,Chula Vista,ND,58139,4
+105,Hans,Carlson,32,M,M,30000,0,0,Partial Hi,Clerical,1,2,Milwaukie,SD,57122,1
+106,Inga,Carlson,35,S,F,50000,0,0,Partial Co,Skilled Manual,1,2,Lemon Grove,ND,58129,4
+107,Ingrid,Anderson,37,M,F,80000,0,0,High Schoo,Management,0,3,Lynnwood,MN,55861,1
+108,Erika,Larson,36,S,F,50000,0,0,Graduate D,Skilled Manual,0,0,Concord,ND,58786,4
+109,Ella,Hanson,46,S,F,50000,5,5,Bachelors,Skilled Manual,0,2,Bellingham,MN,56762,1
+110,Ingrid,Larson,60,S,F,50000,2,1,Partial Co,Professional,1,2,Puyallup,MN,56560,1
+111,Ella,Hanson,50,S,F,100000,5,0,Bachelors,Professional,1,1,Chula Vista,ND,58800,4
+112,Ingrid,Carlson,44,S,F,30000,2,2,Partial Co,Manual,0,0,Chula Vista,ND,58807,4
+113,Erika,Johnson,76,M,F,50000,2,0,Graduate D,Management,0,2,Sparks,MT,59138,4
+114,Ella,Olson,39,S,F,60000,1,0,Graduate D,Professional,1,0,Grossmont,ND,58172,4
+115,Erika,Larson,40,M,F,70000,4,0,Graduate D,Professional,1,0,Oregon City,SD,57287,1
+116,Kirsten,Carlson,51,S,F,50000,4,0,Graduate D,Skilled Manual,1,0,Portland,SD,57142,1
+117,Katrin,Carlson,39,S,F,30000,0,0,High Schoo,Manual,0,1,Spokane,MN,56628,1
+118,Erika,Anderson,58,S,F,60000,3,1,High Schoo,Professional,1,2,Concord,ND,58092,4
+119,Hans,Carlson,56,S,M,50000,2,1,Partial Co,Professional,0,2,San Francisco,ND,58146,4
+120,Ella,Carlson,43,M,F,50000,2,2,Bachelors,Skilled Manual,1,1,Ballard,MN,55727,1
+121,Carl,Johnson,43,S,M,40000,0,0,High Schoo,Skilled Manual,1,1,Bothell,MN,56235,1
+122,Ella,Hanson,59,M,F,10000,3,0,Partial Co,Manual,1,2,Los Angeles,ND,58632,4
+123,Sven,Anderson,41,M,M,100000,1,0,Graduate D,Management,1,0,Edmonds,MN,55866,1
+124,Ingrid,Olson,55,M,F,20000,3,0,Partial Hi,Clerical,0,2,Spokane,MN,55874,1
+125,Hans,Olson,66,S,M,50000,4,0,Bachelors,Management,0,2,Corvallis,SD,57394,1
+126,Kirsten,Larson,37,S,F,60000,0,0,Partial Co,Skilled Manual,1,2,Laredo,OH,45321,4
+127,Sven,Olson,46,M,M,40000,1,0,Bachelors,Skilled Manual,0,0,Bremerton,MN,56208,1
+128,Carl,Johnson,42,S,M,30000,1,1,Bachelors,Clerical,1,0,Bremerton,MN,55364,1
+129,Katrin,Carlson,42,M,F,20000,1,1,Partial Co,Manual,1,1,Humble,OH,44785,4
+130,Ella,Larson,55,S,F,10000,2,0,Partial Co,Manual,1,0,Olympia,MN,55008,1
+131,Ella,Hanson,53,S,F,20000,1,0,Bachelors,Clerical,0,0,Colma,ND,58219,4
+132,Erik,Carlson,53,M,M,40000,1,0,Partial Co,Clerical,1,1,Carson,ND,58495,4
+133,Erika,Carlson,59,M,F,80000,5,2,High Schoo,Professional,1,2,Las Vegas,MT,59515,4
+134,Kirsten,Johnson,35,M,F,50000,0,0,Graduate D,Skilled Manual,0,0,Long Beach,ND,58800,4
+135,Hans,Anderson,36,S,M,40000,0,0,Graduate D,Clerical,1,0,Burien,MN,56289,1
+136,Ingrid,Johnson,38,S,F,90000,0,0,Bachelors,Professional,0,0,Cheektowaga,MN,56040,2
+137,John,Anderson,35,S,M,50000,0,0,High Schoo,Skilled Manual,0,2,Edmonds,MN,56023,1
+138,Ella,Carlson,43,M,F,80000,5,5,Graduate D,Management,1,3,Monroe,MN,56691,1
+139,Hans,Olson,77,M,M,60000,2,0,Graduate D,Management,1,2,Burbank,ND,58121,4
+140,Erik,Larson,64,M,M,60000,4,0,Bachelors,Management,1,2,Lake Oswego,SD,57248,1
+141,Ella,Anderson,53,S,F,10000,1,0,Bachelors,Clerical,1,0,New Haven,OH,45042,0
+142,John,Larson,43,S,M,60000,0,0,Graduate D,Professional,1,1,Cheektowaga,MN,55041,2
+143,Ole,Carlson,64,S,M,60000,4,0,Bachelors,Management,0,2,Lake Oswego,SD,57419,1
+144,Ole,Olson,41,M,M,50000,2,2,Bachelors,Skilled Manual,1,1,Suwanee,WY,82204,5
+145,Katrin,Larson,35,S,F,30000,0,0,Partial Co,Clerical,1,1,Bremerton,MN,56259,1
+146,John,Hanson,46,S,M,30000,1,0,Bachelors,Skilled Manual,1,1,Concord,ND,58333,4
+147,Ole,Larson,42,S,M,90000,4,4,Partial Co,Skilled Manual,0,2,Portland,SD,57762,1
+148,John,Carlson,58,M,M,50000,2,1,Partial Hi,Skilled Manual,1,2,W. Linn,SD,57312,1
+149,Katrin,Anderson,51,M,F,70000,5,5,Graduate D,Professional,1,3,Edmonds,MN,55716,1
+150,Ella,Carlson,49,S,F,80000,5,4,Partial Co,Professional,0,3,Richmond,ND,58256,4
+151,Erika,Carlson,37,S,F,90000,4,4,Partial Co,Skilled Manual,0,2,Miami,WI,53406,5
+152,John,Carlson,44,S,M,100000,0,0,Graduate D,Management,1,1,Lebanon,SD,57517,1
+153,Erik,Olson,53,S,M,50000,2,0,High Schoo,Skilled Manual,0,2,Puyallup,MN,56081,1
+154,Inga,Olson,55,S,F,90000,2,1,High Schoo,Professional,1,1,Concord,ND,58776,4
+155,Ingrid,Anderson,47,M,F,20000,2,0,Partial Co,Manual,1,1,Hillsboro,OH,45694,4
+156,Inga,Olson,60,S,F,80000,5,2,High Schoo,Professional,0,2,Bellevue,MN,55844,1
+157,Hans,Johnson,40,S,M,50000,0,0,Graduate D,Skilled Manual,1,0,Colma,ND,58832,4
+158,Ingrid,Larson,47,S,F,50000,4,2,Bachelors,Professional,1,3,Puyallup,MN,55055,1
+159,Katrin,Carlson,49,M,F,40000,4,3,High Schoo,Skilled Manual,1,3,Berkeley,ND,58163,4
+160,Ella,Johnson,60,S,F,110000,4,5,Partial Co,Management,1,2,Lynnwood,MN,55270,1
+161,Ella,Larson,38,S,F,110000,0,5,Partial Co,Management,1,3,San Francisco,ND,58231,4
+162,Ole,Larson,37,S,M,20000,0,0,Partial Hi,Manual,0,2,Beaverton,SD,57661,1
+163,Sven,Olson,54,M,M,40000,1,0,Partial Co,Clerical,1,1,Chicago,IL,60610,3
+164,Sven,Hanson,56,M,M,20000,3,0,Partial Hi,Manual,1,2,Sedro Woolley,MN,55603,1
+165,Sven,Anderson,43,S,M,80000,5,5,Bachelors,Professional,1,4,Chula Vista,ND,58423,4
+166,Inga,Olson,55,M,F,80000,3,2,Partial Co,Professional,1,1,Colma,ND,58034,4
+167,Ella,Johnson,63,S,F,50000,2,1,Bachelors,Management,0,1,Marysville,MN,56175,1
+168,Hans,Olson,33,S,M,50000,0,0,Partial Co,Skilled Manual,0,2,Portland,SD,57077,1
+169,Ingrid,Larson,42,M,F,50000,2,2,Bachelors,Skilled Manual,1,0,Bothell,MN,55882,1
+170,Sven,Carlson,51,M,M,110000,1,1,Bachelors,Management,1,4,Mansfield,OH,44903,3
+171,Hans,Larson,53,M,M,30000,2,0,High Schoo,Skilled Manual,1,2,Sedro Woolley,MN,56177,1
+172,Sven,Carlson,37,S,M,70000,0,0,Partial Co,Professional,1,2,Burbank,ND,58433,4
+173,Kirsten,Carlson,35,M,F,20000,0,0,High Schoo,Manual,1,1,Colma,ND,58389,4
+174,Ole,Hanson,31,S,M,50000,0,0,Graduate D,Skilled Manual,0,0,Portland,SD,57695,1
+175,Ella,Johnson,38,S,F,20000,0,0,Partial Hi,Manual,0,2,Seattle,MN,56511,1
+176,Ingrid,Anderson,40,S,F,40000,2,2,Partial Co,Clerical,1,2,Colma,ND,58794,4
+177,Kirsten,Hanson,68,S,F,120000,2,4,Graduate D,Management,0,3,Phoenix,IL,60980,4
+178,Ole,Larson,59,M,M,60000,2,1,Partial Co,Professional,0,1,National City,ND,58805,4
+179,Erik,Olson,30,S,M,30000,0,0,Partial Hi,Clerical,1,2,La Jolla,ND,58120,4
+180,Sven,Anderson,45,S,M,60000,3,3,Bachelors,Professional,1,1,Clearwater,WI,53657,5
+181,Ella,Anderson,39,M,F,90000,0,0,Partial Hi,Professional,0,4,Bellflower,ND,58350,4
+182,Katrin,Johnson,69,M,F,20000,1,0,Bachelors,Clerical,1,0,Chicago,IL,60610,3
+183,Sven,Anderson,37,M,M,10000,0,0,Graduate D,Manual,1,0,Milford,OH,43546,0
+184,Ella,Larson,49,M,F,20000,1,0,Graduate D,Clerical,1,0,Olympia,MN,56655,1
+185,Erik,Olson,39,S,M,80000,4,4,Graduate D,Management,0,1,Berkeley,ND,58260,4
+186,Ella,Olson,32,M,F,40000,4,4,Partial Co,Clerical,1,2,Chula Vista,ND,58449,4
+187,Ingrid,Johnson,64,M,F,130000,4,4,Partial Co,Professional,1,4,Columbus,WY,82872,5
+188,Ingrid,Larson,60,S,F,110000,4,5,Partial Co,Management,0,2,Chula Vista,ND,58509,4
+189,Kirsten,Hanson,50,S,F,50000,1,0,Partial Co,Skilled Manual,0,1,Issaquah,MN,56748,1
+190,Hans,Carlson,46,M,M,60000,3,3,Bachelors,Professional,1,2,Lynnwood,MN,56586,1
+191,Katrin,Anderson,43,M,F,30000,1,1,Bachelors,Clerical,1,0,Downey,ND,58542,4
+192,Erika,Johnson,34,S,F,40000,0,0,High Schoo,Skilled Manual,1,2,Palo Alto,ND,58673,4
+193,John,Olson,36,S,M,30000,0,0,Partial Co,Clerical,0,1,W. Linn,MT,59765,4
+194,Inga,Anderson,42,S,F,110000,2,1,Graduate D,Management,1,3,Colma,ND,58495,4
+195,Inga,Larson,36,S,F,40000,3,3,Partial Co,Clerical,1,2,Carol Stream,IL,60188,3
+196,Hans,Hanson,61,S,M,30000,3,0,Partial Co,Clerical,0,2,Coronado,ND,58018,4
+197,Katrin,Carlson,34,M,F,70000,0,0,High Schoo,Management,1,3,Burlingame,ND,58651,4
+198,Sven,Olson,35,S,M,70000,0,0,Partial Hi,Skilled Manual,1,3,Ballard,MN,55098,1
+199,Sven,Larson,40,M,M,50000,1,1,Bachelors,Skilled Manual,0,1,Colma,ND,58553,4
+200,John,Anderson,33,M,M,30000,0,0,Partial Hi,Clerical,1,2,Fremont,ND,58588,4
+201,Kirsten,Hanson,58,M,F,30000,3,0,High Schoo,Skilled Manual,1,2,Heath,OH,43056,3
+202,Kirsten,Olson,36,S,F,50000,0,0,High Schoo,Skilled Manual,1,2,Issaquah,MN,55730,1
+203,Kirsten,Hanson,39,M,F,60000,1,0,Graduate D,Professional,1,0,Philadelphia,MN,56439,0
+204,Inga,Carlson,32,S,F,40000,0,0,High Schoo,Skilled Manual,0,2,North Bend,MN,55134,1
+205,Kirsten,Carlson,46,S,F,30000,2,2,Partial Co,Clerical,0,0,Corvallis,SD,57522,1
+206,Ella,Olson,48,M,F,50000,2,0,High Schoo,Skilled Manual,1,2,Novato,ND,58064,4
+207,Carl,Johnson,50,M,M,70000,5,4,Partial Co,Skilled Manual,1,3,Concord,ND,58342,4
+208,Erik,Carlson,40,S,M,50000,1,1,Bachelors,Skilled Manual,0,1,Missoula,MT,59801,0
+209,Inga,Hanson,34,M,F,20000,0,0,High Schoo,Manual,1,1,Mill Valley,ND,58297,4
+210,Ole,Olson,41,M,M,70000,5,5,Graduate D,Professional,1,2,Boise,IA,52095,0
+211,Kirsten,Carlson,35,S,F,50000,0,0,Partial Co,Skilled Manual,0,1,Milwaukie,SD,57591,1
+212,Ole,Hanson,33,S,M,50000,0,0,Partial Co,Skilled Manual,1,2,Beverly Hills,ND,58273,4
+213,Ella,Carlson,53,M,F,50000,1,0,Partial Co,Skilled Manual,1,1,Trabuco Canyon,ND,58114,4
+214,Erika,Anderson,67,S,F,50000,2,0,Graduate D,Management,0,1,Everett,MN,55584,1
+215,Erika,Hanson,76,M,F,30000,1,0,Bachelors,Skilled Manual,0,1,Downey,ND,58119,4
+216,John,Anderson,66,S,M,30000,2,0,Partial Co,Clerical,0,2,Walla Walla,MN,55779,1
+217,Erik,Olson,42,M,M,10000,2,2,High Schoo,Manual,1,1,Colma,ND,58560,4
+218,Inga,Larson,42,M,F,90000,4,4,Bachelors,Management,1,1,Portland,SD,57737,1
+219,John,Olson,63,M,M,120000,5,5,High Schoo,Management,1,4,La Jolla,ND,58553,4
+220,Sven,Anderson,39,S,M,60000,1,0,Graduate D,Professional,0,0,Springdale,OH,45246,3
+221,Inga,Olson,66,S,F,60000,4,0,Graduate D,Management,0,2,Colma,ND,58036,4
+222,Inga,Olson,36,M,F,30000,0,0,Partial Co,Clerical,0,1,Snohomish,MN,55157,1
+223,Hans,Johnson,31,S,M,50000,0,0,Partial Co,Skilled Manual,1,1,Puyallup,MN,56419,1
+224,Sven,Hanson,60,M,M,50000,2,1,High Schoo,Professional,0,2,Concord,ND,58354,4
+225,Sven,Larson,34,M,M,20000,0,0,High Schoo,Manual,1,1,Coronado,ND,58346,4
+226,Carl,Hanson,45,M,M,80000,0,0,Bachelors,Management,1,1,Lincoln Acres,ND,58652,4
+227,Carl,Olson,39,S,M,10000,0,0,Partial Hi,Manual,0,2,Loveland,NE,68734,3
+228,Kirsten,Olson,56,S,F,90000,4,2,High Schoo,Professional,0,1,La Jolla,ND,58582,4
+229,Ella,Olson,54,S,F,60000,2,0,High Schoo,Professional,0,2,Salem,SD,57462,1
+230,Carl,Johnson,34,S,M,20000,0,0,Partial Hi,Manual,0,1,Seattle,MN,55855,1
+231,Sven,Carlson,41,M,M,30000,1,0,Bachelors,Clerical,1,0,Chula Vista,ND,58480,4
+232,Ole,Larson,47,M,M,40000,1,0,Bachelors,Skilled Manual,1,0,Hixson,IN,46300,5
+233,John,Hanson,65,S,M,20000,4,0,High Schoo,Skilled Manual,0,2,Walla Walla,MN,56367,1
+234,Sven,Carlson,38,M,M,50000,1,0,Partial Co,Skilled Manual,1,1,Colma,ND,58419,4
+235,Sven,Carlson,52,S,M,40000,2,0,Partial Co,Clerical,1,1,Santa Ana,ND,58654,4
+236,Ella,Johnson,51,S,F,30000,3,0,Partial Co,Clerical,1,2,Edina,MN,55436,3
+237,Katrin,Carlson,56,M,F,30000,1,0,High Schoo,Clerical,1,1,Everett,MN,55307,1
+238,Erik,Hanson,35,S,M,40000,0,0,High Schoo,Skilled Manual,0,2,Salt Lake City,UT,84101,0
+239,Sven,Johnson,61,S,M,90000,4,1,High Schoo,Management,0,3,Chula Vista,ND,58208,4
+240,John,Larson,40,S,M,60000,1,0,Graduate D,Professional,1,0,San Gabriel,ND,58460,4
+241,Erik,Carlson,35,M,M,70000,0,0,High Schoo,Management,1,2,Woodland Hills,ND,58401,4
+242,Carl,Hanson,37,M,M,70000,0,0,Partial Co,Professional,1,2,Woodbury,MN,55125,3
+243,Hans,Carlson,44,M,M,50000,2,0,High Schoo,Skilled Manual,1,2,West Covina,ND,58785,4
+244,John,Larson,44,S,M,50000,0,0,Graduate D,Skilled Manual,1,0,San Ysidro,ND,58572,4
+245,Erik,Anderson,44,S,M,80000,5,5,Graduate D,Management,1,3,Issaquah,MN,56471,1
+246,John,Olson,47,M,M,10000,3,2,Partial Hi,Manual,1,2,North Sioux City,SD,57049,0
+247,Inga,Carlson,52,S,F,20000,2,0,Partial Co,Manual,0,1,Elgin,IL,60120,3
+248,Carl,Larson,35,S,M,130000,5,5,Partial Hi,Professional,0,4,Lebanon,SD,57648,1
+249,Carl,Johnson,30,M,M,10000,0,0,Bachelors,Manual,0,0,Burlingame,ND,58055,4
+250,Inga,Olson,31,S,F,40000,1,1,Bachelors,Skilled Manual,1,0,Bothell,MN,56182,1
+251,Sven,Hanson,55,S,M,30000,1,0,High Schoo,Clerical,0,1,Lynnwood,MN,55653,1
+252,Carl,Olson,44,S,M,40000,0,0,Bachelors,Skilled Manual,1,0,Colma,ND,58177,4
+253,Ole,Hanson,55,M,M,20000,3,0,Partial Hi,Clerical,0,2,Lynnwood,MN,55331,1
+254,Erika,Anderson,41,S,F,80000,4,4,Graduate D,Management,1,1,Clearwater,WI,53088,5
+255,Inga,Olson,53,S,F,50000,2,0,Partial Hi,Skilled Manual,0,2,Redmond,MN,56518,1
+256,Carl,Hanson,67,M,M,50000,2,0,Graduate D,Management,1,1,Newport Beach,ND,58261,4
+257,Ingrid,Carlson,50,S,F,20000,1,1,Partial Co,Manual,1,0,Downey,ND,58846,4
+258,Kirsten,Olson,44,S,F,50000,0,0,Graduate D,Skilled Manual,0,0,Woodburn,SD,57051,1
+259,Carl,Carlson,41,M,M,70000,5,0,Graduate D,Professional,1,0,Chula Vista,ND,58094,4
+260,Hans,Anderson,50,M,M,80000,5,4,Partial Co,Professional,1,4,Colma,ND,58725,4
+261,Inga,Johnson,65,M,F,20000,4,0,High Schoo,Skilled Manual,1,2,Birmingham,IA,51964,5
+262,Erika,Anderson,53,M,F,10000,1,0,Partial Co,Manual,1,0,Fort Wayne,MT,59757,3
+263,Ella,Carlson,73,M,F,60000,3,0,Graduate D,Management,1,2,San Carlos,ND,58194,4
+264,Inga,Larson,46,S,F,110000,3,2,Bachelors,Management,1,4,Bellingham,MN,55844,1
+265,Erik,Carlson,31,M,M,40000,0,0,High Schoo,Skilled Manual,0,2,Colma,ND,58432,4
+266,Katrin,Anderson,35,S,F,50000,0,0,High Schoo,Skilled Manual,0,2,Lemon Grove,ND,58218,4
+267,Sven,Larson,41,M,M,10000,2,2,High Schoo,Manual,0,1,Campbellsville,MT,59374,0
+268,Inga,Olson,38,M,F,40000,2,2,Partial Co,Clerical,1,0,Concord,ND,58435,4
+269,Erik,Johnson,50,S,M,100000,0,3,Partial Co,Professional,0,2,Colma,ND,58069,4
+270,Ingrid,Johnson,64,S,F,50000,5,0,Bachelors,Management,1,4,Imperial Beach,ND,58802,4
+271,Erik,Anderson,33,M,M,50000,1,1,Graduate D,Skilled Manual,1,0,Savannah,WY,82047,5
+272,John,Anderson,37,M,M,10000,0,0,Partial Hi,Manual,1,2,Chula Vista,ND,58710,4
+273,Ole,Hanson,45,M,M,30000,2,2,Partial Co,Clerical,1,1,Torrance,ND,58162,4
+274,Erik,Carlson,36,M,M,60000,0,0,Partial Co,Professional,1,2,Edmonds,MN,55233,1
+275,Ingrid,Carlson,48,M,F,30000,3,0,High Schoo,Skilled Manual,1,2,Daly City,ND,58228,4
+276,Katrin,Larson,47,S,F,60000,3,2,Bachelors,Professional,0,2,Bellflower,ND,58784,4
+277,Erik,Olson,51,S,M,20000,2,0,Partial Co,Manual,1,1,Colma,ND,58344,4
+278,Ole,Johnson,53,M,M,20000,2,1,Partial Hi,Clerical,0,2,Sedro Woolley,MN,56458,1
+279,Katrin,Johnson,38,M,F,130000,4,5,High Schoo,Management,1,4,Colma,ND,58459,4
+280,Sven,Anderson,42,M,M,10000,2,2,High Schoo,Manual,1,1,Downey,ND,58095,4
+281,Ella,Larson,69,M,F,90000,5,0,Bachelors,Management,1,2,Bellflower,ND,58813,4
+282,Ella,Carlson,35,S,F,50000,0,0,Partial Co,Skilled Manual,0,2,Minneapolis,MN,55402,3
+283,Carl,Olson,75,S,M,10000,1,0,Graduate D,Clerical,0,0,Burlingame,ND,58061,4
+284,Sven,Carlson,38,S,M,60000,0,0,Graduate D,Professional,0,1,Chula Vista,ND,58770,4
+285,Inga,Carlson,44,M,F,50000,3,3,Bachelors,Skilled Manual,1,3,Berkeley,ND,58458,4
+286,Katrin,Hanson,37,M,F,110000,0,5,Partial Co,Management,1,3,Lake Oswego,SD,57468,1
+287,Ole,Carlson,50,S,M,20000,1,1,Partial Co,Manual,1,0,Millington,IN,46975,5
+288,Erik,Larson,53,M,M,70000,2,1,Partial Co,Professional,0,0,Sunrise,WI,53828,5
+289,Inga,Olson,37,S,F,70000,0,0,Partial Co,Professional,1,2,Lemon Grove,ND,58626,4
+290,Sven,Johnson,41,M,M,40000,0,0,Graduate D,Clerical,1,0,Spring Valley,ND,58478,4
+291,John,Larson,46,S,M,80000,4,3,Partial Co,Professional,1,1,San Gabriel,ND,58642,4
+292,Kirsten,Olson,65,S,F,50000,5,0,Bachelors,Management,0,2,Burbank,ND,58114,4
+293,John,Hanson,55,M,M,110000,3,4,Partial Co,Professional,1,4,San Francisco,ND,58261,4
+294,Sven,Larson,65,M,M,40000,4,0,High Schoo,Professional,1,2,Hooksett,MT,59625,2
+295,Kirsten,Hanson,55,M,F,20000,3,0,Partial Hi,Clerical,1,2,Ballard,MN,56179,1
+296,Erik,Carlson,60,M,M,40000,5,0,High Schoo,Professional,1,2,Imperial Beach,ND,58243,4
+297,Inga,Johnson,38,S,F,60000,1,0,Graduate D,Skilled Manual,0,0,Concord,ND,58455,4
+298,Hans,Larson,45,M,M,40000,0,0,High Schoo,Skilled Manual,1,1,Kennewick,MN,55445,1
+299,Inga,Larson,71,S,F,170000,1,2,Graduate D,Management,1,4,Chula Vista,ND,58419,4
+300,Kirsten,Anderson,31,S,F,70000,0,0,Partial Co,Professional,1,2,Lemon Grove,ND,58355,4
+301,Ole,Johnson,67,M,M,50000,2,0,Graduate D,Management,1,1,Colma,ND,58028,4
+302,Ella,Carlson,63,M,F,120000,5,5,High Schoo,Management,1,4,St. Louis,NE,69029,0
+303,Kirsten,Hanson,47,S,F,10000,1,0,Graduate D,Manual,0,0,Burlingame,ND,58820,4
+304,Kirsten,Anderson,42,M,F,60000,2,2,Bachelors,Professional,1,1,Grossmont,ND,58642,4
+305,Katrin,Olson,54,S,F,120000,2,4,High Schoo,Professional,1,4,Las Cruces,MT,59541,4
+306,Inga,Johnson,55,S,F,20000,1,0,Bachelors,Clerical,1,0,Concord,ND,58761,4
+307,Ingrid,Carlson,53,M,F,120000,2,4,High Schoo,Professional,0,4,Everett,MN,55616,1
+308,Carl,Anderson,67,S,M,70000,5,0,Bachelors,Management,1,2,Lincoln Acres,ND,58305,4
+309,Ole,Anderson,34,S,M,30000,0,0,High Schoo,Skilled Manual,0,2,Chula Vista,ND,58626,4
+310,Kirsten,Olson,66,M,F,70000,5,1,High Schoo,Professional,1,2,Colma,ND,58346,4
+311,John,Olson,52,S,M,40000,1,0,Partial Co,Clerical,0,1,Concord,ND,58482,4
+312,Inga,Hanson,57,S,F,120000,3,5,Bachelors,Management,0,3,Colma,ND,58014,4
+313,Ella,Carlson,41,M,F,90000,1,0,Graduate D,Management,1,0,Monroe,MN,55657,1
+314,Katrin,Larson,47,M,F,70000,0,0,Bachelors,Professional,1,2,Riverton,UT,84065,0
+315,Kirsten,Olson,38,M,F,100000,3,2,Partial Co,Professional,1,4,Bellingham,MN,55811,1
+316,Katrin,Carlson,65,S,F,40000,5,0,High Schoo,Professional,1,3,San Diego,ND,58673,4
+317,John,Larson,38,M,M,30000,0,0,High Schoo,Manual,1,1,San Jose,ND,58386,4
+318,Inga,Johnson,72,M,F,170000,1,1,Graduate D,Management,1,4,Alpine,ND,58054,4
+319,Katrin,Johnson,47,M,F,70000,0,0,Bachelors,Professional,1,1,Bellflower,ND,58334,4
+320,John,Larson,50,S,M,90000,1,0,Bachelors,Professional,0,1,Concord,ND,58698,4
+321,John,Carlson,73,S,M,70000,4,0,Graduate D,Management,0,2,Glendale,ND,58484,4
+322,John,Anderson,57,M,M,50000,3,0,Graduate D,Management,1,2,Milwaukie,SD,57632,1
+323,Erik,Larson,38,M,M,50000,1,0,Graduate D,Skilled Manual,0,0,Beaverton,SD,57255,1
+324,Ingrid,Anderson,63,S,F,50000,2,1,Bachelors,Management,1,1,Marysville,MN,56070,1
+325,John,Larson,69,S,M,70000,5,0,Graduate D,Management,0,2,Chula Vista,ND,58441,4
+326,Carl,Olson,55,S,M,130000,3,4,Partial Co,Professional,1,3,Chula Vista,ND,58566,4
+327,John,Anderson,69,M,M,50000,3,0,Bachelors,Management,1,2,W. Linn,SD,57084,1
+328,Erika,Carlson,73,M,F,50000,3,0,Graduate D,Management,1,2,Index,MN,56522,1
+329,Hans,Carlson,44,M,M,40000,0,0,Bachelors,Skilled Manual,1,0,Beaverton,SD,57543,1
+330,Ella,Johnson,49,M,F,10000,1,0,Bachelors,Manual,0,0,Olympia,MN,55773,1
+331,Ole,Larson,53,S,M,70000,2,1,Partial Co,Professional,1,0,Redmond,MN,55816,1
+332,Erika,Carlson,91,S,F,10000,3,0,Graduate D,Clerical,0,2,Chula Vista,ND,58550,4
+333,Sven,Larson,40,M,M,50000,1,1,Bachelors,Skilled Manual,1,1,Charlotte,ND,58278,5
+334,Ole,Johnson,69,S,M,60000,3,0,Graduate D,Management,1,2,Columbus,OH,43215,3
+335,Kirsten,Olson,33,S,F,120000,0,5,Partial Hi,Professional,0,4,Tacoma,MN,55722,1
+336,Kirsten,Carlson,66,M,F,50000,4,0,Bachelors,Management,1,2,Concord,ND,58548,4
+337,Ella,Olson,54,M,F,70000,4,3,Partial Co,Professional,1,0,City Of Commerce,ND,58750,4
+338,Ingrid,Larson,32,S,F,40000,0,0,High Schoo,Skilled Manual,0,2,Van Nuys,ND,58296,4
+339,Carl,Hanson,48,M,M,20000,1,0,Graduate D,Clerical,0,0,Burlingame,ND,58735,4
+340,Kirsten,Olson,53,M,F,30000,2,0,High Schoo,Skilled Manual,1,2,Chicago,IL,60610,3
+341,Carl,Carlson,43,S,M,40000,0,0,Bachelors,Clerical,0,0,Boston,WY,82732,2
+342,Ella,Larson,42,S,F,60000,2,2,Bachelors,Professional,1,1,Yakima,MN,55264,1
+343,Carl,Hanson,45,M,M,50000,3,3,Bachelors,Skilled Manual,1,2,San Gabriel,ND,58131,4
+344,Inga,Olson,38,S,F,100000,0,5,High Schoo,Management,1,3,El Cajon,ND,58715,4
+345,Carl,Carlson,40,M,M,100000,0,5,High Schoo,Management,0,4,Billings,MT,59101,0
+346,Erik,Hanson,41,S,M,90000,2,0,Bachelors,Professional,0,0,Clearwater,WI,54828,5
+347,Ingrid,Johnson,63,S,F,70000,4,1,Bachelors,Management,0,1,Burbank,ND,58804,4
+348,Erika,Larson,36,S,F,20000,0,0,Partial Hi,Manual,1,2,Corvallis,SD,57406,1
+349,Ingrid,Carlson,50,S,F,100000,0,3,Partial Co,Professional,1,2,Mosinee,WI,54455,0
+350,Carl,Hanson,51,M,M,70000,1,0,Graduate D,Professional,1,1,Salem,SD,57304,1
+351,Ella,Olson,48,M,F,10000,1,0,Graduate D,Manual,1,0,Santa Cruz,ND,58147,4
+352,Ella,Anderson,41,S,F,80000,4,4,Graduate D,Management,0,0,Lebanon,SD,57437,1
+353,Hans,Larson,50,S,M,70000,5,4,Partial Co,Skilled Manual,0,3,Bellingham,MN,55853,1
+354,Ella,Anderson,53,M,F,10000,1,0,Partial Co,Manual,1,0,Mill Valley,ND,58384,4
+355,Ole,Hanson,62,M,M,90000,4,1,High Schoo,Management,1,4,Bellevue,MN,56530,1
+356,Kirsten,Anderson,52,S,F,70000,5,4,Graduate D,Professional,0,1,Issaquah,MN,55159,1
+357,Erik,Olson,60,S,M,50000,2,1,Partial Co,Professional,0,2,Issaquah,MN,55188,1
+358,Erika,Carlson,62,M,F,40000,2,1,High Schoo,Professional,1,2,Phoenix,IL,62976,4
+359,Inga,Johnson,58,S,F,50000,2,1,High Schoo,Professional,0,2,Burbank,ND,58036,4
+360,Inga,Johnson,58,S,F,50000,2,1,High Schoo,Professional,0,2,Burbank,ND,58658,4
+361,Erika,Carlson,58,S,F,50000,2,1,High Schoo,Professional,0,2,Burbank,ND,58453,4
+362,Carl,Larson,34,S,M,20000,0,0,Partial Hi,Manual,0,1,Kirkland,MN,56225,1
+363,Kirsten,Hanson,51,S,F,90000,2,0,Bachelors,Professional,0,1,Concord,ND,58145,4
+364,Ella,Larson,72,S,F,50000,3,0,Graduate D,Management,1,2,Olympia,MN,56384,1
+365,Katrin,Anderson,31,M,F,10000,0,0,Partial Co,Manual,1,1,Long Beach,ND,58399,4
+366,Sven,Johnson,43,S,M,50000,0,0,Graduate D,Skilled Manual,0,0,Everett,MN,55749,1
+367,Ole,Johnson,44,M,M,50000,3,3,Bachelors,Skilled Manual,1,1,Bothell,MN,56678,1
+368,John,Anderson,44,S,M,50000,0,0,Graduate D,Skilled Manual,1,0,Portland,SD,57076,1
+369,Sven,Larson,52,M,M,50000,4,0,Graduate D,Skilled Manual,1,0,Colma,ND,58048,4
+370,Carl,Olson,38,M,M,60000,0,0,Graduate D,Professional,1,1,Marysville,MN,56086,1
+371,Hans,Johnson,33,S,M,10000,1,1,High Schoo,Manual,1,0,Michigan City,MT,59632,3
+372,Erik,Hanson,57,S,M,90000,4,1,Partial Co,Professional,1,2,San Francisco,ND,58107,4
+373,Ella,Larson,50,M,F,80000,5,4,Partial Co,Professional,0,4,Concord,ND,58505,4
+374,Carl,Hanson,54,M,M,40000,1,0,Partial Co,Clerical,1,1,Colma,ND,58449,4
+375,Carl,Johnson,38,M,M,70000,5,0,Graduate D,Professional,1,0,San Gabriel,ND,58764,4
+376,John,Anderson,40,S,M,40000,1,0,Bachelors,Skilled Manual,1,0,Olympia,MN,55172,1
+377,Sven,Carlson,44,S,M,120000,0,0,Graduate D,Management,1,3,Park City,UT,84098,0
+378,Ella,Carlson,49,M,F,40000,4,3,High Schoo,Skilled Manual,1,3,Beverly Hills,ND,58615,4
+379,Carl,Anderson,37,S,M,50000,1,0,Graduate D,Skilled Manual,1,0,Lynnwood,MN,56516,1
+380,Ingrid,Larson,67,S,F,100000,2,3,Graduate D,Management,1,3,Colma,ND,58108,4
+381,Carl,Hanson,40,S,M,110000,3,2,Bachelors,Management,1,4,Burbank,ND,58732,4
+382,Katrin,Anderson,40,S,F,110000,3,2,Bachelors,Management,1,4,Burbank,ND,58545,4
+383,Ella,Larson,51,S,F,40000,1,0,Partial Co,Clerical,1,1,Lynnwood,MN,55601,1
+384,Inga,Larson,45,S,F,50000,3,3,Bachelors,Skilled Manual,0,3,Beverly Hills,ND,58045,4
+385,Erik,Larson,38,M,M,50000,0,0,Graduate D,Skilled Manual,0,0,Concord,ND,58343,4
+386,Hans,Olson,46,M,M,10000,3,2,Partial Hi,Manual,1,2,Modesto,ND,58177,4
+387,Ella,Hanson,74,M,F,60000,2,0,Graduate D,Management,1,2,Cincinnati,OH,45202,3
+388,Ole,Carlson,40,M,M,20000,2,2,High Schoo,Manual,0,1,Bremerton,MN,55391,1
+389,Erik,Anderson,43,M,M,40000,4,3,High Schoo,Skilled Manual,1,2,Kittery,WY,82274,2
+390,Erika,Larson,54,M,F,60000,2,1,Partial Co,Professional,1,1,Issaquah,MN,56041,1
+391,Erika,Johnson,47,S,F,10000,3,2,Partial Hi,Manual,1,2,Beaverton,SD,57456,1
+392,John,Carlson,33,S,M,40000,0,0,High Schoo,Skilled Manual,1,2,Colma,ND,58036,4
+393,Kirsten,Olson,55,S,F,40000,1,0,Partial Co,Clerical,0,1,Canoga Park,ND,58634,4
+394,Ole,Anderson,43,M,M,50000,0,0,Partial Co,Skilled Manual,1,1,Salem,SD,57536,1
+395,Carl,Olson,33,S,M,30000,0,0,Partial Co,Clerical,1,1,Berkeley,ND,58327,4
+396,John,Olson,51,S,M,90000,1,0,Bachelors,Professional,1,1,Newport Beach,ND,58085,4
+397,Carl,Hanson,38,M,M,40000,2,2,Partial Co,Clerical,1,0,Chula Vista,ND,58439,4
+398,Ole,Larson,65,M,M,30000,2,1,Partial Hi,Skilled Manual,0,2,Index,MN,56531,1
+399,Inga,Johnson,31,M,F,20000,4,4,High Schoo,Manual,1,3,Downey,ND,58578,4
+400,Carl,Larson,43,M,M,10000,1,0,Bachelors,Manual,1,0,Grossmont,ND,58730,4
+401,Kirsten,Larson,39,S,F,50000,1,1,Graduate D,Skilled Manual,0,0,Spokane,MN,56456,1
+402,John,Larson,43,M,M,40000,4,3,High Schoo,Skilled Manual,1,3,Marysville,MN,55127,1
+403,Sven,Olson,55,M,M,90000,2,1,High Schoo,Professional,0,1,Burlingame,ND,58813,4
+404,Katrin,Johnson,66,S,F,40000,4,0,High Schoo,Professional,1,2,Ferguson,NE,68224,0
+405,Kirsten,Anderson,46,M,F,70000,5,4,Graduate D,Professional,1,0,Salem,SD,57760,1
+406,Ella,Larson,51,M,F,30000,1,0,Graduate D,Clerical,1,0,Lacey,MN,56022,1
+407,Sven,Olson,30,M,M,10000,0,0,Partial Co,Manual,1,1,Downey,ND,58043,4
+408,Erik,Hanson,43,S,M,50000,0,0,Partial Co,Skilled Manual,0,1,Colma,ND,58776,4
+409,Kirsten,Larson,33,M,F,50000,0,0,Partial Co,Skilled Manual,0,2,Orlando,WI,53587,5
+410,Ole,Johnson,43,M,M,70000,5,5,Bachelors,Professional,1,3,La Jolla,ND,58358,4
+411,Erika,Hanson,38,S,F,90000,0,0,Partial Hi,Professional,1,3,El Cajon,ND,58163,4
+412,Kirsten,Anderson,42,M,F,80000,5,5,Bachelors,Professional,1,4,Torrance,ND,58798,4
+413,Inga,Hanson,68,M,F,40000,2,0,Bachelors,Management,1,2,New Hartford,MN,55908,2
+414,Sven,Larson,40,S,M,50000,1,1,Bachelors,Skilled Manual,1,0,Oakland,ND,58327,4
+415,John,Olson,33,M,M,100000,0,5,High Schoo,Management,1,4,Woodland Hills,ND,58285,4
+416,John,Carlson,45,M,M,30000,2,2,Partial Co,Clerical,1,1,Berkeley,ND,58183,4
+417,Inga,Hanson,52,M,F,130000,2,3,Bachelors,Management,1,4,Clarkston,WY,82843,5
+418,Ella,Carlson,47,M,F,60000,3,2,Bachelors,Professional,0,2,Torrance,ND,58407,4
+419,John,Larson,35,S,M,60000,0,0,Partial Hi,Skilled Manual,0,3,Biloxi,NE,68830,5
+420,Ella,Johnson,35,M,F,70000,5,5,Graduate D,Professional,1,2,Puyallup,MN,56173,1
+421,Ole,Olson,34,S,M,50000,0,0,Partial Co,Skilled Manual,0,1,Colma,ND,58063,4
+422,Inga,Johnson,52,S,F,40000,2,0,Partial Co,Clerical,0,1,Ballard,MN,56631,1
+423,Carl,Hanson,42,S,M,110000,1,1,Graduate D,Management,0,2,Irving,OH,44897,4
+424,Ingrid,Olson,56,S,F,50000,2,1,Partial Co,Professional,0,2,Glendale,ND,58440,4
+425,Inga,Anderson,58,M,F,90000,4,1,Partial Co,Professional,1,2,Lynnwood,MN,55106,1
+426,John,Anderson,50,S,M,60000,1,0,Partial Co,Skilled Manual,0,1,Port Huron,WY,82576,0
+427,Erika,Olson,48,M,F,100000,3,2,Partial Co,Professional,1,4,Concord,ND,58649,4
+428,Ole,Hanson,35,M,M,10000,0,0,Partial Hi,Manual,1,2,Corvallis,SD,57090,1
+429,Hans,Carlson,41,M,M,70000,5,0,Graduate D,Professional,1,0,Oregon City,SD,57796,1
+430,John,Anderson,35,M,M,20000,0,0,Partial Co,Manual,1,1,Burlingame,ND,58486,4
+431,Carl,Olson,43,S,M,50000,0,0,Graduate D,Skilled Manual,1,0,Woodburn,SD,57747,1
+432,Ole,Anderson,59,S,M,50000,2,1,High Schoo,Professional,1,2,Bellingham,MN,55646,1
+433,Erik,Anderson,32,M,M,30000,4,4,Partial Co,Clerical,1,2,Bremerton,MN,55780,1
+434,Ingrid,Olson,47,S,F,40000,1,0,Partial Co,Clerical,1,1,Colma,ND,58767,4
+435,John,Anderson,38,M,M,40000,4,4,Partial Co,Clerical,1,2,Beaverton,SD,57218,1
+436,Erik,Anderson,37,M,M,70000,0,0,Partial Co,Professional,1,2,Colma,ND,58299,4
+437,Erika,Larson,54,M,F,40000,1,0,Partial Co,Clerical,1,1,Chula Vista,ND,58169,4
+438,Erik,Hanson,43,M,M,30000,1,1,Bachelors,Clerical,1,1,Santa Monica,ND,58751,4
+439,Katrin,Olson,38,M,F,40000,0,0,Bachelors,Clerical,1,0,Bellflower,ND,58678,4
+440,Erika,Larson,42,S,F,110000,2,1,Graduate D,Management,1,3,Portland,SD,57602,1
+441,Ella,Olson,61,S,F,30000,3,0,Partial Co,Clerical,0,2,La Marque,OH,45794,4
+442,Ole,Olson,49,S,M,90000,2,1,Partial Co,Professional,0,1,Colma,ND,58334,4
+443,Kirsten,Larson,45,S,F,20000,2,2,High Schoo,Manual,0,2,Peoria,IL,61606,3
+444,John,Anderson,47,S,M,60000,3,2,Graduate D,Professional,0,0,Beverly Hills,ND,58286,4
+445,Erik,Olson,47,M,M,90000,4,1,Partial Co,Professional,1,2,Woodland Hills,ND,58211,4
+446,Ella,Johnson,60,S,F,110000,4,5,Partial Co,Management,0,2,Gold Bar,MN,56082,1
+447,Ella,Johnson,51,S,F,80000,5,0,Graduate D,Professional,1,0,Kittery,WY,82151,2
+448,Ingrid,Olson,39,M,F,130000,0,5,Partial Hi,Management,1,4,Lynnwood,MN,55709,1
+449,Kirsten,Carlson,50,S,F,50000,1,0,Partial Co,Skilled Manual,1,1,Lebanon,SD,57074,1
+450,Kirsten,Larson,41,S,F,70000,0,0,Bachelors,Professional,0,1,Chandler,IL,61229,4
+451,Erik,Larson,72,M,M,50000,2,0,Graduate D,Management,1,1,Seattle,MN,55466,1
+452,Inga,Hanson,38,M,F,40000,4,4,Partial Co,Clerical,1,2,Woodburn,SD,57369,1
+453,Kirsten,Olson,65,S,F,20000,4,0,High Schoo,Skilled Manual,0,2,Walla Walla,MN,55776,1
+454,Ingrid,Johnson,57,S,F,20000,2,0,High Schoo,Manual,0,2,Palo Alto,ND,58205,4
+455,John,Carlson,43,M,M,120000,0,1,Bachelors,Management,1,4,Miami,WI,54377,5
+456,John,Olson,33,M,M,10000,1,1,High Schoo,Manual,1,0,Downey,ND,58554,4
+457,Ella,Carlson,48,S,F,70000,5,4,Partial Co,Professional,0,3,Surprise,IL,61636,4
+458,Katrin,Carlson,65,M,F,60000,4,0,Bachelors,Management,0,2,Colma,ND,58017,4
+459,Ole,Olson,41,M,M,30000,2,2,Partial Co,Clerical,1,2,Santa Monica,ND,58397,4
+460,Ella,Carlson,34,M,F,40000,0,0,High Schoo,Skilled Manual,0,2,Colma,ND,58649,4
+461,Kirsten,Hanson,65,M,F,40000,4,0,High Schoo,Professional,1,2,Atlanta,WY,82033,5
+462,Erik,Larson,34,M,M,30000,0,0,Partial Co,Clerical,1,1,Kirkland,MN,56086,1
+463,Ella,Carlson,45,M,F,20000,2,2,High Schoo,Manual,1,0,Bellflower,ND,58465,4
+464,Ole,Johnson,41,M,M,40000,0,0,Graduate D,Clerical,0,0,Los Angeles,ND,58712,4
+465,Ingrid,Anderson,49,S,F,40000,4,3,High Schoo,Skilled Manual,0,3,Redmond,MN,56310,1
+466,Katrin,Hanson,53,M,F,50000,2,0,Partial Hi,Skilled Manual,1,2,Oregon City,SD,57221,1
+467,John,Anderson,34,S,M,30000,0,0,High Schoo,Skilled Manual,1,2,Seattle,MN,55767,1
+468,Katrin,Carlson,37,S,F,10000,0,0,Partial Hi,Manual,1,2,Olympia,MN,56051,1
+469,Ole,Larson,61,M,M,50000,2,1,Partial Co,Professional,1,2,Glendale,ND,58169,4
+470,Erik,Carlson,45,M,M,20000,2,2,High Schoo,Manual,1,1,Bremerton,MN,56393,1
+471,Inga,Larson,40,M,F,60000,1,0,Graduate D,Professional,0,0,Bothell,MN,56083,1
+472,Hans,Johnson,68,S,M,80000,5,0,Bachelors,Management,0,2,Burlingame,ND,58799,4
+473,Inga,Anderson,35,S,F,40000,0,0,High Schoo,Skilled Manual,1,2,W. Linn,SD,57057,1
+474,Erik,Olson,71,S,M,90000,5,0,Bachelors,Management,0,2,Colma,ND,58113,4
+475,Erik,Johnson,34,S,M,70000,0,0,High Schoo,Management,0,2,National City,ND,58849,4
+476,Carl,Carlson,49,S,M,10000,1,1,High Schoo,Manual,1,0,Burien,MN,56314,1
+477,Hans,Hanson,33,M,M,30000,0,0,Partial Hi,Clerical,1,2,Kenmore,MN,56432,1
+478,Carl,Johnson,56,M,M,40000,3,0,Partial Hi,Clerical,1,2,Duvall,MN,56398,1
+479,Kirsten,Hanson,40,S,F,50000,1,1,Bachelors,Skilled Manual,0,1,Lynnwood,MN,56487,1
+480,Kirsten,Johnson,48,M,F,90000,2,1,Partial Co,Professional,1,1,Mcdonough,WY,82459,5
+481,Carl,Olson,40,S,M,100000,0,5,Partial Hi,Professional,0,4,Billings,MT,59101,0
+482,Ella,Anderson,38,M,F,50000,1,1,Graduate D,Skilled Manual,1,0,Lakewood,ND,58777,4
+483,Erik,Carlson,54,S,M,70000,3,0,Partial Co,Professional,0,2,Oakland,ND,58183,4
+484,Katrin,Johnson,33,S,F,60000,1,0,Graduate D,Professional,1,0,Everett,MN,55898,1
+485,John,Hanson,49,S,M,50000,2,0,Partial Hi,Skilled Manual,0,2,Issaquah,MN,55895,1
+486,Hans,Olson,42,M,M,110000,1,1,Graduate D,Management,0,3,Burbank,OH,44214,3
+487,Ingrid,Larson,53,M,F,70000,2,1,Partial Co,Professional,1,0,Tampa,WI,54373,5
+488,Inga,Carlson,66,S,F,80000,5,0,Bachelors,Management,1,2,Lake Oswego,SD,57044,1
+489,Kirsten,Johnson,38,S,F,50000,1,1,Graduate D,Skilled Manual,0,0,Mcdonough,WY,82584,5
+490,Ingrid,Larson,66,S,F,30000,2,0,Partial Co,Clerical,0,2,Milwaukie,SD,57769,1
+491,Ole,Anderson,44,M,M,40000,0,0,Bachelors,Skilled Manual,1,0,Bellflower,ND,58144,4
+492,Carl,Carlson,33,M,M,50000,0,0,Partial Co,Skilled Manual,1,2,Coronado,ND,58707,4
+493,Ingrid,Olson,50,S,F,40000,4,2,High Schoo,Skilled Manual,0,2,Lebanon,SD,57706,1
+494,Kirsten,Larson,45,S,F,30000,2,2,Partial Co,Clerical,0,0,Carrollton,OH,43420,4
+495,John,Johnson,33,S,M,50000,3,3,Bachelors,Skilled Manual,1,0,Everett,MN,55509,1
+496,Kirsten,Anderson,38,S,F,10000,0,0,Partial Hi,Manual,0,2,Concord,ND,58310,4
+497,Katrin,Olson,37,S,F,50000,0,0,Graduate D,Skilled Manual,1,0,Beaverton,SD,57781,1
+498,Inga,Larson,49,M,F,40000,4,3,High Schoo,Skilled Manual,1,3,Redmond,MN,55898,1
+499,John,Carlson,64,M,M,60000,4,0,Bachelors,Management,1,2,Citrus Heights,ND,58276,4
+500,Inga,Johnson,73,S,F,130000,2,3,Bachelors,Management,0,4,Glendale,ND,58164,4
+501,Inga,Johnson,66,M,F,70000,5,1,High Schoo,Professional,1,2,Anacortes,MN,55312,1
+502,Ella,Hanson,59,M,F,30000,3,0,High Schoo,Skilled Manual,0,2,Sarasota,WI,54969,5
+503,Carl,Johnson,42,S,M,70000,5,5,Bachelors,Professional,1,3,Yakima,MN,55131,1
+504,Erik,Johnson,39,S,M,60000,1,0,Graduate D,Professional,0,0,Lincoln Acres,ND,58337,4
+505,Kirsten,Johnson,51,S,F,70000,5,5,Graduate D,Professional,0,3,Bradenton,WI,53743,5
+506,Ole,Larson,36,M,M,110000,0,5,Partial Co,Management,1,3,Gulfport,NE,69240,5
+507,Kirsten,Anderson,34,M,F,30000,0,0,High Schoo,Skilled Manual,1,2,Salem,SD,57230,1
+508,Ingrid,Larson,51,S,F,20000,3,0,Partial Hi,Manual,1,2,Chula Vista,ND,58270,4
+509,Carl,Olson,75,S,M,40000,3,0,Partial Co,Professional,1,2,Lemon Grove,ND,58238,4
+510,Inga,Anderson,59,M,F,70000,5,2,Partial Hi,Skilled Manual,1,2,Olympia,MN,55295,1
+511,Erik,Anderson,31,S,M,20000,0,0,Partial Hi,Manual,1,2,Colma,ND,58270,4
+512,Ingrid,Olson,60,S,F,50000,2,1,Partial Co,Professional,0,2,National City,ND,58345,4
+513,Erik,Olson,55,S,M,30000,1,0,High Schoo,Clerical,0,1,Portland,SD,57274,1
+514,Erik,Larson,67,M,M,90000,5,0,Bachelors,Management,1,2,Citrus Heights,ND,58253,4
+515,Erik,Johnson,35,S,M,50000,0,0,High Schoo,Skilled Manual,0,2,San Diego,ND,58658,4
+516,Carl,Larson,72,S,M,10000,2,0,Bachelors,Clerical,0,1,Concord,ND,58057,4
+517,Katrin,Hanson,54,M,F,90000,2,1,Partial Co,Professional,1,1,Everett,MN,56690,1
+518,Erik,Hanson,53,M,M,50000,1,0,Partial Co,Skilled Manual,0,1,Kenmore,MN,56527,1
+519,Sven,Larson,63,M,M,50000,5,0,Bachelors,Management,1,3,Imperial Beach,ND,58143,4
+520,Ole,Hanson,56,S,M,50000,2,0,Partial Hi,Skilled Manual,1,2,Duluth,MN,55802,3
+521,Katrin,Olson,49,M,F,20000,1,1,Partial Co,Manual,1,0,Bell Gardens,ND,58314,4
+522,Erik,Olson,50,M,M,40000,4,2,High Schoo,Skilled Manual,1,2,Walla Walla,MN,56704,1
+523,Inga,Johnson,32,M,F,50000,0,0,Partial Co,Skilled Manual,1,1,Lakewood,ND,58855,4
+524,John,Olson,48,M,M,10000,1,0,Graduate D,Manual,1,0,Concord,ND,58491,4
+525,Kirsten,Anderson,45,M,F,90000,4,4,Partial Co,Professional,0,3,Concord,ND,58143,4
+526,Erik,Larson,35,S,M,20000,0,0,High Schoo,Manual,0,1,Daly City,ND,58134,4
+527,John,Johnson,48,S,M,10000,1,0,Graduate D,Manual,0,0,Bremerton,MN,56003,1
+528,Hans,Anderson,36,M,M,30000,0,0,Partial Co,Clerical,0,1,Colma,ND,58284,4
+529,Erika,Anderson,51,M,F,90000,1,0,Bachelors,Professional,0,1,Cheyenne,WY,82001,3
+530,Ingrid,Olson,32,S,F,20000,0,0,Partial Co,Manual,0,0,Concord,ND,58528,4
+531,Inga,Carlson,47,S,F,40000,1,0,Bachelors,Skilled Manual,1,0,Chula Vista,ND,58815,4
+532,John,Anderson,77,S,M,90000,4,0,Bachelors,Management,0,1,City Of Commerce,ND,58810,4
+533,Erik,Hanson,57,S,M,90000,4,2,Partial Co,Professional,0,2,Lake Oswego,SD,57400,1
+534,Sven,Hanson,38,M,M,50000,1,1,Graduate D,Skilled Manual,1,0,Spokane,MN,55156,1
+535,Sven,Johnson,44,S,M,60000,0,0,Graduate D,Professional,1,0,Lynnwood,MN,56403,1
+536,Ole,Olson,60,S,M,10000,2,1,Partial Hi,Clerical,1,3,Portland,SD,57236,1
+537,Erik,Olson,33,M,M,30000,0,0,Partial Hi,Clerical,1,2,Colma,ND,58240,4
+538,Ole,Hanson,48,S,M,40000,1,0,Partial Co,Clerical,1,1,Chula Vista,ND,58302,4
+539,Erika,Carlson,38,S,F,120000,0,5,Partial Hi,Professional,1,4,Burlingame,ND,58329,4
+540,Erika,Anderson,37,S,F,50000,1,0,Graduate D,Skilled Manual,1,0,Woodburn,SD,57015,1
+541,John,Olson,37,S,M,70000,0,0,Partial Co,Professional,0,2,Oregon City,SD,57321,1
+542,Hans,Larson,44,M,M,90000,0,0,Bachelors,Professional,1,0,Palo Alto,ND,58187,4
+543,Erika,Olson,44,M,F,80000,5,5,Graduate D,Management,0,3,Edmonds,MN,55904,1
+544,Hans,Anderson,70,S,M,130000,2,3,Bachelors,Management,0,4,Colma,ND,58586,4
+545,Inga,Hanson,41,S,F,30000,1,0,Bachelors,Clerical,1,0,Chula Vista,ND,58306,4
+546,Carl,Carlson,53,S,M,50000,5,0,Bachelors,Management,1,3,Lake Oswego,SD,57246,1
+547,John,Carlson,51,S,M,20000,2,0,Partial Co,Manual,0,1,Colma,ND,58029,4
+548,Ole,Olson,40,S,M,80000,4,4,Graduate D,Management,1,1,Colma,ND,58591,4
+549,Katrin,Hanson,44,S,F,110000,0,0,Graduate D,Management,0,3,Palo Alto,ND,58413,4
+550,Erika,Olson,64,M,F,60000,4,0,Bachelors,Management,0,2,Concord,ND,58400,4
+551,Ole,Anderson,36,S,M,70000,5,5,Bachelors,Professional,1,3,Colma,ND,58479,4
+552,Ingrid,Johnson,59,M,F,20000,2,1,Partial Hi,Clerical,1,2,Portland,SD,57574,1
+553,Carl,Carlson,46,M,M,50000,4,2,Bachelors,Skilled Manual,0,2,Colma,ND,58650,4
+554,John,Carlson,41,M,M,40000,0,0,Graduate D,Clerical,1,0,Colma,ND,58147,4
+555,Ella,Hanson,33,S,F,100000,0,5,High Schoo,Management,1,3,Concord,ND,58329,4
+556,Sven,Carlson,51,M,M,70000,1,0,Graduate D,Professional,1,1,Spring Valley,ND,58465,4
+557,Hans,Carlson,51,M,M,70000,2,0,Graduate D,Professional,1,1,Bellingham,MN,55802,1
+558,Ole,Larson,38,M,M,40000,4,4,Partial Co,Clerical,0,2,Spokane,MN,55301,1
+559,Ingrid,Olson,36,S,F,40000,3,3,Partial Co,Clerical,1,2,Colma,ND,58586,4
+560,Kirsten,Carlson,63,M,F,50000,2,1,Bachelors,Management,1,1,Ballard,MN,55505,1
+561,Hans,Anderson,58,S,M,20000,2,0,Partial Co,Manual,1,1,Chula Vista,ND,58473,4
+562,Ella,Hanson,30,S,F,30000,0,0,High Schoo,Skilled Manual,1,2,Upland,ND,58709,4
+563,Kirsten,Larson,42,M,F,50000,2,2,Bachelors,Skilled Manual,1,1,San Gabriel,ND,58808,4
+564,Ole,Johnson,34,S,M,30000,0,0,Partial Co,Clerical,0,1,Bremerton,MN,56727,1
+565,John,Hanson,37,S,M,50000,0,0,Graduate D,Skilled Manual,1,0,Colma,ND,58272,4
+566,Erik,Anderson,44,M,M,50000,0,0,Graduate D,Skilled Manual,1,0,Palo Alto,ND,58541,4
+567,John,Larson,51,S,M,50000,4,0,Graduate D,Skilled Manual,0,0,Colma,ND,58332,4
+568,Sven,Hanson,38,M,M,70000,4,0,Graduate D,Professional,1,0,Oregon City,SD,57309,1
+569,Carl,Johnson,49,M,M,60000,1,0,Partial Co,Skilled Manual,1,1,Palo Alto,ND,58434,4
+570,Kirsten,Olson,32,S,F,30000,0,0,High Schoo,Manual,0,1,Burlingame,ND,58184,4
+571,Carl,Johnson,64,M,M,70000,5,0,Bachelors,Management,1,2,Gilroy,ND,58509,4
+572,Ole,Carlson,43,M,M,50000,0,0,Partial Co,Skilled Manual,1,1,Sherman Oaks,ND,58412,4
+573,Carl,Olson,32,M,M,40000,0,0,Partial Hi,Clerical,0,2,Coronado,ND,58139,4
+574,Inga,Hanson,66,S,F,80000,5,0,Bachelors,Management,1,2,Colma,ND,58510,4
+575,John,Johnson,36,S,M,30000,0,0,Partial Co,Clerical,1,1,Altamonte Springs,WI,53518,5
+576,Carl,Carlson,46,M,M,10000,3,2,Partial Hi,Manual,1,1,Los Angeles,ND,58454,4
+577,John,Larson,63,S,M,50000,2,1,Partial Co,Professional,0,1,Imperial Beach,ND,58172,4
+578,Hans,Carlson,55,M,M,110000,3,4,Partial Co,Professional,1,4,Colma,ND,58842,4
+579,Kirsten,Johnson,42,S,F,40000,0,0,Graduate D,Clerical,1,0,Spring Valley,ND,58277,4
+580,Ole,Johnson,56,S,M,110000,3,4,Bachelors,Management,1,4,Colma,ND,58809,4
+581,Carl,Hanson,46,S,M,80000,4,3,Partial Co,Professional,1,2,Novato,ND,58233,4
+582,Hans,Larson,36,M,M,30000,0,0,Partial Co,Clerical,0,1,Baltimore,WY,82439,2
+583,Carl,Hanson,35,M,M,30000,0,0,Partial Co,Clerical,1,1,Torrance,ND,58728,4
+584,Inga,Anderson,44,M,F,30000,1,1,Bachelors,Clerical,1,1,Milpitas,ND,58680,4
+585,Carl,Carlson,30,S,M,50000,0,0,High Schoo,Skilled Manual,0,2,Milwaukie,SD,57530,1
+586,John,Carlson,53,S,M,50000,2,0,High Schoo,Professional,0,2,Chula Vista,ND,58802,4
+587,Carl,Hanson,50,S,M,90000,2,1,High Schoo,Professional,1,1,Everett,MN,55400,1
+588,Ole,Hanson,44,M,M,30000,2,2,Partial Co,Manual,1,0,Bellflower,ND,58748,4
+589,Katrin,Carlson,34,S,F,50000,0,0,Partial Co,Skilled Manual,0,1,New York,MN,56058,2
+590,John,Carlson,67,M,M,20000,2,0,Partial Co,Manual,1,0,Bremerton,MN,55940,1
+591,Kirsten,Johnson,59,S,F,50000,2,1,High Schoo,Professional,1,2,Issaquah,MN,55564,1
+592,Inga,Carlson,44,S,F,40000,0,0,Bachelors,Skilled Manual,0,0,Seattle,MN,56220,1
+593,Kirsten,Larson,42,S,F,90000,4,4,Partial Co,Skilled Manual,1,2,Bremerton,MN,55778,1
+594,John,Olson,44,M,M,10000,4,4,Partial Hi,Manual,1,2,Chula Vista,ND,58106,4
+595,Katrin,Johnson,50,S,F,10000,1,1,High Schoo,Manual,0,0,Colma,ND,58535,4
+596,Kirsten,Johnson,47,M,F,20000,3,3,High Schoo,Manual,0,1,Baytown,OH,44040,4
+597,John,Johnson,38,M,M,50000,1,1,Graduate D,Skilled Manual,1,0,Chula Vista,ND,58525,4
+598,Inga,Hanson,69,S,F,70000,5,0,Graduate D,Management,1,2,Milwaukie,SD,57171,1
+599,Carl,Larson,35,S,M,60000,0,0,Partial Hi,Skilled Manual,0,3,Concord,ND,58368,4
+600,Katrin,Anderson,37,S,F,50000,0,0,Graduate D,Skilled Manual,0,0,Sedro Woolley,MN,56277,1
+601,Ella,Larson,63,S,F,100000,3,4,High Schoo,Management,0,4,Chula Vista,ND,58112,4
+602,John,Olson,38,M,M,90000,0,0,Partial Hi,Professional,0,3,Colma,ND,58832,4
+603,Ella,Carlson,49,M,F,50000,1,0,Partial Co,Skilled Manual,1,1,Novi,WY,82453,0
+604,Kirsten,Carlson,40,S,F,30000,2,2,Partial Co,Clerical,1,0,Carrollton,OH,43211,4
+605,Hans,Olson,37,M,M,50000,0,0,Graduate D,Skilled Manual,1,0,Chula Vista,ND,58817,4
+606,John,Hanson,75,S,M,40000,3,0,Partial Co,Professional,0,2,Concord,ND,58505,4
+607,John,Larson,67,M,M,40000,2,0,Bachelors,Management,0,2,Chula Vista,ND,58538,4
+608,Hans,Anderson,48,M,M,60000,1,0,Partial Co,Skilled Manual,0,1,Newport Beach,ND,58337,4
+609,Sven,Larson,67,S,M,70000,5,0,Bachelors,Management,1,2,Atlanta,WY,82732,5
+610,Hans,Olson,49,M,M,30000,4,0,Graduate D,Clerical,1,0,Seattle,MN,56390,1
+611,John,Carlson,48,M,M,60000,1,0,Bachelors,Professional,1,1,Monroe,WY,82620,0
+612,John,Larson,72,M,M,50000,3,0,Graduate D,Management,1,2,Carnation,MN,55289,1
+613,Ella,Olson,39,M,F,50000,1,1,Graduate D,Skilled Manual,0,0,Woodburn,SD,57272,1
+614,Ole,Hanson,33,S,M,40000,0,0,Partial Hi,Clerical,0,2,Bellingham,MN,55131,1
+615,Sven,Hanson,61,S,M,10000,2,1,High Schoo,Skilled Manual,0,2,La Jolla,ND,58522,4
+616,Hans,Carlson,62,M,M,30000,3,0,Partial Co,Clerical,0,2,Milwaukie,SD,57721,1
+617,Ole,Anderson,59,S,M,60000,2,1,Partial Co,Professional,0,1,Duvall,MN,56291,1
+618,Inga,Olson,42,M,F,30000,1,1,Bachelors,Clerical,1,0,Coronado,ND,58028,4
+619,Erik,Carlson,32,S,M,30000,0,0,High Schoo,Manual,1,1,Santa Monica,ND,58275,4
+620,John,Johnson,46,S,M,50000,4,4,Bachelors,Skilled Manual,1,3,Idaho Falls,IA,51001,0
+621,Hans,Hanson,53,M,M,70000,2,1,Partial Co,Professional,1,0,El Segundo,ND,58302,4
+622,Erik,Larson,51,S,M,100000,1,1,Bachelors,Management,0,3,Portland,SD,57088,1
+623,Ella,Anderson,74,S,F,40000,3,0,Partial Co,Professional,0,2,Concord,ND,58437,4
+624,Sven,Anderson,44,S,M,50000,0,0,Graduate D,Skilled Manual,1,0,Everett,MN,56657,1
+625,Erika,Carlson,40,S,F,40000,2,0,Partial Co,Clerical,1,1,Bothell,MN,56638,1
+626,Ole,Olson,34,S,M,40000,0,0,High Schoo,Skilled Manual,1,2,Concord,ND,58822,4
+627,Carl,Hanson,48,S,M,30000,1,0,Partial Co,Clerical,1,1,Olympia,MN,56416,1
+628,Hans,Olson,57,S,M,70000,4,3,High Schoo,Professional,0,1,Kansas City,NE,68398,0
+629,Erik,Larson,50,S,M,40000,2,0,Partial Co,Clerical,0,1,Hamden,OH,44280,0
+630,John,Carlson,37,M,M,70000,0,0,Partial Co,Professional,1,2,Beverly Hills,ND,58854,4
+631,Carl,Hanson,38,M,M,20000,0,0,Partial Hi,Manual,1,2,Woodburn,SD,57133,1
+632,Hans,Anderson,34,M,M,50000,1,1,Graduate D,Skilled Manual,0,0,Concord,ND,58500,4
+633,Erika,Olson,40,M,F,100000,0,5,Partial Hi,Professional,0,4,Concord,ND,58503,4
+634,Sven,Carlson,39,S,M,80000,0,0,Partial Hi,Professional,1,4,Las Vegas,MT,59086,4
+635,Kirsten,Olson,40,S,F,70000,0,0,Bachelors,Professional,0,1,Seattle,MN,56211,1
+636,John,Carlson,33,S,M,30000,0,0,Partial Hi,Clerical,1,2,Downey,ND,58182,4
+637,Erik,Hanson,49,S,M,50000,2,0,Partial Hi,Skilled Manual,0,2,Chula Vista,ND,58034,4
+638,John,Hanson,46,S,M,50000,4,4,Bachelors,Skilled Manual,0,3,Oakland,ND,58315,4
+639,John,Hanson,44,M,M,120000,0,0,Graduate D,Management,0,3,Bellingham,MN,56743,1
+640,Carl,Carlson,49,M,M,80000,5,4,Partial Co,Professional,0,3,Miami,WI,54665,5
+641,Carl,Johnson,43,S,M,20000,1,1,Partial Co,Manual,1,1,Mill Valley,ND,58598,4
+642,John,Larson,43,M,M,20000,1,1,Partial Co,Manual,1,1,Bellflower,ND,58136,4
+643,Carl,Hanson,44,M,M,70000,4,0,Graduate D,Professional,1,0,Bremerton,MN,55596,1
+644,Ella,Johnson,43,M,F,100000,1,0,Bachelors,Management,1,2,Redwood City,ND,58532,4
+645,John,Anderson,45,S,M,90000,4,4,Partial Co,Professional,0,3,Colma,ND,58520,4
+646,Erika,Anderson,39,M,F,100000,0,5,High Schoo,Management,0,4,Burlingame,ND,58619,4
+647,Sven,Larson,39,M,M,80000,0,0,Partial Hi,Professional,0,4,Concord,ND,58284,4
+648,Inga,Anderson,62,S,F,30000,2,1,Partial Hi,Skilled Manual,1,4,Port Orchard,MN,55122,1
+649,Hans,Carlson,34,M,M,30000,1,1,Bachelors,Skilled Manual,1,2,Los Angeles,ND,58311,4
+650,John,Olson,75,M,M,60000,2,0,Graduate D,Management,1,2,Burlingame,ND,58147,4
+651,Ole,Olson,32,S,M,40000,0,0,Partial Hi,Clerical,0,2,Burbank,OH,44214,3
+652,Erik,Olson,37,S,M,60000,0,0,Partial Co,Skilled Manual,0,2,Marysville,MN,56738,1
+653,Sven,Johnson,71,M,M,70000,5,0,Graduate D,Management,1,2,West Covina,ND,58358,4
+654,Hans,Johnson,33,S,M,30000,0,0,Partial Hi,Clerical,1,2,Kendall,WI,54595,5
+655,Carl,Larson,65,M,M,40000,5,0,High Schoo,Professional,0,2,San Diego,ND,58678,4
+656,Ole,Carlson,41,M,M,90000,1,0,Graduate D,Management,1,0,Yakima,MN,55961,1
+657,Hans,Larson,60,M,M,30000,3,0,Partial Co,Clerical,1,2,Colma,ND,58479,4
+658,Ole,Hanson,61,M,M,30000,4,0,High Schoo,Professional,1,2,Kelso,MN,56632,1
+659,Ole,Johnson,45,S,M,40000,1,0,Bachelors,Skilled Manual,0,0,Olympia,MN,55018,1
+660,Carl,Olson,31,M,M,40000,3,3,Partial Co,Clerical,1,1,Seattle,MN,55200,1
+661,Ole,Johnson,46,M,M,80000,4,3,Partial Co,Professional,1,1,Bellingham,MN,55681,1
+662,Carl,Anderson,42,M,M,50000,2,2,Bachelors,Skilled Manual,1,1,Oregon City,SD,57106,1
+663,Erika,Anderson,43,M,F,70000,4,3,Partial Co,Professional,1,0,San Antonio,OH,43550,4
+664,Erik,Anderson,66,M,M,30000,5,0,Partial Hi,Clerical,1,2,Tacoma,MN,55501,1
+665,Inga,Larson,36,S,F,50000,0,0,High Schoo,Professional,0,2,Chula Vista,ND,58801,4
+666,John,Carlson,57,M,M,50000,3,0,Graduate D,Management,1,2,Racine,WI,53182,0
+667,Ingrid,Olson,74,S,F,30000,2,0,Partial Co,Clerical,1,2,Novato,WY,82070,3
+668,John,Olson,56,S,M,80000,3,2,Partial Co,Professional,0,1,Glendale,ND,58436,4
+669,Carl,Carlson,33,M,M,40000,0,0,Partial Hi,Clerical,1,2,Orlando,WI,53488,5
+670,Sven,Olson,35,S,M,60000,1,0,Graduate D,Professional,0,0,Beaverton,SD,57505,1
+671,John,Anderson,70,S,M,60000,3,0,Graduate D,Management,1,2,Ballard,MN,56572,1
+672,Inga,Johnson,71,S,F,20000,1,0,Bachelors,Clerical,0,0,Daly City,ND,58690,4
+673,Ole,Johnson,53,S,M,50000,2,1,High Schoo,Professional,1,2,National City,ND,58243,4
+674,Katrin,Johnson,31,M,F,30000,0,0,High Schoo,Skilled Manual,1,2,Downey,ND,58084,4
+675,Ole,Johnson,47,S,M,80000,4,3,Partial Co,Professional,0,2,Everett,MN,55108,1
+676,Carl,Johnson,43,S,M,50000,2,2,Bachelors,Skilled Manual,1,1,Tacoma,MN,56672,1
+677,Sven,Johnson,55,M,M,50000,2,0,Partial Hi,Skilled Manual,1,2,Branch,MN,55056,3
+678,Hans,Anderson,46,S,M,50000,4,0,Graduate D,Skilled Manual,1,0,Phoenix,IL,62603,4
+679,Katrin,Johnson,48,S,F,100000,3,2,Partial Co,Professional,1,4,Chula Vista,ND,58066,4
+680,John,Carlson,44,M,M,50000,1,0,Partial Co,Skilled Manual,1,1,National City,ND,58251,4
+681,Kirsten,Larson,43,S,F,20000,1,1,Partial Co,Manual,0,1,Daly City,ND,58670,4
+682,Inga,Olson,75,S,F,60000,2,0,Graduate D,Management,0,2,San Carlos,ND,58566,4
+683,Katrin,Hanson,49,S,F,50000,1,0,Partial Co,Skilled Manual,1,1,Beverly Hills,ND,58714,4
+684,Hans,Larson,41,M,M,70000,5,0,Graduate D,Professional,1,0,Oakland,ND,58183,4
+685,Hans,Hanson,51,M,M,20000,2,0,Partial Co,Manual,1,1,Colma,ND,58646,4
+686,Katrin,Hanson,40,M,F,20000,2,2,High Schoo,Manual,1,1,Kirkland,MN,56085,1
+687,John,Larson,41,S,M,50000,2,2,Bachelors,Skilled Manual,1,0,Lynnwood,MN,55082,1
+688,Ella,Anderson,49,M,F,40000,4,3,High Schoo,Skilled Manual,0,3,Colma,ND,58389,4
+689,Sven,Anderson,48,M,M,70000,2,1,Partial Co,Professional,1,0,Colma,ND,58496,4
+690,Hans,Hanson,38,M,M,70000,0,0,Partial Co,Skilled Manual,1,2,Visalia,ND,58403,4
+691,Erik,Johnson,43,S,M,30000,1,0,Partial Co,Clerical,1,1,Downey,ND,58656,4
+692,Erik,Johnson,60,M,M,40000,2,1,Partial Hi,Skilled Manual,1,2,Bellingham,MN,55939,1
+693,Carl,Hanson,74,M,M,60000,2,0,Graduate D,Management,1,2,Duluth,MN,55802,3
+694,Ella,Larson,30,M,F,10000,0,0,Partial Co,Manual,1,1,Beaverton,SD,57437,1
+695,Erik,Johnson,48,S,M,60000,1,0,Bachelors,Professional,1,1,Newport Hills,MN,55485,1
+696,Erik,Olson,38,S,M,20000,1,1,Partial Co,Manual,0,1,Bellflower,ND,58721,4
+697,Ella,Hanson,54,M,F,10000,2,0,Partial Co,Manual,0,0,Concord,ND,58588,4
+698,John,Johnson,30,M,M,20000,0,0,Partial Hi,Manual,0,2,Snohomish,MN,56660,1
+699,Erika,Olson,47,S,F,100000,0,2,Partial Co,Professional,0,1,Redwood City,ND,58842,4
+700,John,Carlson,44,S,M,70000,4,0,Graduate D,Professional,1,0,Chula Vista,ND,58769,4
+701,Ella,Hanson,48,S,F,10000,1,0,Graduate D,Manual,0,0,Grossmont,ND,58039,4
+702,Carl,Larson,42,M,M,80000,0,0,Bachelors,Management,0,1,Concord,ND,58811,4
+703,Carl,Olson,40,M,M,50000,1,1,Bachelors,Skilled Manual,0,0,Woodburn,SD,57429,1
+704,Ingrid,Hanson,42,S,F,90000,0,0,Partial Co,Professional,1,1,Redwood City,ND,58799,4
+705,Kirsten,Hanson,46,M,F,70000,0,0,Bachelors,Professional,1,1,Palo Alto,ND,58171,4
+706,Ole,Olson,38,S,M,80000,5,5,Graduate D,Management,0,2,Newport Beach,ND,58422,4
+707,Hans,Johnson,36,S,M,60000,1,0,Graduate D,Professional,0,0,San Gabriel,ND,58018,4
+708,John,Larson,65,S,M,50000,5,0,Bachelors,Management,0,2,Nashua,MT,59365,2
+709,Kirsten,Johnson,32,M,F,30000,0,0,Partial Co,Clerical,0,1,Wrentham,WY,82230,2
+710,Inga,Johnson,51,M,F,40000,2,0,Partial Co,Clerical,0,1,Everett,MN,56178,1
+711,Carl,Carlson,68,S,M,90000,5,0,Bachelors,Management,0,2,El Cajon,ND,58397,4
+712,Sven,Anderson,51,M,M,50000,4,0,Graduate D,Skilled Manual,1,0,Concord,ND,58109,4
+713,Ella,Olson,57,M,F,50000,3,0,Graduate D,Management,1,2,West Covina,ND,58097,4
+714,Sven,Larson,34,M,M,60000,0,0,Partial Co,Professional,1,2,Burbank,ND,58691,4
+715,Hans,Larson,49,S,M,50000,2,0,High Schoo,Skilled Manual,0,2,West Covina,ND,58481,4
+716,Kirsten,Larson,63,M,F,60000,5,0,Bachelors,Management,1,3,Chula Vista,ND,58503,4
+717,Sven,Olson,43,S,M,100000,1,0,Bachelors,Management,1,2,Burbank,ND,58838,4
+718,Carl,Anderson,53,S,M,20000,1,0,Bachelors,Clerical,1,0,Seattle,MN,55086,1
+719,John,Johnson,45,M,M,20000,2,2,High Schoo,Manual,1,1,Downey,ND,58728,4
+720,Carl,Johnson,34,S,M,70000,0,0,High Schoo,Management,1,2,Chula Vista,ND,58342,4
+721,Hans,Carlson,73,M,M,60000,3,0,Graduate D,Management,0,2,Lemon Grove,ND,58617,4
+722,John,Olson,44,M,M,40000,0,0,Bachelors,Skilled Manual,1,0,Crossville,IN,47022,5
+723,Ole,Johnson,48,M,M,40000,3,2,High Schoo,Skilled Manual,0,2,Issaquah,MN,55527,1
+724,Erika,Carlson,44,S,F,100000,0,3,Partial Co,Professional,0,2,North Miami Beach,WI,54574,5
+725,Erik,Hanson,49,M,M,70000,5,4,Partial Co,Professional,1,3,Miami,WI,53330,5
+726,Hans,Olson,39,S,M,100000,0,5,High Schoo,Management,1,4,El Cajon,ND,58613,4
+727,Ella,Anderson,48,M,F,20000,1,0,Graduate D,Clerical,1,0,Downey,ND,58073,4
+728,Inga,Anderson,36,M,F,50000,0,0,Graduate D,Skilled Manual,1,0,Palo Alto,ND,58845,4
+729,John,Johnson,51,S,M,50000,4,0,Graduate D,Skilled Manual,0,0,Santa Cruz,ND,58620,4
+730,Ingrid,Johnson,58,M,F,80000,4,1,High Schoo,Professional,1,3,Colma,ND,58489,4
+731,John,Johnson,34,M,M,10000,2,2,High Schoo,Manual,1,0,Nashville,IN,46226,5
+732,Carl,Hanson,48,M,M,40000,3,2,High Schoo,Skilled Manual,1,2,Lincoln Acres,ND,58537,4
+733,Carl,Hanson,40,S,M,40000,2,2,Partial Co,Clerical,1,0,Bellflower,ND,58652,4
+734,Ole,Larson,53,S,M,60000,2,1,Partial Co,Professional,1,1,W. Linn,SD,57799,1
+735,Erik,Hanson,41,S,M,60000,1,0,Graduate D,Professional,0,0,West Kingston,SD,57013,0
+736,Erik,Hanson,32,M,M,70000,0,0,Partial Co,Professional,0,2,Edmonds,MN,56466,1
+737,John,Larson,42,M,M,110000,2,1,Graduate D,Management,0,3,Concord,ND,58215,4
+738,Inga,Anderson,46,S,F,60000,4,4,Bachelors,Professional,1,3,Chula Vista,ND,58217,4
+739,Ole,Anderson,61,S,M,40000,2,1,High Schoo,Professional,0,2,Puyallup,MN,55524,1
+740,John,Olson,48,S,M,10000,1,0,Bachelors,Manual,1,0,Wood Dale,IL,60191,3
+741,John,Larson,43,S,M,70000,5,5,Bachelors,Professional,1,3,Colma,ND,58184,4
+742,Carl,Anderson,38,S,M,110000,0,5,High Schoo,Management,0,4,Lake Oswego,SD,57423,1
+743,Ole,Anderson,35,M,M,20000,0,0,High Schoo,Manual,0,1,Colma,ND,58487,4
+744,Ole,Hanson,45,M,M,70000,5,5,Bachelors,Professional,1,4,Sequim,MN,55507,1
+745,Erik,Olson,49,S,M,50000,1,0,Partial Co,Skilled Manual,1,1,Eureka,ND,58394,4
+746,Carl,Larson,34,S,M,70000,4,0,Graduate D,Professional,0,0,Oregon City,SD,57615,1
+747,Hans,Larson,42,M,M,10000,2,2,High Schoo,Manual,0,1,Bellflower,ND,58029,4
+748,Katrin,Johnson,34,M,F,10000,0,0,Partial Hi,Manual,0,2,Downey,IN,47782,5
+749,Carl,Johnson,41,M,M,20000,0,0,Partial Co,Manual,0,1,Burien,MN,56745,1
+750,Erik,Anderson,48,M,M,60000,1,0,Partial Co,Skilled Manual,1,1,Fontana,ND,58156,4
+751,Ole,Larson,48,S,M,50000,1,0,Partial Co,Skilled Manual,1,1,La Jolla,ND,58520,4
+752,Sven,Johnson,52,S,M,40000,2,0,Partial Co,Clerical,1,1,Long Beach,ND,58351,4
+753,John,Anderson,54,S,M,50000,2,0,Partial Hi,Skilled Manual,0,2,Salem,SD,57218,1
+754,Erika,Anderson,30,M,F,30000,0,0,High Schoo,Skilled Manual,1,2,Concord,ND,58196,4
+755,Ingrid,Johnson,43,S,F,30000,1,1,Bachelors,Clerical,0,1,Coronado,ND,58604,4
+756,Carl,Olson,64,M,M,50000,5,0,Bachelors,Management,1,3,Marysville,MN,56204,1
+757,John,Johnson,47,S,M,70000,0,0,Bachelors,Professional,0,2,Concord,ND,58487,4
+758,Kirsten,Larson,57,S,F,70000,4,3,High Schoo,Professional,1,1,Colma,ND,58794,4
+759,Katrin,Carlson,42,S,F,90000,4,4,Partial Co,Skilled Manual,1,2,Southfield,WY,82897,0
+760,Erik,Hanson,47,M,M,60000,3,2,Graduate D,Professional,1,0,Marysville,MN,56334,1
+761,Erik,Hanson,47,M,M,20000,4,4,High Schoo,Manual,1,1,Downey,ND,58183,4
+762,John,Hanson,45,M,M,70000,0,0,Bachelors,Professional,1,1,Lynnwood,MN,55421,1
+763,Sven,Johnson,50,M,M,100000,0,3,Partial Co,Professional,1,2,Everett,MN,55513,1
+764,John,Anderson,45,M,M,30000,1,1,Bachelors,Skilled Manual,1,2,Austin,OH,45841,4
+765,Ingrid,Anderson,52,M,F,30000,1,0,Graduate D,Clerical,1,0,Westport,OH,45688,0
+766,Carl,Carlson,53,M,M,90000,2,1,Partial Co,Professional,1,1,Marietta,WY,82014,5
+767,Ella,Larson,42,M,F,80000,4,3,Bachelors,Management,0,0,Milwaukie,SD,57056,1
+768,John,Johnson,61,M,M,100000,3,4,Partial Co,Management,0,4,Tacoma,MN,55327,1
+769,Ella,Carlson,51,M,F,60000,4,3,Bachelors,Professional,1,0,Wenatchee,MN,55629,1
+770,John,Hanson,45,M,M,20000,1,1,Partial Co,Manual,0,0,Burlingame,ND,58503,4
+771,Erik,Anderson,41,S,M,50000,2,2,Bachelors,Skilled Manual,0,0,Colma,ND,58117,4
+772,Sven,Carlson,71,M,M,70000,5,0,Graduate D,Management,1,2,Lemon Grove,ND,58735,4
+773,Carl,Larson,57,S,M,70000,4,3,Partial Co,Professional,0,1,Lake Oswego,SD,57291,1
+774,Carl,Johnson,48,M,M,30000,1,0,Partial Co,Clerical,1,1,Colma,ND,58068,4
+775,Erik,Anderson,30,S,M,10000,0,0,Partial Co,Manual,0,1,Baldwin Park,ND,58606,4
+776,Hans,Carlson,39,M,M,50000,0,0,Graduate D,Skilled Manual,1,0,Concord,ND,58510,4
+777,Sven,Carlson,58,M,M,60000,2,1,High Schoo,Professional,1,2,National City,ND,58102,4
+778,Katrin,Olson,64,S,F,30000,5,0,Partial Hi,Skilled Manual,0,4,W. Linn,SD,57292,1
+779,Kirsten,Olson,41,M,F,50000,0,0,Graduate D,Skilled Manual,1,0,Burien,MN,56284,1
+780,Erik,Carlson,52,S,M,60000,3,2,Bachelors,Professional,0,1,Issaquah,MN,56173,1
+781,Carl,Anderson,37,S,M,50000,1,0,Graduate D,Skilled Manual,0,0,Santa Cruz,ND,58376,4
+782,Erika,Anderson,32,M,F,40000,0,0,Partial Hi,Clerical,1,2,Colma,ND,58794,4
+783,Kirsten,Anderson,39,S,F,110000,0,5,Partial Hi,Management,0,4,San Francisco,ND,58386,4
+784,Sven,Hanson,40,S,M,70000,5,5,Graduate D,Professional,1,2,Bellevue,MN,55661,1
+785,Hans,Anderson,56,S,M,50000,2,0,Partial Co,Skilled Manual,0,2,San Diego,ND,58203,4
+786,Ole,Anderson,40,S,M,50000,4,0,Graduate D,Skilled Manual,1,0,Winston-Salem,ND,58772,5
+787,Inga,Anderson,44,M,F,50000,0,0,Graduate D,Skilled Manual,1,0,Camarillo,ND,58196,4
+788,Erika,Carlson,30,M,F,60000,0,0,Partial Hi,Skilled Manual,0,3,Concord,ND,58374,4
+789,Kirsten,Hanson,52,M,F,130000,0,0,Graduate D,Management,1,4,El Segundo,ND,58658,4
+790,Erik,Hanson,63,M,M,30000,2,0,Partial Co,Clerical,0,2,Concord,ND,58024,4
+791,Sven,Johnson,30,S,M,30000,0,0,High Schoo,Skilled Manual,1,2,Lebanon,SD,57086,1
+792,Sven,Carlson,50,S,M,70000,5,4,Partial Co,Skilled Manual,0,3,Chula Vista,ND,58405,4
+793,John,Johnson,30,S,M,10000,0,0,Partial Co,Manual,1,1,Olympia,MN,55276,1
+794,Ole,Larson,49,M,M,10000,1,0,Bachelors,Manual,1,0,Santa Cruz,ND,58121,4
+795,Hans,Carlson,72,M,M,120000,2,4,Graduate D,Management,1,3,Colma,ND,58518,4
+796,Kirsten,Larson,68,M,F,50000,2,0,Graduate D,Management,1,1,Colma,ND,58679,4
+797,Kirsten,Carlson,41,M,F,70000,0,0,Bachelors,Professional,1,2,Bellingham,MN,56732,1
+798,Kirsten,Larson,70,M,F,90000,5,0,Bachelors,Management,1,2,Concord,ND,58596,4
+799,Ella,Johnson,46,S,F,40000,1,0,Bachelors,Skilled Manual,1,0,Los Angeles,ND,58072,4
+800,Ella,Olson,35,S,F,60000,0,0,Partial Hi,Skilled Manual,0,3,Colma,ND,58602,4
+801,Hans,Johnson,42,M,M,60000,2,2,Bachelors,Professional,0,1,Berkeley,ND,58759,4
+802,Erika,Hanson,58,M,F,70000,5,2,Partial Hi,Skilled Manual,1,2,Chula Vista,ND,58274,4
+803,Erika,Olson,56,S,F,100000,3,4,High Schoo,Professional,1,3,Chula Vista,ND,58489,4
+804,Inga,Olson,69,S,F,50000,4,0,Bachelors,Management,0,2,Orlando,WI,53011,5
+805,Kirsten,Larson,45,M,F,50000,3,3,Bachelors,Skilled Manual,1,2,Berkeley,ND,58572,4
+806,Ella,Larson,33,S,F,50000,0,0,Partial Co,Skilled Manual,1,1,Falls Church,ID,83289,5
+807,Erika,Larson,62,M,F,40000,2,1,High Schoo,Professional,1,2,Chehalis,MN,55450,1
+808,Carl,Carlson,52,M,M,30000,3,0,High Schoo,Skilled Manual,1,2,Marysville,MN,55970,1
+809,Ella,Hanson,35,M,F,30000,0,0,Partial Co,Clerical,1,1,Coronado,ND,58095,4
+810,Ella,Carlson,87,M,F,20000,2,0,Partial Co,Manual,0,1,Burien,MN,56549,1
+811,John,Larson,33,M,M,40000,0,0,Partial Hi,Clerical,1,2,San Carlos,ND,58737,4
+812,Sven,Anderson,39,M,M,110000,0,0,Graduate D,Management,1,3,Bellingham,MN,56083,1
+813,John,Larson,30,S,M,20000,0,0,Partial Hi,Manual,0,2,Chula Vista,ND,58041,4
+814,Hans,Carlson,43,S,M,30000,1,1,Bachelors,Clerical,0,1,Mill Valley,ND,58741,4
+815,Hans,Carlson,47,M,M,40000,1,0,Bachelors,Skilled Manual,1,0,Bremerton,MN,55174,1
+816,Inga,Johnson,44,S,F,50000,3,3,Bachelors,Skilled Manual,0,0,Everett,MN,55252,1
+817,Hans,Hanson,46,S,M,40000,1,0,Bachelors,Skilled Manual,0,0,Norwood,WY,83023,2
+818,Carl,Olson,31,M,M,20000,0,0,Partial Hi,Manual,1,2,Colma,ND,58653,4
+819,Ole,Olson,45,M,M,20000,2,2,High Schoo,Manual,1,1,Norridge,IL,60706,3
+820,Carl,Johnson,63,M,M,80000,5,0,Partial Co,Professional,1,2,Everett,MN,55268,1
+821,Carl,Hanson,34,S,M,10000,0,0,High Schoo,Manual,0,2,Chicago,IL,60610,3
+822,Erik,Olson,45,M,M,50000,3,3,Bachelors,Skilled Manual,1,2,Colma,ND,58422,4
+823,Carl,Larson,53,M,M,110000,2,4,Partial Co,Professional,1,4,Lynnwood,MN,56500,1
+824,Katrin,Johnson,35,S,F,40000,3,3,Partial Co,Clerical,1,0,Camarillo,ND,58595,4
+825,Ella,Olson,64,M,F,60000,5,0,Bachelors,Management,0,3,Concord,ND,58148,4
+826,Inga,Johnson,50,S,F,40000,2,0,Partial Co,Clerical,1,1,Everett,MN,56287,1
+827,Erik,Anderson,63,S,M,50000,2,1,Partial Co,Professional,1,1,Augusta,WY,82870,5
+828,Carl,Olson,32,S,M,30000,0,0,High Schoo,Manual,0,1,Concord,ND,58565,4
+829,Kirsten,Larson,72,M,F,120000,2,4,Graduate D,Management,1,3,Colma,ND,58292,4
+830,Carl,Hanson,44,S,M,10000,4,4,Partial Hi,Manual,0,1,Downey,ND,58702,4
+831,Ingrid,Hanson,57,M,F,80000,4,2,Partial Co,Professional,1,2,Lake Oswego,SD,57749,1
+832,Sven,Larson,57,M,M,10000,3,0,Partial Co,Manual,1,2,Houston,OH,43605,4
+833,Ingrid,Johnson,47,S,F,50000,4,2,Bachelors,Professional,0,2,Oregon City,SD,57287,1
+834,Inga,Olson,53,S,F,50000,2,0,Partial Hi,Skilled Manual,0,2,North Randall,OH,44128,3
+835,Carl,Hanson,33,S,M,40000,0,0,High Schoo,Skilled Manual,0,2,Everett,MN,55435,1
+836,Erika,Carlson,30,M,F,30000,0,0,High Schoo,Skilled Manual,0,2,Downey,ND,58824,4
+837,Erika,Hanson,38,M,F,70000,5,5,Bachelors,Professional,1,3,Redmond,MN,55320,1
+838,Ingrid,Hanson,53,S,F,50000,1,0,Partial Co,Skilled Manual,0,1,Concord,ND,58824,4
+839,Katrin,Carlson,43,M,F,120000,0,1,Bachelors,Management,0,4,Lakewood,ND,58191,4
+840,Kirsten,Larson,41,S,F,10000,2,2,High Schoo,Manual,0,0,Spring Valley,ND,58623,4
+841,Inga,Carlson,49,S,F,60000,1,0,Partial Co,Skilled Manual,0,1,Clay,MN,56321,2
+842,Sven,Anderson,35,S,M,50000,0,0,Partial Co,Skilled Manual,1,2,Puyallup,MN,55625,1
+843,John,Larson,32,S,M,40000,0,0,High Schoo,Skilled Manual,0,2,Mesa,IL,61465,4
+844,Kirsten,Carlson,33,M,F,30000,0,0,Partial Co,Clerical,1,1,Saugus,WY,83011,2
+845,Ingrid,Larson,42,M,F,90000,4,4,Partial Co,Skilled Manual,1,2,Colma,ND,58225,4
+846,Ingrid,Olson,71,S,F,60000,3,0,Graduate D,Management,0,2,Cincinnati,OH,45202,3
+847,Ingrid,Larson,52,S,F,60000,1,0,Bachelors,Professional,1,1,Monroe,MN,55177,1
+848,Ingrid,Carlson,59,M,F,50000,2,1,High Schoo,Professional,1,2,Puyallup,MN,55472,1
+849,Ella,Johnson,44,M,F,50000,3,3,Bachelors,Skilled Manual,0,0,San Gabriel,ND,58105,4
+850,Kirsten,Hanson,56,S,F,30000,1,0,High Schoo,Clerical,0,1,Lynnwood,MN,56339,1
+851,Erika,Olson,41,M,F,20000,1,0,Bachelors,Manual,1,0,Memphis,IN,46407,5
+852,Inga,Hanson,45,S,F,70000,2,0,Graduate D,Professional,0,1,Grossmont,ND,58001,4
+853,John,Olson,54,M,M,110000,3,4,Partial Co,Professional,1,4,City Of Commerce,ND,58438,4
+854,Kirsten,Hanson,33,S,F,10000,0,0,High Schoo,Manual,0,2,Santa Cruz,ND,58202,4
+855,Carl,Hanson,36,S,M,40000,3,3,Partial Co,Clerical,1,2,Concord,ND,58260,4
+856,Ole,Anderson,42,M,M,10000,3,3,High Schoo,Manual,0,0,Colma,ND,58701,4
+857,Ingrid,Carlson,44,M,F,70000,4,0,Graduate D,Professional,1,0,Chula Vista,ND,58133,4
+858,Kirsten,Larson,32,M,F,30000,0,0,High Schoo,Manual,1,1,Beaverton,SD,57249,1
+859,Carl,Carlson,40,S,M,30000,0,0,Bachelors,Clerical,1,0,Houston,OH,44051,4
+860,Hans,Anderson,49,S,M,40000,4,3,High Schoo,Skilled Manual,0,3,Concord,ND,58804,4
+861,Kirsten,Larson,41,S,F,50000,0,0,Graduate D,Skilled Manual,0,0,Burlingame,ND,58807,4
+862,Hans,Johnson,56,S,M,130000,3,4,Partial Co,Professional,0,4,Downey,ND,58447,4
+863,Kirsten,Olson,41,M,F,30000,1,1,Bachelors,Skilled Manual,1,2,Denby,SD,57716,0
+864,Kirsten,Larson,52,M,F,50000,4,0,Graduate D,Skilled Manual,1,0,Bellflower,ND,58571,4
+865,Kirsten,Johnson,57,M,F,30000,2,0,Partial Co,Clerical,1,2,Colma,ND,58258,4
+866,Ole,Olson,49,S,M,80000,5,4,Partial Co,Professional,0,3,Miami,WI,53434,5
+867,Sven,Hanson,44,S,M,60000,0,0,Graduate D,Professional,0,1,Olympia,MN,55517,1
+868,Erik,Carlson,57,S,M,80000,4,2,Partial Co,Professional,1,2,Irvine,ND,58267,4
+869,Sven,Anderson,41,M,M,50000,2,2,Bachelors,Skilled Manual,1,0,Lynnwood,MN,55161,1
+870,Erik,Larson,37,S,M,20000,0,0,Partial Hi,Manual,1,2,Coronado,ND,58603,4
+871,Erik,Olson,46,M,M,60000,5,4,Bachelors,Professional,1,0,Washougal,MN,56293,1
+872,Ingrid,Anderson,71,S,F,60000,3,0,Graduate D,Management,0,2,San Carlos,ND,58605,4
+873,Sven,Larson,44,M,M,50000,0,0,Graduate D,Skilled Manual,0,0,Beaverton,SD,57244,1
+874,Carl,Olson,57,M,M,30000,3,0,High Schoo,Skilled Manual,1,2,Huntsville,IA,50026,5
+875,Sven,Anderson,91,M,M,10000,3,0,Bachelors,Clerical,1,2,Los Angeles,ND,58041,4
+876,Ella,Anderson,39,M,F,10000,0,0,Partial Hi,Manual,1,2,Colma,ND,58131,4
+877,Ella,Larson,51,M,F,60000,4,3,Bachelors,Professional,1,0,San Antonio,OH,45532,4
+878,Hans,Larson,43,S,M,20000,1,0,Graduate D,Clerical,1,0,Altadena,ND,58026,4
+879,Ingrid,Larson,53,M,F,30000,2,0,High Schoo,Skilled Manual,1,2,Chicago,IL,60610,3
+880,Erik,Hanson,38,M,M,60000,1,0,Graduate D,Skilled Manual,1,0,Concord,ND,58485,4
+881,John,Carlson,44,M,M,60000,0,0,Graduate D,Professional,0,0,Everett,MN,55346,1
+882,Ingrid,Carlson,79,S,F,20000,2,0,Partial Co,Manual,1,1,Colma,ND,58451,4
+883,Carl,Anderson,73,M,M,10000,2,0,Bachelors,Clerical,0,1,Kirkland,MN,56406,1
+884,Ella,Olson,36,M,F,30000,0,0,Partial Co,Clerical,1,1,Colma,ND,58642,4
+885,Katrin,Olson,39,M,F,50000,1,0,Graduate D,Skilled Manual,1,0,Bothell,MN,55693,1
+886,Erik,Johnson,51,S,M,50000,4,0,Graduate D,Skilled Manual,0,0,Long Beach,ND,58185,4
+887,Erik,Olson,50,M,M,20000,2,0,Partial Co,Manual,1,1,Downey,ND,58661,4
+888,Ingrid,Anderson,32,M,F,50000,0,0,Partial Co,Skilled Manual,1,1,Issaquah,MN,56170,1
+889,Hans,Carlson,39,S,M,30000,0,0,High Schoo,Manual,0,1,Orange,ND,58580,4
+890,Hans,Carlson,44,S,M,50000,0,0,Graduate D,Skilled Manual,0,0,East Haven,OH,45112,0
+891,Ole,Johnson,40,S,M,120000,0,5,Partial Hi,Professional,1,4,Burien,MN,56657,1
+892,Inga,Olson,60,S,F,110000,4,5,Partial Co,Management,1,2,Colma,ND,58445,4
+893,Kirsten,Anderson,32,S,F,50000,0,0,Partial Co,Skilled Manual,0,2,Marysville,MN,56358,1
+894,Erika,Carlson,30,M,F,20000,0,0,Partial Hi,Manual,0,2,Santa Monica,ND,58702,4
+895,Ella,Anderson,42,M,F,50000,2,2,Bachelors,Skilled Manual,1,1,Everett,MN,55710,1
+896,Hans,Johnson,63,M,M,60000,5,0,Bachelors,Management,0,3,Colma,ND,58100,4
+897,Hans,Hanson,35,S,M,20000,0,0,High Schoo,Manual,0,1,Colma,ND,58206,4
+898,Erik,Olson,31,S,M,50000,0,0,Partial Co,Skilled Manual,1,1,Lakewood,ND,58048,4
+899,Ole,Anderson,38,M,M,50000,1,1,Graduate D,Skilled Manual,1,0,Chula Vista,ND,58432,4
+900,John,Anderson,55,S,M,30000,1,0,High Schoo,Clerical,0,2,Portland,SD,57443,1
+901,Carl,Johnson,38,S,M,60000,1,0,Graduate D,Professional,0,0,Warwick,SD,57246,0
+902,Erik,Anderson,37,S,M,110000,1,1,Graduate D,Management,0,3,Bremerton,MN,55094,1
+903,Erik,Carlson,45,M,M,30000,2,2,Partial Co,Clerical,1,1,Colma,ND,58619,4
+904,Ella,Larson,32,M,F,50000,0,0,Partial Co,Skilled Manual,1,1,Lakewood,ND,58333,4
+905,Erika,Larson,71,S,F,50000,3,0,Graduate D,Management,0,2,Olympia,MN,55523,1
+906,Inga,Larson,77,M,F,50000,2,0,Graduate D,Management,1,2,Chula Vista,ND,58678,4
+907,Ingrid,Larson,41,S,F,30000,0,0,Bachelors,Clerical,1,0,Houston,OH,45899,4
+908,Inga,Hanson,38,M,F,60000,0,0,Graduate D,Professional,1,1,Beverly Hills,ND,58777,4
+909,Hans,Hanson,39,M,M,90000,0,0,Partial Hi,Professional,1,4,Colma,ND,58308,4
+910,Hans,Carlson,40,S,M,100000,0,5,High Schoo,Management,0,4,Bellflower,ND,58788,4
+911,Katrin,Anderson,32,S,F,20000,0,0,High Schoo,Manual,0,1,Bremerton,MN,56147,1
+912,Ole,Carlson,62,S,M,90000,4,1,Partial Hi,Skilled Manual,1,4,Chula Vista,ND,58791,4
+913,Carl,Olson,69,S,M,50000,3,0,Bachelors,Management,1,2,Port Orchard,MN,55155,1
+914,Sven,Hanson,44,S,M,60000,0,0,Graduate D,Professional,1,0,Rocky Mount,ND,58590,5
+915,Carl,Carlson,73,M,M,50000,3,0,Graduate D,Management,1,2,Carnation,MN,55116,1
+916,Ole,Anderson,30,S,M,50000,0,0,Partial Co,Skilled Manual,1,1,Kenmore,MN,56697,1
+917,Erika,Larson,46,S,F,40000,1,0,Bachelors,Skilled Manual,0,0,Cedar Park,OH,43623,4
+918,Erik,Olson,36,M,M,80000,0,0,High Schoo,Management,1,3,Woodland Hills,ND,58342,4
+919,Erika,Olson,43,M,F,120000,0,1,Bachelors,Management,1,4,Redwood City,ND,58573,4
+920,Erik,Larson,32,S,M,50000,0,0,Partial Co,Skilled Manual,0,1,Lakewood,ND,58601,4
+921,Ole,Anderson,39,M,M,60000,1,0,Graduate D,Professional,1,0,Sedro Woolley,MN,55888,1
+922,Inga,Olson,39,S,F,60000,1,0,Graduate D,Professional,0,0,Ballard,MN,56152,1
+923,Ella,Larson,43,M,F,10000,3,3,High Schoo,Manual,0,0,Mill Valley,ND,58408,4
+924,Hans,Larson,47,S,M,60000,3,2,Graduate D,Professional,0,0,Marysville,MN,55969,1
+925,Erika,Larson,60,S,F,30000,5,0,Partial Hi,Clerical,0,2,Index,MN,56286,1
+926,John,Johnson,40,S,M,70000,0,0,Bachelors,Professional,1,1,Salem,SD,57514,1
+927,Katrin,Carlson,39,S,F,30000,0,0,Bachelors,Clerical,1,0,Mill Valley,ND,58089,4
+928,Inga,Anderson,31,S,F,90000,0,0,High Schoo,Management,0,3,Tacoma,MN,56071,1
+929,Erik,Olson,38,M,M,30000,0,0,High Schoo,Manual,1,1,Colma,ND,58161,4
+930,Ingrid,Larson,54,M,F,50000,2,0,High Schoo,Skilled Manual,1,2,Walla Walla,MN,55878,1
+931,Ole,Larson,31,S,M,30000,0,0,Partial Hi,Clerical,0,2,Melville,MN,55020,2
+932,Hans,Johnson,49,S,M,70000,4,3,High Schoo,Professional,0,0,Glendale,ND,58025,4
+933,Erika,Johnson,43,S,F,30000,5,0,Graduate D,Clerical,0,0,Burien,MN,56758,1
+934,John,Anderson,33,M,M,110000,0,5,High Schoo,Management,1,4,Burlingame,ND,58170,4
+935,Ella,Larson,56,M,F,50000,2,1,Partial Co,Professional,1,2,W. Linn,SD,57625,1
+936,John,Carlson,31,S,M,10000,1,1,High Schoo,Manual,1,0,Kirkland,MN,56478,1
+937,Katrin,Hanson,43,M,F,30000,1,1,Bachelors,Clerical,1,0,Beaverton,SD,57718,1
+938,Sven,Johnson,50,S,M,40000,2,0,Partial Co,Clerical,1,1,Ballard,MN,55470,1
+939,Katrin,Anderson,48,M,F,50000,1,0,Bachelors,Professional,1,1,Bellingham,MN,55792,1
+940,Ingrid,Johnson,42,S,F,30000,1,0,Bachelors,Clerical,0,0,Colma,ND,58471,4
+941,Ole,Larson,44,M,M,90000,2,0,Bachelors,Professional,1,0,Monroe,MN,55547,1
+942,Ingrid,Olson,64,M,F,30000,2,0,Partial Co,Clerical,1,2,Birmingham,IA,50411,5
+943,Erik,Johnson,72,S,M,50000,3,0,Graduate D,Management,1,2,Carnation,MN,55031,1
+944,Kirsten,Anderson,66,M,F,50000,4,0,Bachelors,Management,0,2,Colma,ND,58003,4
+945,Sven,Hanson,36,M,M,40000,3,3,Partial Co,Clerical,0,1,Concord,ND,58838,4
+946,Ole,Hanson,59,S,M,80000,5,2,High Schoo,Professional,0,2,Columbus,WY,82409,5
+947,Kirsten,Johnson,35,S,F,50000,0,0,Partial Co,Skilled Manual,0,2,Marysville,MN,55174,1
+948,Sven,Anderson,51,S,M,40000,2,0,Partial Co,Clerical,1,1,Lynnwood,MN,55337,1
+949,Hans,Hanson,45,S,M,70000,2,0,Graduate D,Professional,1,1,Woodinville,MN,56449,1
+950,Kirsten,Larson,48,S,F,30000,5,0,Graduate D,Clerical,0,0,Grossmont,ND,58380,4
+951,Sven,Hanson,44,M,M,40000,0,0,Bachelors,Skilled Manual,0,0,Bremerton,MN,55049,1
+952,Sven,Anderson,37,M,M,80000,0,0,Bachelors,Management,1,1,Concord,ND,58635,4
+953,John,Olson,34,M,M,20000,0,0,Partial Hi,Manual,1,1,College Station,OH,43816,4
+954,Erik,Johnson,45,S,M,60000,3,3,Bachelors,Professional,0,1,Bellingham,MN,56577,1
+955,Erik,Larson,45,S,M,90000,4,4,Partial Co,Professional,1,3,Everett,MN,55162,1
+956,Erika,Anderson,48,S,F,60000,1,0,Bachelors,Professional,0,1,Burbank,ND,58128,4
+957,Carl,Olson,39,M,M,50000,1,1,Graduate D,Skilled Manual,1,0,Berkeley,ND,58260,4
+958,Katrin,Anderson,50,S,F,30000,3,0,Bachelors,Clerical,1,0,Spring Valley,ND,58779,4
+959,Ole,Anderson,44,M,M,40000,1,0,Partial Co,Clerical,1,1,Santa Ana,ND,58714,4
+960,Kirsten,Carlson,55,S,F,10000,2,0,Partial Co,Manual,0,1,Burien,MN,56606,1
+961,Ella,Olson,67,S,F,60000,3,0,Graduate D,Management,1,2,W. Linn,SD,57161,1
+962,Ole,Olson,44,S,M,60000,0,0,Graduate D,Professional,1,0,San Gabriel,ND,58677,4
+963,Hans,Carlson,45,M,M,20000,2,2,High Schoo,Manual,1,2,Olympia,MN,56509,1
+964,Ella,Johnson,52,S,F,50000,2,1,Partial Hi,Skilled Manual,1,3,West Covina,ND,58091,4
+965,Ingrid,Larson,42,M,F,90000,4,4,Partial Co,Skilled Manual,1,2,Valley Stream,MN,56680,2
+966,Ella,Anderson,46,M,F,50000,4,2,Bachelors,Skilled Manual,1,2,Issaquah,MN,56393,1
+967,Ole,Hanson,41,S,M,40000,0,0,Graduate D,Clerical,0,0,Burien,MN,56406,1
+968,Kirsten,Olson,49,M,F,60000,1,0,Bachelors,Professional,1,1,Ogden,UT,84401,0
+969,Erika,Johnson,68,S,F,70000,5,0,Bachelors,Management,0,2,Concord,ND,58406,4
+970,Carl,Hanson,44,M,M,50000,0,0,Graduate D,Skilled Manual,0,0,Sand City,ND,58725,4
+971,Ella,Larson,31,M,F,20000,4,4,High Schoo,Manual,1,2,Chula Vista,ND,58263,4
+972,Sven,Anderson,46,M,M,50000,4,2,Bachelors,Skilled Manual,1,2,Colma,ND,58640,4
+973,Katrin,Olson,53,S,F,70000,2,1,Partial Co,Professional,0,0,Colma,ND,58776,4
+974,Carl,Olson,42,S,M,80000,0,0,Bachelors,Management,0,1,W. Linn,SD,57686,1
+975,John,Carlson,60,M,M,40000,2,1,Partial Hi,Skilled Manual,1,3,National City,ND,58779,4
+976,Katrin,Anderson,51,M,F,40000,3,0,Graduate D,Clerical,0,0,Chula Vista,ND,58152,4
+977,Kirsten,Carlson,51,S,F,10000,1,1,High Schoo,Manual,1,1,Millington,IN,46873,5
+978,Ole,Larson,70,S,M,10000,2,0,Bachelors,Clerical,0,1,Beaverton,SD,57315,1
+979,John,Johnson,35,S,M,30000,0,0,Partial Co,Clerical,0,1,Santa Monica,ND,58725,4
+980,Kirsten,Olson,41,M,F,110000,1,1,Graduate D,Management,1,3,Miami,WI,54653,5
+981,Hans,Olson,46,M,M,30000,1,1,Bachelors,Skilled Manual,1,2,Baytown,OH,43743,4
+982,Erik,Hanson,53,S,M,130000,3,4,Partial Co,Professional,1,3,Newport News,ID,83318,5
+983,John,Olson,55,S,M,20000,1,0,Bachelors,Clerical,0,0,Downey,ND,58486,4
+984,Erik,Larson,35,S,M,50000,0,0,High Schoo,Skilled Manual,0,2,Chula Vista,ND,58383,4
+985,John,Anderson,31,S,M,20000,4,4,High Schoo,Manual,1,3,Corvallis,SD,57492,1
+986,John,Olson,41,M,M,60000,2,0,Graduate D,Professional,0,0,Oregon City,SD,57512,1
+987,Carl,Anderson,38,S,M,80000,0,0,Bachelors,Management,0,1,Norwalk,ND,58847,4
+988,Katrin,Anderson,65,M,F,60000,3,1,Partial Hi,Skilled Manual,0,3,Olympia,MN,55467,1
+989,Ole,Carlson,38,S,M,50000,1,1,Graduate D,Skilled Manual,0,0,Great Falls,MT,59401,0
+990,Erik,Hanson,49,M,M,30000,4,0,Graduate D,Clerical,1,0,Colma,ND,58672,4
+991,Hans,Johnson,43,M,M,80000,5,5,Bachelors,Professional,1,4,Bellingham,MN,55629,1
+992,Hans,Larson,41,S,M,60000,1,0,Graduate D,Professional,0,0,Charlotte,ND,58269,5
+993,John,Johnson,58,M,M,120000,4,5,Bachelors,Management,1,3,Olympia,MN,56593,1
+994,John,Larson,36,S,M,20000,0,0,Partial Co,Manual,1,1,Chula Vista,ND,58113,4
+995,Hans,Anderson,37,S,M,90000,0,0,High Schoo,Management,0,3,Concord,ND,58334,4
+996,Carl,Larson,46,M,M,50000,4,4,Bachelors,Skilled Manual,0,3,Beverly Hills,ND,58807,4
+997,John,Hanson,47,M,M,30000,2,2,Partial Co,Clerical,1,2,Torrance,ND,58063,4
+998,John,Carlson,40,S,M,90000,2,0,Bachelors,Professional,1,0,Concord,ND,58717,4
+999,Sven,Olson,59,M,M,50000,2,1,High Schoo,Professional,0,2,Marysville,MN,56566,1
+1000,Erik,Anderson,32,M,M,10000,0,0,Partial Co,Manual,1,1,Downey,ND,58175,4
+1001,John,Larson,38,S,M,100000,0,5,High Schoo,Management,0,3,El Cajon,ND,58470,4
+1002,Carl,Larson,42,S,M,30000,1,0,Bachelors,Clerical,1,0,Campbellsville,MT,59773,0
+1003,John,Olson,40,M,M,40000,2,2,Partial Co,Clerical,1,2,San Ramon,ND,58535,4
+1004,Katrin,Carlson,36,M,F,40000,3,3,Partial Co,Clerical,1,2,Lynnwood,MN,56013,1
+1005,Erika,Anderson,29,M,F,30000,0,0,High Schoo,Skilled Manual,1,2,Lebanon,SD,57785,1
+1006,Ole,Hanson,62,S,M,40000,2,1,High Schoo,Professional,1,2,Lake Oswego,SD,57647,1
+1007,Katrin,Carlson,39,M,F,50000,1,1,Graduate D,Skilled Manual,1,0,Lynnwood,MN,55393,1
+1008,Ole,Olson,40,M,M,50000,1,1,Bachelors,Skilled Manual,0,1,Colma,ND,58590,4
+1009,Kirsten,Larson,35,M,F,40000,0,0,Graduate D,Clerical,1,0,Lynnwood,MN,56490,1
+1010,John,Olson,49,M,M,40000,4,2,High Schoo,Skilled Manual,1,2,Edmonds,MN,56295,1
+1011,Ingrid,Anderson,52,S,F,50000,2,1,High Schoo,Professional,0,2,Marysville,MN,55636,1
+1012,Hans,Larson,31,M,M,30000,3,3,Partial Co,Clerical,1,2,Tuscola,IL,61953,3
+1013,John,Carlson,68,M,M,60000,3,0,Graduate D,Management,1,2,West Covina,ND,58777,4
+1014,Erik,Anderson,36,M,M,100000,1,0,Graduate D,Management,0,0,Colma,ND,58278,4
+1015,Ole,Johnson,52,S,M,30000,1,0,Graduate D,Clerical,0,0,Nashville,IN,46250,5
+1016,Sven,Larson,30,S,M,40000,0,0,High Schoo,Skilled Manual,0,2,Duvall,MN,56454,1
+1017,Ella,Johnson,66,M,F,60000,4,0,Graduate D,Management,1,2,Burbank,ND,58318,4
+1018,Sven,Larson,58,M,M,50000,2,1,High Schoo,Professional,1,2,Issaquah,MN,55608,1
+1019,Ole,Hanson,31,M,M,40000,0,0,High Schoo,Skilled Manual,0,2,Kenmore,MN,56249,1
+1020,Ingrid,Anderson,42,M,F,50000,4,2,Bachelors,Professional,1,2,Issaquah,MN,56226,1
+1021,Kirsten,Anderson,51,S,F,40000,2,0,Partial Co,Clerical,0,1,Sedro Woolley,MN,56144,1
+1022,Hans,Hanson,45,S,M,50000,3,3,Bachelors,Skilled Manual,1,3,Chula Vista,ND,58603,4
+1023,Hans,Larson,68,S,M,20000,1,0,Partial Co,Manual,1,0,Colma,ND,58852,4
+1024,Kirsten,Anderson,67,S,F,10000,3,0,Partial Co,Manual,0,1,Indianapolis,MT,59667,3
+1025,Ingrid,Olson,70,S,F,50000,3,0,Bachelors,Management,0,2,Carnation,MN,55779,1
+1026,Ella,Carlson,49,M,F,80000,5,4,Partial Co,Professional,1,3,Everett,MN,56759,1
+1027,John,Anderson,50,M,M,70000,5,4,Partial Co,Skilled Manual,1,3,Burbank,ND,58670,4
+1028,Kirsten,Anderson,50,S,F,50000,2,1,Partial Co,Professional,0,2,San Francisco,ND,58425,4
+1029,Ole,Johnson,51,S,M,110000,3,4,Bachelors,Management,1,4,Bellevue,MN,56026,1
+1030,Erik,Johnson,67,M,M,30000,1,0,Bachelors,Clerical,1,0,Chula Vista,ND,58689,4
+1031,Carl,Carlson,67,S,M,50000,2,0,Graduate D,Management,0,1,Redford,WY,83030,0
+1032,Inga,Olson,68,S,F,50000,4,0,Bachelors,Management,0,2,Bellingham,MN,55945,1
+1033,Hans,Olson,53,S,M,30000,2,0,High Schoo,Skilled Manual,0,2,Chicago,IL,60610,3
+1034,Kirsten,Carlson,34,S,F,20000,0,0,High Schoo,Manual,1,1,Maryville,IN,47188,5
+1035,Hans,Anderson,39,S,M,40000,2,2,Partial Co,Clerical,0,2,Chula Vista,ND,58472,4
+1036,Kirsten,Johnson,39,S,F,40000,2,2,Partial Co,Clerical,0,1,Lincoln Acres,ND,58747,4
+1037,Ingrid,Carlson,44,S,F,60000,1,0,Bachelors,Professional,1,1,Concord,ND,58331,4
+1038,Sven,Johnson,55,S,M,40000,1,0,Partial Co,Clerical,1,1,Colma,ND,58321,4
+1039,Ella,Anderson,65,S,F,50000,5,0,Bachelors,Management,1,2,Lake Oswego,SD,57518,1
+1040,Kirsten,Olson,43,S,F,10000,2,0,Partial Co,Manual,0,0,Burien,MN,56227,1
+1041,Kirsten,Olson,50,M,F,50000,4,0,Graduate D,Skilled Manual,1,0,Chula Vista,ND,58487,4
+1042,Ella,Carlson,51,S,F,20000,2,0,Partial Co,Manual,1,1,Burien,MN,56158,1
+1043,Hans,Anderson,43,M,M,40000,0,0,Bachelors,Skilled Manual,1,0,Chula Vista,ND,58341,4
+1044,Erika,Larson,35,M,F,90000,0,0,High Schoo,Management,1,2,Colma,ND,58198,4
+1045,Erika,Olson,47,M,F,70000,0,0,Bachelors,Professional,1,1,Torrance,ND,58183,4
+1046,Hans,Hanson,40,M,M,20000,2,2,High Schoo,Manual,0,1,Kirkland,MN,55077,1
+1047,Ingrid,Hanson,54,S,F,40000,1,0,Partial Co,Clerical,0,1,Colma,ND,58240,4
+1048,Inga,Anderson,35,S,F,10000,0,0,Partial Hi,Manual,0,2,Burien,MN,55213,1
+1049,Ingrid,Larson,46,M,F,30000,2,2,Partial Co,Manual,1,0,Olympia,MN,55798,1
+1050,Kirsten,Larson,33,S,F,30000,0,0,Partial Co,Clerical,1,1,Corvallis,SD,57040,1
+1051,Inga,Larson,32,S,F,50000,0,0,Partial Co,Skilled Manual,0,2,San Carlos,ND,58613,4
+1052,Carl,Olson,48,M,M,50000,1,0,Bachelors,Professional,0,1,Portland,SD,57452,1
+1053,Hans,Johnson,32,S,M,30000,0,0,Partial Hi,Clerical,0,2,Bellingham,MN,56281,1
+1054,Hans,Olson,46,M,M,50000,4,4,Bachelors,Skilled Manual,1,3,San Gabriel,ND,58602,4
+1055,Carl,Johnson,42,S,M,20000,1,1,Partial Co,Manual,1,0,Santa Cruz,ND,58785,4
+1056,Hans,Anderson,38,M,M,120000,0,0,Graduate D,Management,1,2,Bellingham,MN,55476,1
+1057,Ella,Hanson,48,S,F,80000,5,4,Partial Co,Professional,0,3,Everett,MN,55849,1
+1058,Ingrid,Larson,48,M,F,60000,1,0,Bachelors,Professional,1,1,Elk Grove,ND,58013,4
+1059,Inga,Hanson,33,S,F,10000,0,0,High Schoo,Manual,1,2,Dallas,OH,45239,4
+1060,Katrin,Olson,53,M,F,120000,2,4,High Schoo,Professional,1,4,Burien,MN,55724,1
+1061,John,Larson,44,S,M,90000,2,0,Bachelors,Professional,1,0,Edmonds,MN,56519,1
+1062,Ole,Larson,44,S,M,90000,2,0,Bachelors,Professional,0,0,Chula Vista,ND,58050,4
+1063,John,Carlson,43,M,M,90000,5,4,Partial Co,Professional,1,3,Colma,ND,58715,4
+1064,Erik,Anderson,77,M,M,90000,4,0,Bachelors,Management,0,1,Burbank,ND,58072,4
+1065,Sven,Olson,57,S,M,40000,2,0,Bachelors,Management,1,1,Lebanon,SD,57717,1
+1066,Ingrid,Johnson,55,M,F,60000,2,0,Partial Hi,Skilled Manual,0,2,Milwaukie,SD,57069,1
+1067,Ingrid,Olson,37,S,F,30000,0,0,High Schoo,Manual,0,1,Spokane,MN,55182,1
+1068,Hans,Johnson,43,S,M,30000,4,0,Graduate D,Clerical,0,0,Colma,ND,58722,4
+1069,Ella,Johnson,31,M,F,30000,3,3,Partial Co,Clerical,0,2,Bremerton,MN,56175,1
+1070,Erika,Anderson,33,S,F,40000,0,0,Partial Hi,Clerical,0,2,San Carlos,ND,58711,4
+1071,Inga,Olson,37,S,F,100000,0,5,High Schoo,Management,1,2,Burlingame,ND,58189,4
+1072,Sven,Anderson,36,M,M,10000,2,2,High Schoo,Manual,1,1,Downey,ND,58152,4
+1073,Ingrid,Olson,42,S,F,10000,3,2,Partial Hi,Manual,1,2,Coronado,ND,58685,4
+1074,Hans,Johnson,32,M,M,40000,0,0,High Schoo,Skilled Manual,1,2,Salem,SD,57126,1
+1075,Ole,Hanson,31,S,M,10000,0,0,Partial Co,Manual,1,1,Dallas,OH,44410,4
+1076,Ole,Olson,39,S,M,60000,0,0,Graduate D,Professional,0,1,Bremerton,MN,55510,1
+1077,John,Olson,57,M,M,20000,2,0,High Schoo,Manual,1,2,Portland,SD,57466,1
+1078,Sven,Hanson,40,S,M,40000,2,2,Partial Co,Clerical,0,2,Bellflower,ND,58725,4
+1079,Ingrid,Larson,38,S,F,100000,0,5,High Schoo,Management,0,3,Lynnwood,MN,55489,1
+1080,Carl,Johnson,38,M,M,90000,0,0,High Schoo,Management,1,3,Bellevue,MN,55351,1
+1081,Erik,Johnson,53,M,M,10000,3,0,Partial Co,Manual,1,2,Colma,ND,58499,4
+1082,Hans,Anderson,51,M,M,40000,2,0,Partial Co,Skilled Manual,1,2,Portland,SD,57284,1
+1083,Ella,Hanson,38,M,F,70000,5,4,Partial Co,Skilled Manual,1,3,Bellingham,MN,56605,1
+1084,Hans,Olson,65,S,M,50000,5,0,Bachelors,Management,0,2,Fullerton,ND,58818,4
+1085,Katrin,Carlson,51,M,F,10000,1,1,High Schoo,Manual,1,1,Garland,OH,45276,4
+1086,John,Anderson,45,S,M,60000,4,4,Bachelors,Professional,1,3,Midland,WY,82672,0
+1087,Erik,Larson,33,M,M,40000,0,0,Partial Hi,Clerical,1,2,Duvall,MN,55130,1
+1088,Inga,Larson,32,M,F,20000,0,0,Bachelors,Clerical,1,0,Colma,ND,58127,4
+1089,Erik,Hanson,49,S,M,70000,5,4,Partial Co,Skilled Manual,1,3,Pontiac,WY,82248,0
+1090,Sven,Anderson,54,M,M,50000,1,0,Partial Co,Skilled Manual,1,1,Salt Lake City,UT,84101,0
+1091,Hans,Hanson,38,M,M,90000,0,0,High Schoo,Management,1,3,Colma,ND,58021,4
+1092,Erik,Larson,42,S,M,40000,0,0,Graduate D,Clerical,0,0,Lynnwood,MN,55957,1
+1093,Sven,Hanson,55,M,M,70000,4,3,High Schoo,Professional,1,1,Colma,ND,58724,4
+1094,Erik,Anderson,36,M,M,100000,0,5,High Schoo,Management,1,2,Bellevue,MN,55230,1
+1095,Sven,Olson,31,M,M,40000,0,0,High Schoo,Skilled Manual,1,2,Concord,ND,58472,4
+1096,Carl,Carlson,37,S,M,30000,0,0,Partial Co,Clerical,0,1,Edmonds,MN,55063,1
+1097,Carl,Johnson,49,S,M,50000,1,0,Partial Co,Skilled Manual,1,1,Walla Walla,MN,56335,1
+1098,Hans,Hanson,44,S,M,80000,5,5,Graduate D,Management,0,3,Newport Beach,ND,58127,4
+1099,Erik,Anderson,55,S,M,40000,1,0,Partial Co,Clerical,1,1,Bellflower,ND,58200,4
+1100,Erika,Carlson,43,S,F,80000,5,5,Graduate D,Management,0,2,Grossmont,ND,58244,4
+1101,Erika,Hanson,36,S,F,10000,0,0,Partial Hi,Manual,0,2,Berkeley,ND,58584,4
+1102,John,Carlson,60,M,M,50000,2,1,Partial Co,Professional,1,2,Glendale,ND,58179,4
+1103,Sven,Carlson,47,M,M,90000,0,0,Partial Co,Professional,1,1,Stafford,OH,44553,4
+1104,Katrin,Hanson,63,M,F,50000,2,1,Partial Co,Professional,0,1,West Covina,ND,58209,4
+1105,John,Carlson,34,S,M,60000,0,0,Partial Hi,Skilled Manual,1,3,Burien,MN,55469,1
+1106,Hans,Carlson,41,S,M,60000,1,0,Graduate D,Professional,0,0,Berkeley,ND,58578,4
+1107,Carl,Olson,51,M,M,50000,4,0,Graduate D,Skilled Manual,1,0,Coronado,ND,58184,4
+1108,John,Johnson,51,M,M,110000,3,4,Bachelors,Management,0,4,Colma,ND,58152,4
+1109,Erika,Anderson,41,M,F,70000,5,5,Graduate D,Professional,1,2,Concord,ND,58394,4
+1110,Sven,Carlson,49,M,M,50000,1,0,Partial Co,Skilled Manual,1,1,Cheyenne,WY,82001,3
+1111,John,Hanson,46,M,M,110000,3,2,Bachelors,Management,1,4,Lakewood,ND,58452,4
+1112,Hans,Olson,45,S,M,80000,0,0,Bachelors,Professional,0,1,Bellingham,MN,55346,1
+1113,Ole,Carlson,33,S,M,10000,1,1,High Schoo,Manual,1,0,Long Beach,ND,58244,4
+1114,Inga,Johnson,38,M,F,40000,2,2,Partial Co,Clerical,0,0,Woodburn,SD,57400,1
+1115,Hans,Hanson,45,S,M,80000,5,5,Bachelors,Professional,1,4,Gilbert,IL,61619,4
+1116,Carl,Carlson,60,M,M,50000,2,1,Partial Co,Professional,1,2,Byron,WY,83063,5
+1117,Ole,Hanson,35,S,M,50000,0,0,High Schoo,Skilled Manual,0,2,Oregon City,SD,57214,1
+1118,Ella,Anderson,58,S,F,20000,2,1,Partial Hi,Clerical,1,2,Duvall,MN,56087,1
+1119,Ole,Larson,52,S,M,120000,5,1,Bachelors,Management,0,4,Branson,NE,69200,0
+1120,Inga,Hanson,45,M,F,40000,1,0,Bachelors,Skilled Manual,0,0,Colma,ND,58318,4
+1121,Kirsten,Johnson,47,M,F,100000,4,0,Bachelors,Management,1,2,Newport Hills,MN,56178,1
+1122,Ole,Carlson,53,M,M,50000,2,0,Partial Hi,Skilled Manual,0,2,Colma,ND,58115,4
+1123,Carl,Olson,59,S,M,60000,2,1,Partial Co,Professional,0,1,Lake Oswego,SD,57599,1
+1124,Erika,Johnson,49,M,F,50000,1,0,Partial Co,Skilled Manual,1,1,Chula Vista,ND,58358,4
+1125,Ingrid,Carlson,41,M,F,70000,5,0,Graduate D,Professional,1,0,Concord,ND,58723,4
+1126,Carl,Carlson,41,M,M,30000,0,0,Bachelors,Clerical,1,0,Los Angeles,ND,58645,4
+1127,Kirsten,Carlson,43,S,F,90000,2,1,High Schoo,Professional,0,2,Lynnwood,MN,55991,1
+1128,Kirsten,Larson,41,S,F,50000,0,0,Graduate D,Skilled Manual,0,0,Burien,MN,55189,1
+1129,Ella,Johnson,43,M,F,10000,3,3,Partial Hi,Manual,1,1,Colma,ND,58614,4
+1130,Carl,Olson,36,S,M,10000,0,0,Partial Hi,Manual,0,2,Downey,ND,58505,4
+1131,Inga,Anderson,54,M,F,50000,5,0,Graduate D,Skilled Manual,1,0,Colma,ND,58313,4
+1132,Carl,Olson,48,S,M,80000,5,4,Partial Co,Professional,0,3,Vista,ND,58174,4
+1133,John,Hanson,31,S,M,40000,0,0,High Schoo,Skilled Manual,1,2,Seattle,MN,56752,1
+1134,Erika,Olson,63,S,F,50000,2,1,Partial Co,Professional,0,1,National City,ND,58127,4
+1135,Ella,Hanson,53,S,F,20000,2,1,Partial Hi,Clerical,0,2,Woodburn,SD,57633,1
+1136,Hans,Carlson,62,M,M,50000,2,1,Partial Co,Professional,0,2,Imperial Beach,ND,58228,4
+1137,Hans,Carlson,50,S,M,70000,5,4,Partial Co,Skilled Manual,1,3,Newport Hills,MN,55585,1
+1138,Katrin,Olson,53,M,F,120000,2,4,High Schoo,Professional,1,4,La Mesa,MT,59010,4
+1139,Kirsten,Larson,33,M,F,20000,0,0,Partial Co,Manual,0,0,Beaverton,SD,57628,1
+1140,Inga,Hanson,34,M,F,20000,0,0,High Schoo,Manual,0,1,Olympia,MN,56340,1
+1141,Erik,Hanson,49,S,M,20000,1,0,Graduate D,Clerical,1,0,Corpus Christi,OH,45607,4
+1142,Katrin,Larson,49,M,F,60000,1,0,Partial Co,Skilled Manual,0,1,Cheyenne,WY,82001,3
+1143,Ingrid,Carlson,51,S,F,20000,2,0,Partial Co,Manual,1,1,Concord,ND,58529,4
+1144,Kirsten,Johnson,35,M,F,90000,0,0,Partial Hi,Professional,1,4,La Jolla,ND,58691,4
+1145,Hans,Hanson,39,S,M,30000,0,0,High Schoo,Manual,1,1,Lynnwood,MN,55962,1
+1146,Inga,Hanson,57,S,F,110000,3,4,Bachelors,Management,1,4,El Cajon,ND,58722,4
+1147,Katrin,Johnson,44,M,F,110000,0,0,Graduate D,Management,1,4,Endicott,MN,55800,2
+1148,Erika,Larson,73,S,F,50000,3,0,Graduate D,Management,1,2,Marysville,MN,55815,1
+1149,Kirsten,Olson,42,M,F,10000,1,0,Graduate D,Manual,1,0,Santa Cruz,ND,58796,4
+1150,Inga,Johnson,54,S,F,10000,2,0,Partial Co,Manual,0,1,Stamford,OH,44857,0
+1151,Ingrid,Carlson,31,S,F,20000,5,5,High Schoo,Manual,1,1,Daly City,ND,58060,4
+1152,Inga,Hanson,57,S,F,50000,2,1,High Schoo,Professional,1,2,Issaquah,MN,55030,1
+1153,Katrin,Olson,40,S,F,110000,3,2,Bachelors,Management,1,4,Burbank,ND,58522,4
+1154,Kirsten,Johnson,57,S,F,110000,3,4,Bachelors,Management,1,4,Bellflower,ND,58024,4
+1155,Carl,Olson,58,M,M,60000,3,1,High Schoo,Professional,1,2,Concord,ND,58626,4
+1156,Inga,Olson,47,M,F,90000,0,0,Partial Co,Professional,0,1,Sugar Land,OH,44892,4
+1157,Ella,Johnson,50,M,F,50000,1,0,Partial Co,Skilled Manual,1,1,Concord,ND,58638,4
+1158,Katrin,Carlson,52,S,F,40000,2,0,Partial Co,Clerical,0,1,Portland,SD,57227,1
+1159,Erika,Hanson,69,S,F,30000,1,0,Bachelors,Clerical,0,0,Dallas,OH,43408,4
+1160,Katrin,Anderson,47,S,F,50000,4,2,Bachelors,Professional,0,2,Plano,OH,44846,4
+1161,Ingrid,Johnson,72,M,F,70000,4,0,Graduate D,Management,1,2,Lemon Grove,ND,58211,4
+1162,Katrin,Olson,34,S,F,30000,0,0,Partial Co,Clerical,0,1,Burien,MN,56285,1
+1163,Ole,Carlson,45,M,M,30000,1,1,Bachelors,Skilled Manual,1,2,Modesto,ND,58851,4
+1164,Erika,Larson,69,M,F,20000,1,0,Bachelors,Clerical,1,0,Burien,MN,56763,1
+1165,Ingrid,Olson,33,M,F,40000,0,0,High Schoo,Skilled Manual,0,2,Chantilly,ID,83284,5
+1166,Ole,Anderson,42,S,M,10000,2,2,High Schoo,Manual,1,1,Bremerton,MN,55953,1
+1167,Ingrid,Hanson,63,S,F,30000,2,0,Partial Co,Clerical,1,2,Beverly Hills,ND,58797,4
+1168,Ingrid,Carlson,50,S,F,10000,1,1,High Schoo,Manual,1,1,Waterbury,OH,45449,0
+1169,Kirsten,Anderson,35,S,F,90000,0,0,High Schoo,Management,0,2,El Cajon,ND,58232,4
+1170,Ella,Carlson,58,M,F,120000,4,5,Bachelors,Management,1,3,Anacortes,MN,55510,1
+1171,Ole,Johnson,37,M,M,50000,0,0,Graduate D,Skilled Manual,1,0,Bothell,MN,55811,1
+1172,Ella,Hanson,37,S,F,90000,0,0,High Schoo,Management,0,3,National City,ND,58483,4
+1173,Carl,Carlson,40,S,M,80000,4,4,Graduate D,Management,0,1,Bellingham,MN,56138,1
+1174,Kirsten,Larson,41,M,F,10000,2,2,High Schoo,Manual,1,0,Bellflower,ND,58317,4
+1175,Inga,Olson,69,S,F,40000,2,0,Bachelors,Management,0,2,Olympia,MN,56437,1
+1176,Inga,Olson,44,M,F,70000,4,0,Graduate D,Professional,0,0,Colma,ND,58844,4
+1177,Katrin,Larson,53,S,F,70000,3,2,Partial Co,Professional,1,0,Novato,ND,58513,4
+1178,Kirsten,Olson,61,S,F,50000,2,1,Partial Co,Professional,0,2,Duvall,MN,56308,1
+1179,Ole,Olson,42,M,M,50000,2,2,Bachelors,Skilled Manual,1,1,Lincoln Acres,ND,58718,4
+1180,Ole,Carlson,52,S,M,100000,1,1,Bachelors,Management,1,3,Novato,ND,58741,4
+1181,Kirsten,Olson,65,M,F,40000,4,0,High Schoo,Professional,0,2,Port Orchard,MN,56391,1
+1182,Katrin,Johnson,64,M,F,100000,2,3,Bachelors,Management,1,4,Colma,ND,58660,4
+1183,Ingrid,Anderson,45,M,F,50000,3,3,Bachelors,Skilled Manual,1,3,Bluffton,SD,57273,0
+1184,Erika,Hanson,43,M,F,40000,0,0,Bachelors,Clerical,1,0,Daly City,ND,58677,4
+1185,Ingrid,Hanson,61,M,F,50000,2,1,Partial Co,Professional,1,2,Chehalis,MN,55455,1
+1186,Erika,Hanson,42,S,F,30000,1,1,Bachelors,Clerical,1,0,Everett,MN,56206,1
+1187,Kirsten,Larson,66,S,F,70000,5,0,Bachelors,Management,0,2,Burbank,ND,58283,4
+1188,Katrin,Hanson,33,S,F,40000,0,0,Partial Hi,Clerical,0,2,Killeen,OH,44552,4
+1189,Katrin,Johnson,63,S,F,30000,3,0,Partial Co,Clerical,0,2,Columbus,OH,43215,3
+1190,Ella,Hanson,40,S,F,50000,2,2,Bachelors,Skilled Manual,1,0,Tacoma,MN,56009,1
+1191,Ole,Larson,31,M,M,10000,0,0,Partial Co,Manual,0,1,Colma,ND,58306,4
+1192,Katrin,Olson,65,M,F,30000,2,1,Partial Hi,Skilled Manual,1,2,W. Linn,SD,57148,1
+1193,Ella,Johnson,68,M,F,40000,2,0,Bachelors,Management,1,2,New Hartford,MN,56206,2
+1194,Erik,Johnson,48,M,M,110000,1,3,Bachelors,Management,1,1,Monroe,MN,56349,1
+1195,Hans,Larson,75,M,M,40000,3,0,Partial Co,Professional,1,2,San Bruno,ND,58107,4
+1196,Ingrid,Anderson,45,M,F,10000,1,1,High Schoo,Manual,0,1,Mill Valley,ND,58782,4
+1197,Erika,Carlson,39,M,F,40000,2,2,Partial Co,Clerical,1,1,Concord,ND,58751,4
+1198,Katrin,Larson,35,M,F,60000,0,0,Partial Hi,Skilled Manual,1,4,Burien,MN,55976,1
+1199,Kirsten,Carlson,39,S,F,80000,4,4,Graduate D,Management,1,1,Yakima,MN,55459,1
+1200,Ella,Olson,57,S,F,10000,2,1,High Schoo,Manual,1,2,Palo Alto,ND,58394,4
+1201,John,Hanson,53,S,M,70000,2,1,Partial Co,Professional,1,0,Redmond,MN,56707,1
+1202,Erika,Carlson,51,S,F,30000,0,0,Bachelors,Clerical,1,0,Long Beach,ND,58343,4
+1203,John,Johnson,58,M,M,30000,3,0,High Schoo,Skilled Manual,0,2,Milwaukie,SD,57238,1
+1204,Ella,Carlson,76,M,F,50000,2,0,Graduate D,Management,1,2,Glendale,ND,58230,4
+1205,Inga,Larson,38,S,F,30000,0,0,High Schoo,Manual,0,1,Ontario,ND,58021,4
+1206,Ingrid,Johnson,54,S,F,100000,3,4,Partial Co,Management,0,4,Burlingame,ND,58238,4
+1207,Kirsten,Johnson,35,S,F,50000,0,0,Partial Co,Skilled Manual,0,2,San Diego,ND,58394,4
+1208,Ella,Larson,37,S,F,80000,5,5,Bachelors,Professional,0,4,Chula Vista,ND,58698,4
+1209,Carl,Anderson,46,S,M,60000,4,4,Bachelors,Professional,1,3,La Jolla,ND,58794,4
+1210,Katrin,Anderson,41,M,F,30000,2,2,Partial Co,Clerical,0,2,Cedar Park,OH,43926,4
+1211,Carl,Larson,37,S,M,20000,0,0,Partial Hi,Manual,0,2,Lynnwood,MN,55122,1
+1212,Katrin,Hanson,50,S,F,50000,1,0,Partial Co,Skilled Manual,0,1,Colma,ND,58573,4
+1213,Ella,Anderson,66,M,F,80000,5,0,Bachelors,Management,1,2,Corvallis,SD,57401,1
+1214,Katrin,Carlson,33,M,F,30000,0,0,Partial Co,Clerical,1,1,Seattle,MN,55200,1
+1215,Katrin,Anderson,38,M,F,50000,1,1,Graduate D,Skilled Manual,1,0,Novato,ND,58799,4
+1216,Erika,Larson,31,S,F,30000,0,0,Partial Hi,Clerical,1,2,Kenmore,MN,56320,1
+1217,Inga,Hanson,30,M,F,30000,0,0,High Schoo,Skilled Manual,1,2,Salt Lake City,UT,84101,0
+1218,Ella,Johnson,42,M,F,50000,4,2,Bachelors,Professional,1,2,Concord,ND,58572,4
+1219,Katrin,Carlson,47,S,F,50000,2,0,High Schoo,Professional,0,2,Mobile,IA,52500,5
+1220,Katrin,Larson,59,M,F,40000,2,0,Partial Co,Clerical,0,2,Colma,ND,58603,4
+1221,Ingrid,Larson,55,M,F,100000,3,4,High Schoo,Professional,0,3,Woodland Hills,ND,58101,4
+1222,Katrin,Anderson,62,M,F,90000,4,1,High Schoo,Management,1,3,Saint Louis,NE,68634,0
+1223,Katrin,Carlson,37,M,F,10000,0,0,Partial Hi,Manual,1,2,Colma,ND,58548,4
+1224,Kirsten,Anderson,57,S,F,30000,1,0,Bachelors,Skilled Manual,1,1,Bellflower,ND,58505,4
+1225,Ingrid,Larson,46,S,F,20000,2,2,High Schoo,Manual,1,2,Braintree,WY,82191,2
+1226,Kirsten,Johnson,43,S,F,40000,0,0,Bachelors,Clerical,0,0,Colma,ND,58726,4
+1227,Erika,Anderson,38,M,F,20000,0,0,Partial Hi,Manual,1,2,Oregon City,SD,57415,1
+1228,Erik,Hanson,41,M,M,110000,1,0,Graduate D,Management,1,0,Newport Beach,ND,58157,4
+1229,Ella,Larson,32,S,F,20000,0,0,Bachelors,Clerical,0,0,Memphis,IN,46844,5
+1230,Kirsten,Larson,44,S,F,20000,1,1,High Schoo,Manual,0,1,Chula Vista,ND,58439,4
+1231,Ella,Larson,41,S,F,50000,0,0,Graduate D,Skilled Manual,0,0,Moline,IL,61265,3
+1232,Katrin,Anderson,39,M,F,40000,2,2,Partial Co,Clerical,0,1,West Covina,IA,52102,0
+1233,Hans,Olson,49,M,M,50000,1,0,Partial Co,Skilled Manual,1,1,Nevada,UT,84407,0
+1234,Ingrid,Larson,44,M,F,90000,2,0,Bachelors,Professional,1,0,Issaquah,MN,55743,1
+1235,Katrin,Johnson,67,M,F,50000,2,0,Graduate D,Management,0,1,Lakeland,WI,53911,5
+1236,Hans,Olson,49,M,M,20000,1,1,Partial Co,Manual,1,0,Chicago,IL,60610,3
+1237,Hans,Anderson,46,M,M,80000,4,3,Partial Co,Professional,1,1,La Grange,WY,82823,5
+1238,Katrin,Anderson,59,S,F,40000,3,0,Partial Co,Professional,1,2,Seattle,MN,56622,1
+1239,Kirsten,Larson,36,S,F,40000,3,3,Partial Co,Clerical,1,2,Oxnard,ND,58352,4
+1240,Katrin,Larson,51,S,F,50000,4,0,Graduate D,Skilled Manual,0,0,Portland,SD,57082,1
+1241,Kirsten,Johnson,44,M,F,100000,0,0,Graduate D,Management,1,1,De Witt,MN,55765,2
+1242,Erika,Johnson,39,M,F,100000,0,5,High Schoo,Management,1,4,Denver,NE,68663,3
+1243,Kirsten,Johnson,73,M,F,40000,2,0,Bachelors,Management,0,2,Vacaville,ND,58108,4
+1244,Katrin,Olson,39,S,F,50000,1,0,Graduate D,Professional,1,0,Beaverton,SD,57383,1
+1245,Kirsten,Hanson,52,S,F,50000,4,0,Graduate D,Skilled Manual,1,0,Chula Vista,ND,58674,4
+1246,Ella,Johnson,32,S,F,20000,0,0,Bachelors,Clerical,1,0,Seattle,MN,55231,1
+1247,Inga,Hanson,53,M,F,20000,2,1,Partial Hi,Clerical,1,2,Bothell,MN,55234,1
+1248,Erika,Hanson,52,M,F,130000,2,3,Bachelors,Management,1,4,Kansas City,NE,68679,0
+1249,Inga,Hanson,34,S,F,50000,1,1,Graduate D,Skilled Manual,0,0,Beverly Hills,ND,58691,4
+1250,Ella,Johnson,43,M,F,50000,0,0,Partial Co,Skilled Manual,1,1,Central Valley,MN,55177,2
+1251,John,Anderson,74,M,M,60000,2,0,Graduate D,Management,0,2,Colma,ND,58297,4
+1252,Kirsten,Carlson,49,S,F,40000,4,3,High Schoo,Skilled Manual,1,3,Marysville,MN,55198,1
+1253,Sven,Carlson,47,M,M,10000,3,2,Partial Hi,Manual,1,2,Corvallis,SD,57776,1
+1254,Ingrid,Hanson,34,S,F,30000,0,0,High Schoo,Skilled Manual,0,2,Burbank,ND,58137,4
+1255,Kirsten,Larson,53,M,F,10000,1,0,Partial Co,Manual,1,0,Chula Vista,ND,58298,4
+1256,Katrin,Anderson,69,M,F,10000,2,0,Partial Co,Manual,0,1,Downey,ND,58466,4
+1257,Sven,Hanson,62,S,M,30000,2,1,Partial Hi,Skilled Manual,0,3,Plaistow,MT,59362,2
+1258,Kirsten,Hanson,38,S,F,50000,3,3,Bachelors,Skilled Manual,0,0,Lincoln Acres,ND,58243,4
+1259,Ingrid,Carlson,62,M,F,40000,2,1,High Schoo,Professional,1,2,San Francisco,ND,58531,4
+1260,Sven,Olson,38,S,M,50000,1,1,Bachelors,Skilled Manual,1,0,Mill Valley,MT,59715,0
+1261,Erik,Olson,46,S,M,80000,4,3,Partial Co,Professional,0,1,Concord,ND,58117,4
+1262,Sven,Larson,49,S,M,40000,4,3,High Schoo,Skilled Manual,1,3,Colma,ND,58278,4
+1263,Inga,Larson,68,M,F,30000,1,0,Bachelors,Clerical,1,0,Concord,ND,58355,4
+1264,Ella,Olson,47,M,F,100000,0,2,Partial Co,Professional,1,1,Bountiful,UT,84010,0
+1265,Ingrid,Johnson,41,S,F,20000,0,0,Partial Co,Manual,0,1,Colma,ND,58481,4
+1266,Hans,Hanson,45,S,M,20000,2,2,High Schoo,Manual,1,1,Corvallis,SD,57087,1
+1267,John,Carlson,68,S,M,10000,3,0,Partial Co,Manual,1,1,Beaverton,SD,57283,1
+1268,Erik,Johnson,32,S,M,50000,1,0,Graduate D,Skilled Manual,0,0,Berkeley,ND,58652,4
+1269,Ole,Larson,47,M,M,100000,0,2,Partial Co,Professional,1,1,Zeeland,WY,82779,0
+1270,Ingrid,Anderson,51,M,F,40000,2,0,Partial Co,Clerical,1,1,Sedro Woolley,MN,55162,1
+1271,Katrin,Johnson,44,S,F,30000,2,2,Partial Co,Manual,0,0,Santa Monica,ND,58156,4
+1272,Carl,Hanson,38,S,M,50000,1,1,Graduate D,Skilled Manual,0,0,Southgate,WY,82888,0
+1273,Hans,Larson,35,S,M,50000,0,0,High Schoo,Professional,0,2,Edmonds,MN,56524,1
+1274,Erika,Anderson,43,M,F,40000,5,5,High Schoo,Skilled Manual,1,1,Chula Vista,ND,58096,4
+1275,Ingrid,Hanson,40,M,F,40000,2,2,Partial Co,Clerical,1,0,Hayward,ND,58390,4
+1276,Ella,Olson,43,S,F,120000,0,1,Bachelors,Management,1,4,Miami,WI,53398,5
+1277,Erik,Anderson,71,S,M,50000,3,0,Graduate D,Management,0,2,W. Linn,SD,57493,1
+1278,Hans,Anderson,57,S,M,30000,4,0,High Schoo,Professional,0,2,Bellevue,MN,55491,1
+1279,Hans,Anderson,51,M,M,60000,4,3,Bachelors,Professional,1,0,Concord,ND,58617,4
+1280,Carl,Larson,34,M,M,40000,0,0,High Schoo,Skilled Manual,1,2,Lebanon,SD,57662,1
+1281,Erik,Larson,36,S,M,50000,0,0,High Schoo,Professional,1,2,Burbank,ND,58106,4
+1282,Kirsten,Carlson,55,M,F,110000,3,4,Partial Co,Professional,1,4,Odessa,NE,69078,0
+1283,Ole,Carlson,32,M,M,130000,4,5,High Schoo,Management,1,4,Tacoma,MN,55217,1
+1284,John,Johnson,35,S,M,30000,0,0,Partial Co,Clerical,1,1,Chula Vista,ND,58192,4
+1285,Inga,Carlson,44,M,F,20000,1,1,High Schoo,Manual,0,1,Coronado,ND,58306,4
+1286,Hans,Carlson,50,S,M,20000,3,0,Partial Hi,Manual,1,2,Colma,ND,58695,4
+1287,Erik,Olson,50,S,M,50000,1,0,Partial Co,Skilled Manual,0,1,Lebanon,SD,57172,1
+1288,Ingrid,Larson,55,S,F,110000,3,4,Partial Co,Professional,1,4,Glendale,ND,58463,4
+1289,Hans,Hanson,36,M,M,60000,0,0,Partial Co,Professional,1,2,Oregon City,SD,57354,1
+1290,Inga,Carlson,47,M,F,90000,0,0,Partial Co,Professional,0,1,Issaquah,MN,56449,1
+1291,Sven,Anderson,37,S,M,50000,2,2,Bachelors,Skilled Manual,0,1,Kannapolis,ND,58273,5
+1292,Sven,Anderson,39,S,M,100000,0,5,High Schoo,Management,1,4,Lynnwood,MN,55263,1
+1293,Erika,Carlson,45,M,F,70000,5,5,Bachelors,Professional,1,4,Howell,WY,82785,0
+1294,Katrin,Anderson,32,S,F,20000,0,0,Bachelors,Clerical,0,0,Indianapolis,MT,59800,3
+1295,Ella,Hanson,59,S,F,70000,5,2,Partial Hi,Skilled Manual,0,2,National City,ND,58594,4
+1296,Ole,Johnson,34,M,M,20000,0,0,High Schoo,Manual,1,1,Colma,ND,58030,4
+1297,Inga,Olson,31,M,F,30000,0,0,Partial Co,Clerical,0,1,Torrance,ND,58718,4
+1298,Sven,Hanson,44,M,M,50000,1,0,Partial Co,Skilled Manual,1,1,Issaquah,MN,56631,1
+1299,Inga,Olson,51,M,F,50000,4,0,Graduate D,Skilled Manual,1,0,Daly City,ND,58607,4
+1300,Katrin,Olson,37,S,F,30000,0,0,High Schoo,Manual,0,1,Hanford,ND,58420,4
+1301,Erika,Carlson,53,M,F,90000,2,1,Partial Co,Professional,1,1,Colma,ND,58756,4
+1302,Kirsten,Carlson,45,M,F,10000,1,1,High Schoo,Manual,1,1,Downey,ND,58195,4
+1303,Sven,Carlson,41,S,M,80000,4,3,Partial Co,Professional,0,1,San Gabriel,ND,58153,4
+1304,John,Johnson,53,M,M,60000,2,0,High Schoo,Professional,1,2,Monroe,MN,55645,1
+1305,Inga,Johnson,42,M,F,20000,1,1,Partial Co,Manual,1,1,Santa Cruz,ND,58679,4
+1306,Kirsten,Larson,38,M,F,50000,3,3,Bachelors,Skilled Manual,1,0,Bluffton,SD,57474,0
+1307,Sven,Anderson,34,M,M,50000,0,0,Partial Co,Skilled Manual,1,1,Salem,SD,57487,1
+1308,Erika,Johnson,64,M,F,20000,4,0,High Schoo,Skilled Manual,1,2,Marysville,MN,56284,1
+1309,Erik,Carlson,41,S,M,110000,1,0,Graduate D,Management,0,0,Colma,ND,58562,4
+1310,Sven,Anderson,43,M,M,40000,0,0,Bachelors,Clerical,1,0,Bremerton,MN,55264,1
+1311,John,Anderson,74,S,M,60000,2,0,Graduate D,Management,1,2,Concord,ND,58145,4
+1312,Sven,Anderson,73,S,M,40000,2,0,Bachelors,Management,0,2,Lemon Grove,IL,61551,4
+1313,Hans,Hanson,55,M,M,70000,4,3,High Schoo,Professional,1,1,Burlingame,ND,58265,4
+1314,Kirsten,Johnson,60,S,F,80000,5,2,High Schoo,Management,1,2,Lake Oswego,SD,57518,1
+1315,Ella,Olson,61,S,F,50000,2,1,Partial Co,Professional,0,2,Issaquah,MN,55035,1
+1316,John,Carlson,76,S,M,50000,2,0,Graduate D,Management,0,2,Yakima,MN,55868,1
+1317,Ella,Hanson,42,S,F,100000,3,2,Partial Co,Professional,0,4,Redwood City,ND,58772,4
+1318,Hans,Carlson,36,S,M,30000,0,0,Partial Co,Clerical,1,1,Bellingham,MN,55132,1
+1319,Carl,Johnson,54,M,M,80000,5,2,High Schoo,Management,1,2,Bellflower,ND,58443,4
+1320,Erika,Carlson,40,S,F,60000,1,0,Graduate D,Professional,0,0,Berkeley,ND,58484,4
+1321,Ella,Larson,32,M,F,30000,0,0,High Schoo,Manual,1,1,Longmont,NE,68854,3
+1322,Ingrid,Carlson,51,S,F,30000,3,0,Bachelors,Clerical,0,0,Beaverton,SD,57449,1
+1323,Kirsten,Hanson,63,S,F,100000,3,4,High Schoo,Management,1,4,National City,ND,58378,4
+1324,Ingrid,Hanson,31,S,F,20000,4,4,High Schoo,Manual,1,2,Colma,ND,58437,4
+1325,Inga,Hanson,37,S,F,70000,5,5,Bachelors,Professional,0,4,Colma,ND,58232,4
+1326,Katrin,Larson,39,M,F,10000,0,0,Partial Hi,Manual,0,2,Ballard,MN,55781,1
+1327,John,Carlson,31,M,M,30000,0,0,Partial Hi,Clerical,1,2,Kenmore,MN,55602,1
+1328,John,Hanson,32,S,M,20000,5,5,High Schoo,Manual,0,3,Corvallis,SD,57166,1
+1329,Katrin,Carlson,46,M,F,30000,3,3,Partial Co,Clerical,1,0,Downey,ND,58124,4
+1330,Katrin,Carlson,47,M,F,100000,0,2,Partial Co,Professional,1,1,Issaquah,MN,55547,1
+1331,Erika,Olson,73,S,F,160000,1,3,Bachelors,Management,0,3,Colma,ND,58363,4
+1332,Kirsten,Hanson,66,M,F,70000,5,0,Bachelors,Management,1,2,Chula Vista,ND,58330,4
+1333,Ingrid,Carlson,48,S,F,60000,1,0,Bachelors,Professional,1,1,Escondido,ND,58001,4
+1334,Erika,Larson,35,M,F,50000,0,0,Partial Co,Skilled Manual,1,2,Colma,ND,58009,4
+1335,Katrin,Hanson,68,S,F,50000,2,0,Graduate D,Management,1,1,Kenmore,MN,55384,1
+1336,Sven,Larson,48,M,M,100000,3,2,Partial Co,Professional,1,4,Milwaukie,SD,57325,1
+1337,Katrin,Carlson,49,M,F,10000,1,1,High Schoo,Manual,1,0,Garland,OH,45322,4
+1338,Erika,Larson,42,S,F,70000,5,5,Bachelors,Professional,0,3,Colma,ND,58281,4
+1339,Inga,Larson,55,S,F,40000,1,0,Partial Co,Clerical,0,1,Daly City,ND,58653,4
+1340,Ingrid,Olson,72,S,F,100000,2,3,Graduate D,Management,1,3,Alhambra,ND,58075,4
+1341,Inga,Carlson,64,S,F,40000,5,0,High Schoo,Professional,1,4,Port Orchard,MN,56572,1
+1342,Katrin,Hanson,36,M,F,50000,1,0,Graduate D,Skilled Manual,1,0,Santa Cruz,ND,58795,4
+1343,Inga,Carlson,46,M,F,60000,3,3,Bachelors,Professional,0,2,Concord,ND,58756,4
+1344,Ella,Olson,38,M,F,50000,1,1,Graduate D,Skilled Manual,0,0,Lakewood,ND,58724,4
+1345,Ingrid,Anderson,45,M,F,40000,4,2,High Schoo,Skilled Manual,1,2,Beverly Hills,ND,58651,4
+1346,Ella,Johnson,40,S,F,90000,0,0,Partial Hi,Professional,1,4,Chula Vista,ND,58421,4
+1347,Inga,Carlson,35,S,F,100000,1,0,Graduate D,Management,0,0,Colma,ND,58478,4
+1348,Ingrid,Hanson,49,S,F,10000,1,0,Bachelors,Manual,1,0,Long Beach,ND,58219,4
+1349,Inga,Carlson,39,S,F,30000,0,0,High Schoo,Manual,0,1,Spokane,MN,55852,1
+1350,Katrin,Carlson,43,M,F,30000,5,0,Graduate D,Clerical,1,0,Auburn,ND,58449,4
+1351,Erika,Larson,44,M,F,100000,0,0,Graduate D,Management,0,0,Holland,WY,82865,0
+1352,Kirsten,Carlson,62,M,F,40000,2,1,High Schoo,Professional,0,2,Puyallup,MN,55314,1
+1353,John,Carlson,45,S,M,40000,0,0,High Schoo,Skilled Manual,0,1,Union Gap,MN,55734,1
+1354,Carl,Johnson,40,S,M,60000,1,0,Graduate D,Professional,1,0,Greensboro,ND,58660,5
+1355,Katrin,Anderson,50,S,F,100000,3,4,High Schoo,Professional,1,3,Fernley,MT,59608,4
+1356,Inga,Carlson,75,M,F,40000,3,0,Partial Co,Professional,1,2,Branch,MN,55056,3
+1357,Kirsten,Larson,54,S,F,70000,4,3,Partial Co,Professional,1,0,Monroe,MN,55908,1
+1358,Inga,Anderson,40,M,F,100000,0,5,Partial Hi,Professional,0,4,San Francisco,ND,58819,4
+1359,Inga,Hanson,41,S,F,50000,2,2,Bachelors,Skilled Manual,1,0,Concord,ND,58694,4
+1360,Sven,Larson,58,M,M,80000,4,1,High Schoo,Professional,1,3,Saint Louis,NE,68477,0
+1361,Ingrid,Larson,41,S,F,90000,1,0,Graduate D,Management,0,0,Beverly Hills,ND,58486,4
+1362,Ella,Hanson,38,S,F,120000,0,5,Partial Hi,Professional,1,4,Ballard,MN,56412,1
+1363,Kirsten,Anderson,44,M,F,110000,0,0,Graduate D,Management,1,4,Colma,ND,58389,4
+1364,Hans,Larson,51,M,M,50000,4,0,Graduate D,Skilled Manual,1,0,Fremont,ND,58452,4
+1365,Katrin,Carlson,43,M,F,60000,0,0,Graduate D,Professional,1,1,Chula Vista,ND,58290,4
+1366,Erik,Carlson,51,S,M,130000,0,1,Graduate D,Management,0,2,Chandler,IL,60546,4
+1367,Ella,Olson,47,S,F,40000,3,2,High Schoo,Skilled Manual,1,2,Oakland,ND,58348,4
+1368,Sven,Hanson,46,S,M,20000,3,3,High Schoo,Manual,0,0,Stockton,ND,58199,4
+1369,Sven,Olson,51,M,M,80000,3,0,Graduate D,Professional,1,0,Concord,ND,58018,4
+1370,Erik,Larson,58,S,M,60000,3,1,High Schoo,Professional,0,2,Colma,ND,58406,4
+1371,Sven,Larson,40,M,M,20000,0,0,Partial Co,Manual,0,1,Downey,ND,58007,4
+1372,Ella,Olson,47,M,F,90000,0,0,Partial Co,Professional,0,1,Milwaukie,SD,57414,1
+1373,Ole,Hanson,44,S,M,120000,0,0,Graduate D,Management,0,3,Seattle,MN,56720,1
+1374,Katrin,Anderson,48,M,F,10000,1,0,Graduate D,Manual,1,0,Long Beach,ND,58094,4
+1375,Kirsten,Larson,45,S,F,90000,4,4,Partial Co,Professional,0,3,West Covina,ND,58242,4
+1376,Katrin,Hanson,58,S,F,30000,3,0,High Schoo,Skilled Manual,0,2,San Carlos,ND,58488,4
+1377,Ingrid,Hanson,32,M,F,30000,0,0,Partial Hi,Clerical,0,2,Tooele,UT,84074,0
+1378,Inga,Olson,55,M,F,20000,3,0,Partial Hi,Clerical,1,2,Everett,MN,56665,1
+1379,Hans,Johnson,54,M,M,60000,2,0,High Schoo,Professional,1,2,Issaquah,MN,56401,1
+1380,Hans,Larson,41,S,M,60000,1,0,Graduate D,Professional,1,0,Bothell,MN,55514,1
+1381,John,Anderson,39,M,M,30000,0,0,High Schoo,Manual,1,1,Oxnard,ND,58493,4
+1382,Erika,Hanson,46,S,F,30000,1,0,Graduate D,Clerical,1,0,Colma,ND,58042,4
+1383,Ole,Carlson,59,M,M,50000,2,1,High Schoo,Professional,0,2,Concord,ND,58212,4
+1384,Ingrid,Larson,37,M,F,40000,1,1,Bachelors,Skilled Manual,0,0,Bellingham,MN,56564,1
+1385,Hans,Larson,46,S,M,50000,4,4,Bachelors,Skilled Manual,1,3,Walla Walla,MN,55084,1
+1386,Inga,Carlson,40,M,F,50000,1,1,Bachelors,Skilled Manual,1,1,Colma,ND,58286,4
+1387,Carl,Anderson,39,S,M,20000,1,1,High Schoo,Manual,0,1,Somerset,MT,59200,0
+1388,Kirsten,Larson,34,S,F,30000,0,0,High Schoo,Skilled Manual,0,2,Destin,WI,53121,5
+1389,Ingrid,Larson,34,S,F,30000,0,0,High Schoo,Skilled Manual,1,2,Newport Hills,MN,55933,1
+1390,Inga,Carlson,71,M,F,70000,5,0,Graduate D,Management,1,2,San Carlos,ND,58836,4
+1391,Ingrid,Olson,48,S,F,10000,1,0,Bachelors,Manual,0,0,Santa Cruz,ND,58469,4
+1392,Sven,Anderson,52,S,M,70000,5,4,Graduate D,Professional,0,1,Berkeley,ND,58603,4
+1393,Ella,Carlson,81,S,F,10000,4,0,High Schoo,Manual,0,2,Beaverton,SD,57095,1
+1394,Inga,Anderson,39,S,F,60000,1,0,Graduate D,Professional,1,0,Oregon City,SD,57743,1
+1395,Erika,Olson,59,M,F,30000,3,0,High Schoo,Skilled Manual,1,2,Huntsville,IA,50868,5
+1396,Hans,Anderson,61,M,M,130000,4,5,High Schoo,Management,1,4,Olympia,MN,55645,1
+1397,Ingrid,Olson,45,S,F,20000,2,2,High Schoo,Manual,0,2,Beaverton,SD,57171,1
+1398,Ella,Hanson,49,S,F,50000,1,0,Partial Co,Skilled Manual,1,1,Round Rock,OH,45827,4
+1399,Sven,Johnson,69,S,M,130000,2,3,Bachelors,Management,0,4,Concord,ND,58545,4
+1400,Sven,Carlson,42,S,M,40000,3,2,High Schoo,Skilled Manual,1,2,Edmonds,MN,56025,1
+1401,Carl,Hanson,57,S,M,50000,3,0,Graduate D,Management,1,2,Casper,WY,82601,3
+1402,Katrin,Anderson,32,S,F,40000,0,0,High Schoo,Skilled Manual,0,2,Hollywood,WI,54838,5
+1403,Erika,Larson,56,M,F,50000,2,0,Partial Co,Skilled Manual,1,2,Colma,ND,58337,4
+1404,Sven,Anderson,43,S,M,50000,0,0,Partial Co,Skilled Manual,0,1,Lebanon,SD,57715,1
+1405,Erika,Larson,36,S,F,50000,0,0,High Schoo,Skilled Manual,1,2,Colma,ND,58351,4
+1406,Ella,Olson,38,S,F,20000,0,0,Partial Hi,Manual,0,2,Lewiston,IA,51535,0
+1407,Katrin,Hanson,65,S,F,30000,2,1,Partial Hi,Skilled Manual,0,3,W. Linn,SD,57313,1
+1408,Ingrid,Johnson,77,S,F,50000,2,0,Graduate D,Management,0,2,Colma,ND,58272,4
+1409,Carl,Larson,52,M,M,60000,1,0,Bachelors,Professional,1,1,Concord,ND,58188,4
+1410,John,Larson,52,S,M,30000,2,0,High Schoo,Skilled Manual,0,2,Woodburn,SD,57108,1
+1411,Inga,Hanson,53,S,F,120000,2,4,High Schoo,Professional,1,4,Glendale,ND,58255,4
+1412,Ella,Larson,46,M,F,50000,4,2,Bachelors,Skilled Manual,1,2,San Jose,ND,58219,4
+1413,Carl,Olson,39,S,M,130000,5,5,Partial Hi,Management,0,4,San Gabriel,ND,58261,4
+1414,Ole,Anderson,52,M,M,130000,2,3,Bachelors,Management,1,4,Tilton,MT,59558,2
+1415,Carl,Olson,54,M,M,70000,4,3,Partial Co,Professional,1,0,Chula Vista,ND,58360,4
+1416,Kirsten,Anderson,33,M,F,110000,0,5,Partial Hi,Management,1,4,W. Linn,SD,57242,1
+1417,Sven,Hanson,44,M,M,30000,1,1,Bachelors,Skilled Manual,1,2,Olympia,MN,56734,1
+1418,John,Hanson,53,S,M,70000,5,2,Partial Hi,Skilled Manual,1,2,Lake Oswego,SD,57576,1
+1419,Erika,Carlson,31,M,F,20000,4,4,High Schoo,Manual,1,3,Torrance,ND,58688,4
+1420,Carl,Anderson,50,S,M,60000,4,3,Bachelors,Professional,0,0,Concord,ND,58751,4
+1421,John,Larson,53,M,M,90000,4,1,Partial Co,Professional,1,2,Woodland Hills,ND,58747,4
+1422,Katrin,Larson,38,S,F,80000,0,0,Partial Hi,Professional,1,3,La Jolla,ND,58198,4
+1423,Ole,Olson,54,M,M,120000,3,4,High Schoo,Professional,1,4,Burbank,ND,58294,4
+1424,Sven,Olson,47,S,M,50000,4,2,Bachelors,Professional,1,2,Berkeley,ND,58435,4
+1425,John,Hanson,48,S,M,50000,1,0,Bachelors,Professional,0,1,Lincoln Acres,ND,58526,4
+1426,Erika,Anderson,45,M,F,10000,4,3,Partial Hi,Manual,1,2,Downey,ND,58395,4
+1427,John,Hanson,68,S,M,50000,4,0,Bachelors,Management,0,2,Vero Beach,WI,53705,5
+1428,Katrin,Johnson,30,M,F,10000,0,0,Partial Co,Manual,1,1,Seattle,MN,56306,1
+1429,Ingrid,Johnson,45,M,F,80000,0,0,Bachelors,Management,1,1,Glendale,ND,58566,4
+1430,Carl,Anderson,34,M,M,20000,0,0,Partial Hi,Manual,1,1,Colma,ND,58453,4
+1431,Ole,Hanson,46,M,M,30000,2,2,Partial Co,Clerical,1,2,Berkeley,ND,58605,4
+1432,Inga,Olson,33,M,F,50000,0,0,Partial Co,Skilled Manual,0,2,Milwaukie,SD,57295,1
+1433,Ella,Johnson,43,S,F,40000,0,0,Bachelors,Clerical,0,0,Spring Valley,ND,58587,4
+1434,Ella,Olson,34,M,F,70000,0,0,High Schoo,Management,1,2,Woodland Hills,ND,58173,4
+1435,Erika,Johnson,47,M,F,100000,0,2,Partial Co,Professional,1,1,Colma,ND,58454,4
+1436,John,Carlson,60,S,M,30000,4,0,High Schoo,Professional,1,2,Salem,SD,57336,1
+1437,Ella,Larson,38,S,F,120000,0,1,Bachelors,Management,0,4,Puyallup,MN,55776,1
+1438,Ella,Olson,63,M,F,30000,3,0,Partial Co,Clerical,1,2,Marysville,MN,55548,1
+1439,Ole,Larson,75,S,M,30000,4,0,High Schoo,Professional,1,2,Tucson,IL,62451,4
+1440,Katrin,Anderson,42,S,F,90000,4,4,Bachelors,Management,1,1,Saginaw,WY,83057,0
+1441,Carl,Larson,45,M,M,60000,3,3,Bachelors,Professional,1,1,Concord,ND,58382,4
+1442,Kirsten,Anderson,40,M,F,30000,3,0,Bachelors,Clerical,1,0,Beaverton,SD,57393,1
+1443,Carl,Hanson,36,S,M,50000,0,0,High Schoo,Professional,0,2,Concord,ND,58084,4
+1444,Erika,Carlson,66,S,F,30000,5,0,Partial Hi,Clerical,0,2,San Diego,ND,58074,4
+1445,Katrin,Larson,65,M,F,30000,2,1,Partial Hi,Skilled Manual,0,3,Carnation,MN,55191,1
+1446,Ingrid,Olson,35,M,F,70000,0,0,Partial Hi,Skilled Manual,0,3,Bellevue,MN,55899,1
+1447,Erik,Olson,47,S,M,30000,2,2,Partial Co,Clerical,0,2,Bremerton,MN,56243,1
+1448,Kirsten,Anderson,30,S,F,30000,0,0,Partial Co,Clerical,1,1,Spokane,MN,55577,1
+1449,Ella,Carlson,46,M,F,50000,4,0,Graduate D,Skilled Manual,1,0,Bellflower,ND,58628,4
+1450,Ella,Hanson,30,M,F,20000,0,0,Partial Hi,Manual,1,2,Burlingame,ND,58301,4
+1451,Ella,Johnson,38,M,F,20000,0,0,Partial Hi,Manual,1,2,Concord,ND,58644,4
+1452,Ella,Larson,34,S,F,10000,1,1,High Schoo,Manual,1,0,Dallas,OH,43657,4
+1453,Erik,Carlson,32,M,M,30000,4,4,Partial Co,Clerical,1,2,Kingsport,IN,47102,5
+1454,Carl,Carlson,77,M,M,50000,2,0,Graduate D,Management,1,2,Concord,ND,58692,4
+1455,Erika,Hanson,56,S,F,50000,2,0,Partial Co,Skilled Manual,1,2,Concord,ND,58558,4
+1456,John,Anderson,35,S,M,40000,3,3,Partial Co,Clerical,0,2,Everett,MN,55450,1
+1457,Hans,Hanson,46,S,M,70000,0,0,Bachelors,Professional,0,1,Seattle,MN,56730,1
+1458,Erika,Hanson,39,M,F,30000,0,0,High Schoo,Manual,1,1,Seattle,MN,56496,1
+1459,Sven,Olson,75,M,M,60000,2,0,Graduate D,Management,1,2,Seattle,MN,56741,1
+1460,Erika,Hanson,71,S,F,90000,5,0,Bachelors,Management,0,2,Concord,ND,58346,4
+1461,Inga,Johnson,45,S,F,20000,2,2,High Schoo,Manual,1,1,Corvallis,SD,57641,1
+1462,Ole,Johnson,43,M,M,50000,2,2,Bachelors,Skilled Manual,1,1,Denver,NE,68673,3
+1463,Ella,Johnson,33,M,F,40000,0,0,Partial Hi,Clerical,1,2,Milwaukie,SD,57029,1
+1464,Katrin,Anderson,67,M,F,30000,1,0,Bachelors,Clerical,0,0,Barstow,ND,58004,4
+1465,Ella,Johnson,44,M,F,60000,0,0,Graduate D,Professional,0,0,Beaverton,SD,57400,1
+1466,Kirsten,Hanson,71,S,F,110000,2,4,Graduate D,Management,1,1,Concord,ND,58140,4
+1467,Hans,Carlson,41,M,M,40000,0,0,Graduate D,Clerical,0,0,Joliet,IL,60433,3
+1468,Erika,Larson,56,S,F,30000,1,0,High Schoo,Clerical,1,1,Farmington,OH,44711,0
+1469,Ella,Anderson,40,M,F,110000,0,5,High Schoo,Management,1,4,Ballard,MN,56497,1
+1470,Erika,Carlson,44,S,F,30000,4,0,Graduate D,Clerical,0,0,Downey,ND,58844,4
+1471,Ingrid,Olson,42,S,F,90000,4,4,Bachelors,Management,0,1,Walla Walla,MN,55817,1
+1472,Katrin,Larson,52,S,F,40000,2,0,Partial Co,Clerical,0,1,Woodburn,SD,57551,1
+1473,Sven,Hanson,39,S,M,50000,1,1,Graduate D,Skilled Manual,0,0,Lynnwood,MN,55553,1
+1474,Katrin,Anderson,41,M,F,60000,3,3,Bachelors,Professional,1,2,Seattle,MN,55118,1
+1475,Ella,Carlson,45,S,F,10000,1,1,High Schoo,Manual,1,1,Burien,MN,55304,1
+1476,Katrin,Larson,45,M,F,40000,1,0,Bachelors,Skilled Manual,1,0,Downey,ND,58663,4
+1477,Kirsten,Carlson,47,M,F,80000,4,3,Partial Co,Professional,1,2,Renton,MN,55046,1
+1478,Carl,Johnson,58,S,M,110000,4,5,Partial Co,Professional,1,2,Burlingame,ND,58188,4
+1479,John,Johnson,43,M,M,120000,0,1,Bachelors,Management,0,4,Colma,ND,58469,4
+1480,Kirsten,Hanson,36,M,F,70000,0,0,Partial Hi,Skilled Manual,1,4,Colma,ND,58821,4
+1481,Kirsten,Olson,71,S,F,60000,3,0,Graduate D,Management,0,2,Milwaukie,SD,57024,1
+1482,Ella,Anderson,65,S,F,70000,5,1,High Schoo,Professional,0,3,Everett,MN,56647,1
+1483,Ingrid,Carlson,46,M,F,20000,3,3,High Schoo,Manual,1,0,Cambridge,WY,82920,2
+1484,Ingrid,Larson,39,M,F,120000,0,5,Partial Hi,Professional,1,4,Reno,MT,59819,4
+1485,Carl,Larson,39,M,M,90000,4,4,Partial Co,Professional,1,3,Issaquah,MN,55091,1
+1486,Carl,Johnson,68,S,M,50000,2,0,Graduate D,Management,0,1,Newport Beach,ND,58851,4
+1487,Erika,Johnson,36,M,F,20000,0,0,Partial Hi,Manual,1,2,Coronado,ND,58288,4
+1488,Hans,Hanson,58,M,M,20000,2,1,Partial Hi,Clerical,1,2,Marysville,MN,55508,1
+1489,Sven,Anderson,74,M,M,50000,2,0,Graduate D,Management,1,2,Kelso,MN,55173,1
+1490,Hans,Olson,50,S,M,70000,5,4,High Schoo,Professional,1,4,Cincinnati,OH,45202,3
+1491,Kirsten,Johnson,37,S,F,50000,1,0,Graduate D,Skilled Manual,0,0,Berkeley,ND,58279,4
+1492,Carl,Larson,47,S,M,50000,2,0,Partial Hi,Skilled Manual,0,2,Concord,ND,58258,4
+1493,Inga,Carlson,57,M,F,20000,2,0,High Schoo,Manual,1,2,Chicago,IL,60610,3
+1494,Inga,Larson,54,M,F,90000,2,1,Partial Co,Professional,0,1,Issaquah,MN,55208,1
+1495,Ella,Anderson,75,S,F,10000,1,0,Graduate D,Clerical,0,0,Seattle,MN,55174,1
+1496,Inga,Olson,33,M,F,50000,0,0,Partial Co,Skilled Manual,0,2,Medford,MN,55049,3
+1497,Inga,Johnson,36,M,F,50000,0,0,High Schoo,Professional,1,2,Issaquah,MN,55309,1
+1498,Ella,Carlson,41,S,F,90000,1,0,Graduate D,Management,0,0,Chula Vista,ND,58801,4
+1499,Hans,Olson,53,S,M,40000,1,0,Partial Co,Clerical,0,1,Cerritos,ND,58047,4
+1500,Hans,Larson,76,M,M,60000,2,0,Graduate D,Management,1,2,Burlingame,ND,58102,4
+1501,Erika,Larson,43,S,F,60000,0,0,Graduate D,Professional,0,1,Colma,ND,58117,4
+1502,Kirsten,Hanson,85,S,F,40000,1,0,Graduate D,Skilled Manual,0,0,Spring Valley,ND,58042,4
+1503,Hans,Anderson,45,S,M,60000,3,3,Bachelors,Professional,0,1,Lebanon,SD,57229,1
+1504,Inga,Hanson,59,M,F,50000,2,1,High Schoo,Professional,0,2,West Covina,ND,58664,4
+1505,Carl,Johnson,73,S,M,50000,2,0,Graduate D,Management,0,2,Colma,ND,58453,4
+1506,John,Olson,44,S,M,60000,0,0,Graduate D,Professional,1,0,Lincoln Acres,ND,58251,4
+1507,Erika,Carlson,37,S,F,70000,0,0,Partial Co,Professional,0,2,Concord,ND,58658,4
+1508,Erika,Johnson,61,S,F,50000,2,1,Partial Co,Professional,1,2,Bellingham,MN,56357,1
+1509,Inga,Johnson,40,S,F,60000,1,0,Graduate D,Professional,1,0,Tacoma,MN,56101,1
+1510,Erika,Olson,54,S,F,20000,3,0,Partial Hi,Clerical,1,2,Lynnwood,MN,55305,1
+1511,Erika,Johnson,43,S,F,10000,3,3,High Schoo,Manual,1,0,Chula Vista,ND,58311,4
+1512,Ingrid,Johnson,48,M,F,100000,3,2,Partial Co,Professional,0,4,Cedar City,UT,84720,0
+1513,Erik,Olson,41,S,M,70000,5,5,Graduate D,Professional,1,2,San Gabriel,ND,58354,4
+1514,Inga,Johnson,54,S,F,10000,2,0,Partial Co,Manual,0,0,Chula Vista,ND,58055,4
+1515,Kirsten,Olson,53,M,F,10000,2,0,Partial Co,Manual,1,0,Indianapolis,MT,59119,3
+1516,Erik,Larson,48,M,M,40000,3,2,High Schoo,Skilled Manual,1,2,Beverly Hills,ND,58197,4
+1517,Hans,Carlson,35,S,M,40000,3,3,Partial Co,Clerical,0,2,Colma,ND,58175,4
+1518,Ingrid,Olson,32,S,F,30000,0,0,High Schoo,Manual,0,1,Concord,ND,58333,4
+1519,Katrin,Hanson,39,M,F,50000,1,1,Graduate D,Skilled Manual,0,0,Everett,MN,56156,1
+1520,Sven,Johnson,32,M,M,10000,0,0,Partial Hi,Manual,1,2,Lynnwood,MN,55068,1
+1521,Kirsten,Anderson,68,M,F,20000,1,0,Partial Co,Manual,1,0,Long Beach,ND,58073,4
+1522,Carl,Anderson,38,S,M,100000,0,5,High Schoo,Management,0,3,Chula Vista,ND,58660,4
+1523,John,Anderson,46,M,M,80000,4,3,Partial Co,Professional,1,1,Concord,ND,58129,4
+1524,Inga,Carlson,54,M,F,90000,2,1,High Schoo,Professional,1,1,Concord,ND,58462,4
+1525,Inga,Hanson,73,M,F,60000,3,0,Graduate D,Management,1,2,Orlando,WI,53072,5
+1526,John,Hanson,48,S,M,80000,5,4,Partial Co,Professional,0,3,Glendale,ND,58507,4
+1527,Erik,Carlson,56,M,M,110000,3,4,Bachelors,Management,1,4,Tacoma,MN,55785,1
+1528,Ella,Johnson,55,S,F,60000,2,0,High Schoo,Professional,1,2,Lakewood,ND,58003,4
+1529,Katrin,Larson,30,M,F,10000,0,0,Partial Co,Manual,1,1,Beaverton,SD,57239,1
+1530,John,Carlson,43,M,M,80000,5,5,Bachelors,Professional,1,4,Casper,WY,82601,3
+1531,Erik,Hanson,47,S,M,60000,3,2,Bachelors,Professional,1,1,La Jolla,ND,58219,4
+1532,Erika,Larson,32,S,F,40000,0,0,High Schoo,Skilled Manual,0,2,Fremont,ND,58215,4
+1533,Inga,Hanson,48,S,F,40000,1,0,Bachelors,Skilled Manual,1,0,Kirkland,MN,55370,1
+1534,Carl,Olson,35,S,M,40000,0,0,High Schoo,Skilled Manual,1,1,Concord,ND,58018,4
+1535,Erika,Olson,35,S,F,50000,0,0,Partial Co,Skilled Manual,0,2,Portland,SD,57489,1
+1536,Ingrid,Carlson,35,M,F,20000,0,0,Partial Hi,Manual,0,1,Torrance,ND,58041,4
+1537,Carl,Olson,44,S,M,50000,1,0,Partial Co,Skilled Manual,0,1,Issaquah,MN,55144,1
+1538,Carl,Johnson,39,S,M,80000,5,4,Partial Co,Professional,0,3,Everett,MN,56399,1
+1539,Sven,Olson,36,M,M,60000,0,0,Partial Co,Professional,1,2,Colma,ND,58420,4
+1540,Ole,Hanson,56,M,M,50000,2,0,Partial Hi,Skilled Manual,0,2,Concord,ND,58274,4
+1541,Erika,Hanson,37,M,F,90000,0,0,High Schoo,Management,0,3,Concord,ND,58478,4
+1542,John,Larson,37,M,M,100000,0,5,High Schoo,Management,1,2,Lynnwood,MN,55765,1
+1543,Hans,Hanson,46,M,M,60000,1,0,Bachelors,Professional,1,1,Newark,ND,58476,4
+1544,Kirsten,Carlson,42,M,F,30000,1,0,Bachelors,Clerical,0,0,Newport,MT,59936,0
+1545,Ella,Olson,47,S,F,70000,0,0,Bachelors,Professional,0,1,Concord,ND,58763,4
+1546,Sven,Carlson,57,S,M,30000,1,0,Bachelors,Skilled Manual,1,1,Imperial Beach,ND,58518,4
+1547,John,Carlson,44,M,M,70000,4,0,Graduate D,Professional,1,0,Englewood,NE,68956,3
+1548,Inga,Olson,32,M,F,50000,0,0,Partial Co,Skilled Manual,1,2,Portland,SD,57248,1
+1549,Erik,Johnson,48,S,M,20000,1,0,Graduate D,Clerical,0,0,Burlingame,ND,58733,4
+1550,Hans,Olson,32,S,M,20000,0,0,Bachelors,Clerical,0,0,Logansport,MT,59775,3
+1551,Erika,Johnson,53,S,F,50000,1,0,Partial Co,Skilled Manual,0,1,Colma,ND,58739,4
+1552,Ella,Anderson,46,S,F,60000,3,3,Bachelors,Professional,0,2,San Antonio,OH,43986,4
+1553,Erik,Carlson,30,S,M,20000,0,0,Partial Hi,Manual,0,2,Bellflower,ND,58290,4
+1554,Ole,Larson,44,M,M,60000,1,0,Partial Co,Skilled Manual,0,1,Clearwater,WI,53242,5
+1555,Ingrid,Larson,40,M,F,90000,2,0,Bachelors,Professional,1,0,Detroit,WY,82039,0
+1556,John,Johnson,39,S,M,60000,1,0,Graduate D,Professional,0,0,Lynnwood,MN,55356,1
+1557,Inga,Larson,36,S,F,80000,0,0,High Schoo,Management,1,3,Woodland Hills,ND,58380,4
+1558,Carl,Johnson,69,S,M,40000,2,0,Bachelors,Management,1,2,Colma,ND,58347,4
+1559,John,Anderson,63,M,M,80000,5,0,High Schoo,Management,0,2,Olympia,MN,56588,1
+1560,Ingrid,Larson,45,S,F,90000,4,4,Partial Co,Professional,0,3,Salem,SD,57313,1
+1561,Sven,Anderson,51,M,M,10000,1,1,High Schoo,Manual,1,1,Chula Vista,ND,58661,4
+1562,Ole,Johnson,36,S,M,60000,2,2,Bachelors,Professional,1,1,Monroe,MN,55949,1
+1563,Ole,Larson,33,M,M,10000,1,1,High Schoo,Manual,1,0,Memphis,IN,46210,5
+1564,Katrin,Hanson,43,S,F,30000,1,1,Bachelors,Clerical,0,0,Downey,ND,58175,4
+1565,Kirsten,Olson,74,M,F,50000,2,0,Graduate D,Management,1,2,Walnut Creek,ND,58032,4
+1566,Erika,Johnson,66,M,F,70000,5,1,High Schoo,Professional,1,2,Saint Louis,NE,68581,0
+1567,Ole,Olson,45,M,M,50000,4,4,Bachelors,Skilled Manual,1,1,Kent,MN,55534,1
+1568,Inga,Larson,45,S,F,90000,4,4,Partial Co,Professional,1,3,Issaquah,MN,55249,1
+1569,Kirsten,Olson,36,S,F,80000,0,0,High Schoo,Management,1,3,Lake Oswego,SD,57643,1
+1570,Katrin,Anderson,46,M,F,50000,4,2,Bachelors,Professional,1,2,Beaverton,SD,57692,1
+1571,Ingrid,Hanson,42,M,F,50000,2,2,Bachelors,Skilled Manual,1,1,Oakland,ND,58242,4
+1572,Sven,Carlson,62,S,M,40000,2,1,High Schoo,Professional,0,2,San Diego,ND,58157,4
+1573,Ole,Olson,30,M,M,40000,0,0,Partial Hi,Clerical,1,2,Colma,ND,58371,4
+1574,Erik,Carlson,48,M,M,70000,5,4,Partial Co,Professional,0,3,Glendale,ND,58704,4
+1575,Hans,Olson,51,M,M,110000,1,1,Bachelors,Management,1,4,Novato,ND,58165,4
+1576,Katrin,Carlson,36,S,F,60000,0,0,Partial Co,Skilled Manual,1,2,Minneapolis,MN,55402,3
+1577,Erik,Hanson,40,M,M,110000,0,5,High Schoo,Management,1,4,Burien,MN,55015,1
+1578,Erik,Olson,47,M,M,70000,0,0,Bachelors,Professional,1,2,Concord,ND,58609,4
+1579,Inga,Olson,50,S,F,40000,2,0,Partial Co,Clerical,1,1,Woodburn,SD,57376,1
+1580,Sven,Johnson,56,S,M,40000,3,0,Partial Hi,Clerical,0,2,San Diego,ND,58192,4
+1581,Kirsten,Carlson,46,S,F,80000,4,3,Partial Co,Professional,1,1,Concord,ND,58229,4
+1582,Erik,Larson,30,M,M,10000,0,0,Partial Co,Manual,1,1,Beaverton,SD,57718,1
+1583,Katrin,Hanson,45,S,F,70000,5,4,Partial Co,Skilled Manual,0,3,Downey,ND,58848,4
+1584,Ella,Carlson,62,M,F,50000,2,1,Partial Co,Professional,1,2,Puyallup,MN,56603,1
+1585,Erika,Hanson,49,M,F,40000,4,2,High Schoo,Skilled Manual,1,2,Berkeley,ND,58266,4
+1586,Inga,Larson,47,M,F,60000,3,2,Bachelors,Professional,1,1,Lebanon,SD,57558,1
+1587,Inga,Hanson,39,S,F,10000,4,3,Partial Hi,Manual,1,2,Arlington,OH,45277,4
+1588,Ole,Olson,42,S,M,20000,1,1,Partial Co,Manual,0,1,Los Angeles,ND,58126,4
+1589,Ingrid,Johnson,47,M,F,80000,4,3,Partial Co,Professional,1,2,Bellingham,MN,56355,1
+1590,Sven,Hanson,56,S,M,90000,4,1,High Schoo,Management,1,3,Woodland Hills,ND,58433,4
+1591,Carl,Johnson,34,S,M,30000,0,0,High Schoo,Skilled Manual,0,2,Union City,ND,58634,4
+1592,Ella,Johnson,44,S,F,50000,0,0,Graduate D,Skilled Manual,0,0,Carol Stream,IL,60188,3
+1593,Sven,Johnson,65,M,M,70000,5,1,High Schoo,Professional,0,3,Burlingame,ND,58315,4
+1594,John,Larson,32,S,M,40000,1,1,Bachelors,Skilled Manual,0,1,Burlingame,ND,58593,4
+1595,Sven,Johnson,40,M,M,80000,4,4,Graduate D,Management,1,0,Newport Beach,ND,58036,4
+1596,Carl,Anderson,51,M,M,10000,1,1,High Schoo,Manual,1,1,Long Beach,ND,58008,4
+1597,Ingrid,Anderson,67,S,F,120000,2,4,Bachelors,Management,1,4,Phoenix,IL,62096,4
+1598,John,Larson,39,M,M,10000,0,0,Partial Hi,Manual,0,2,Colma,ND,58153,4
+1599,Inga,Johnson,57,S,F,90000,4,2,Partial Co,Professional,1,1,Santa Fe,MT,59745,4
+1600,Sven,Johnson,57,M,M,60000,3,1,Partial Hi,Skilled Manual,1,3,Issaquah,MN,56164,1
+1601,Katrin,Hanson,40,S,F,20000,2,0,Partial Co,Manual,0,1,Beaverton,SD,57179,1
+1602,Carl,Olson,39,S,M,60000,0,0,Graduate D,Professional,0,0,Gaffney,SD,57667,0
+1603,John,Larson,44,S,M,40000,4,2,High Schoo,Skilled Manual,0,2,Mill Valley,ND,58646,4
+1604,Carl,Hanson,43,M,M,30000,1,1,Bachelors,Clerical,1,0,Kirkland,MN,55731,1
+1605,Sven,Anderson,75,S,M,40000,3,0,Partial Co,Professional,0,2,Sacramento,ND,58328,4
+1606,Sven,Anderson,50,M,M,20000,1,1,Partial Co,Manual,1,0,Colma,ND,58682,4
+1607,Erika,Olson,38,S,F,30000,0,0,High Schoo,Manual,0,1,Sandpoint,IA,51892,0
+1608,Katrin,Anderson,39,M,F,50000,1,1,Graduate D,Skilled Manual,0,0,Vista,ND,58262,4
+1609,John,Larson,50,S,M,50000,1,0,Partial Co,Skilled Manual,1,1,Berkeley,ND,58157,4
+1610,Erik,Johnson,45,M,M,20000,2,0,Partial Co,Manual,0,1,Downey,ND,58600,4
+1611,Hans,Johnson,49,M,M,50000,1,0,Partial Co,Skilled Manual,1,1,Chula Vista,ND,58692,4
+1612,Carl,Carlson,41,M,M,50000,0,0,Graduate D,Skilled Manual,1,0,Beaverton,SD,57650,1
+1613,Erika,Anderson,43,S,F,20000,1,1,High Schoo,Manual,1,1,Kent,MN,55516,1
+1614,Erik,Carlson,69,M,M,40000,2,0,Bachelors,Management,0,2,Fremont,ND,58801,4
+1615,Ella,Carlson,63,S,F,100000,3,4,High Schoo,Management,0,4,Las Vegas,MT,59431,4
+1616,Erika,Anderson,47,S,F,30000,3,3,Partial Co,Clerical,0,0,Daly City,ND,58639,4
+1617,Erika,Anderson,41,S,F,40000,0,0,Graduate D,Clerical,0,0,Bellflower,ND,58614,4
+1618,Erik,Johnson,41,S,M,90000,1,0,Graduate D,Management,0,0,Bellingham,MN,56207,1
+1619,Inga,Larson,39,S,F,10000,4,3,Partial Hi,Manual,0,2,Austin,OH,44603,4
+1620,Erik,Carlson,54,M,M,120000,2,4,High Schoo,Professional,0,4,Virginia Beach,ID,83499,5
+1621,John,Anderson,34,M,M,20000,0,0,High Schoo,Manual,1,1,Burien,MN,55892,1
+1622,Kirsten,Hanson,59,M,F,40000,2,1,Partial Hi,Skilled Manual,1,3,Concord,ND,58206,4
+1623,Hans,Hanson,45,S,M,100000,4,1,Partial Co,Professional,1,4,Salem,SD,57013,1
+1624,John,Johnson,49,M,M,100000,3,2,Partial Co,Professional,0,4,Concord,ND,58743,4
+1625,Kirsten,Carlson,54,M,F,60000,2,0,High Schoo,Professional,1,2,Monroe,MN,56023,1
+1626,Ingrid,Olson,44,M,F,70000,5,4,Partial Co,Skilled Manual,0,3,Newport Beach,ND,58576,4
+1627,Sven,Carlson,61,S,M,40000,2,1,High Schoo,Professional,1,2,West Covina,ND,58329,4
+1628,Erika,Anderson,47,M,F,20000,2,1,Partial Hi,Clerical,1,2,Woodburn,SD,57586,1
+1629,Carl,Carlson,60,S,M,50000,2,1,Partial Co,Professional,1,2,Jefferson City,NE,68940,0
+1630,Kirsten,Johnson,51,M,F,50000,4,0,Graduate D,Skilled Manual,1,0,Colma,ND,58473,4
+1631,John,Anderson,74,S,M,60000,2,0,Graduate D,Management,1,2,Miami,WI,54050,5
+1632,Carl,Carlson,33,M,M,120000,0,5,Partial Hi,Management,1,4,Lynnwood,MN,55778,1
+1633,Ingrid,Carlson,62,S,F,30000,4,0,High Schoo,Professional,1,2,Lynnwood,MN,56726,1
+1634,Hans,Carlson,34,M,M,50000,0,0,High Schoo,Skilled Manual,1,2,San Diego,ND,58720,4
+1635,Inga,Johnson,31,S,F,30000,3,3,Partial Co,Clerical,0,2,Bremerton,MN,56267,1
+1636,Ingrid,Larson,45,M,F,50000,3,3,Bachelors,Skilled Manual,1,2,Concord,ND,58377,4
+1637,Erik,Hanson,48,S,M,90000,2,1,Partial Co,Professional,1,1,Concord,ND,58520,4
+1638,Erik,Hanson,39,S,M,70000,5,0,Graduate D,Professional,1,0,Concord,ND,58300,4
+1639,Kirsten,Larson,55,M,F,110000,3,4,Partial Co,Professional,1,4,Burbank,ND,58751,4
+1640,Inga,Larson,64,S,F,100000,2,3,Bachelors,Management,1,4,Burlingame,ND,58226,4
+1641,Erik,Anderson,46,S,M,50000,4,4,Bachelors,Skilled Manual,0,3,Puyallup,MN,55739,1
+1642,Hans,Olson,38,S,M,100000,0,5,High Schoo,Management,0,2,Olympia,MN,55979,1
+1643,Kirsten,Olson,64,S,F,60000,4,0,Bachelors,Management,1,2,Phoenix,IL,62535,4
+1644,Carl,Hanson,43,S,M,40000,0,0,Bachelors,Clerical,0,0,Chula Vista,ND,58317,4
+1645,Erik,Hanson,50,S,M,10000,1,1,High Schoo,Manual,1,1,Long Beach,ND,58773,4
+1646,Hans,Larson,34,M,M,80000,0,0,Partial Co,Management,0,2,Ballard,MN,55971,1
+1647,Kirsten,Carlson,55,S,F,30000,1,0,High Schoo,Clerical,0,1,Everett,MN,55161,1
+1648,Kirsten,Carlson,39,M,F,70000,0,0,Bachelors,Professional,1,1,Salem,SD,57443,1
+1649,John,Hanson,39,S,M,60000,1,0,Partial Co,Skilled Manual,0,1,Colma,ND,58821,4
+1650,Katrin,Larson,74,M,F,60000,2,0,Graduate D,Management,1,2,Seattle,MN,56535,1
+1651,John,Olson,40,S,M,30000,0,0,Bachelors,Clerical,1,0,Burlingame,ND,58734,4
+1652,Ingrid,Hanson,40,S,F,30000,0,0,Bachelors,Clerical,0,0,Spring Valley,ND,58185,4
+1653,Hans,Larson,39,M,M,30000,2,2,Partial Co,Clerical,1,1,Seattle,MN,56656,1
+1654,Kirsten,Hanson,58,M,F,120000,4,5,Bachelors,Management,1,3,Burlingame,ND,58338,4
+1655,Ole,Anderson,38,M,M,110000,0,5,Partial Hi,Professional,1,4,Gold Bar,MN,56374,1
+1656,Inga,Hanson,66,S,F,30000,5,0,Partial Hi,Clerical,0,2,Corvallis,SD,57765,1
+1657,Carl,Johnson,38,S,M,80000,0,0,Bachelors,Management,0,1,W. Linn,SD,57486,1
+1658,John,Carlson,41,M,M,30000,0,0,Bachelors,Clerical,1,0,Spring Valley,ND,58521,4
+1659,Hans,Hanson,53,M,M,50000,2,1,High Schoo,Professional,1,2,Concord,ND,58181,4
+1660,Sven,Johnson,60,S,M,40000,2,1,Partial Hi,Skilled Manual,0,3,Byron,WY,82477,5
+1661,Sven,Johnson,34,S,M,70000,0,0,High Schoo,Management,0,3,Gold Bar,MN,56581,1
+1662,Sven,Anderson,40,M,M,80000,5,5,Graduate D,Management,1,2,Colma,ND,58612,4
+1663,Hans,Anderson,55,S,M,110000,3,4,Partial Co,Professional,1,4,Concord,ND,58162,4
+1664,Inga,Carlson,37,M,F,40000,0,0,High Schoo,Skilled Manual,0,1,Woonsocket,SD,57480,0
+1665,Ingrid,Anderson,64,S,F,60000,5,0,Bachelors,Management,0,3,Citrus Heights,ND,58389,4
+1666,Hans,Carlson,33,S,M,10000,0,0,High Schoo,Manual,1,2,Bremerton,MN,55616,1
+1667,Kirsten,Carlson,36,M,F,100000,1,0,Graduate D,Management,1,0,Issaquah,MN,56433,1
+1668,Sven,Carlson,45,M,M,20000,2,2,High Schoo,Manual,1,1,Myrtle Beach,SD,57450,0
+1669,Ole,Johnson,31,M,M,110000,1,1,Graduate D,Management,1,3,Lakewood,ND,58837,4
+1670,Katrin,Anderson,38,M,F,60000,1,0,Graduate D,Skilled Manual,1,0,Missoula,MT,59801,0
+1671,Ella,Larson,46,M,F,50000,4,4,Bachelors,Skilled Manual,0,3,Colma,ND,58557,4
+1672,Inga,Hanson,40,M,F,100000,0,5,Partial Hi,Professional,1,4,W. Linn,SD,57292,1
+1673,Sven,Olson,31,M,M,20000,5,5,High Schoo,Manual,0,1,Chula Vista,ND,58641,4
+1674,Ingrid,Carlson,38,S,F,80000,0,0,Bachelors,Management,0,1,Saginaw,WY,82520,0
+1675,Ole,Larson,33,S,M,40000,0,0,Partial Hi,Clerical,0,2,Duvall,MN,56543,1
+1676,Carl,Olson,40,S,M,90000,2,0,Bachelors,Professional,1,0,Palo Alto,ND,58821,4
+1677,John,Hanson,35,S,M,20000,0,0,High Schoo,Manual,0,1,Olympia,MN,55568,1
+1678,Ingrid,Carlson,35,S,F,50000,0,0,High Schoo,Skilled Manual,1,2,Puyallup,MN,55764,1
+1679,Ingrid,Johnson,47,M,F,50000,4,2,Bachelors,Professional,1,2,Chula Vista,ND,58813,4
+1680,John,Anderson,59,M,M,20000,2,1,Partial Hi,Clerical,1,2,Lemon Grove,ND,58414,4
+1681,Erik,Johnson,50,M,M,40000,4,2,High Schoo,Skilled Manual,1,2,Beverly Hills,ND,58382,4
+1682,Ole,Anderson,52,S,M,80000,4,1,High Schoo,Professional,0,3,Chula Vista,ND,58675,4
+1683,Sven,Johnson,61,S,M,50000,2,1,Partial Co,Professional,0,2,Lake Oswego,SD,57341,1
+1684,Erik,Larson,69,M,M,90000,5,0,Bachelors,Management,1,2,Concord,ND,58671,4
+1685,Erik,Anderson,37,M,M,40000,0,0,Graduate D,Clerical,1,0,Saint Matthews,MT,59064,0
+1686,Erika,Hanson,35,S,F,20000,0,0,Partial Hi,Manual,0,1,Coronado,ND,58530,4
+1687,Hans,Olson,51,S,M,50000,4,0,Graduate D,Skilled Manual,0,0,Milford,OH,44859,0
+1688,Ole,Larson,46,S,M,40000,1,0,Bachelors,Skilled Manual,1,0,Daly City,ND,58781,4
+1689,Katrin,Larson,47,S,F,40000,2,1,Partial Hi,Skilled Manual,1,3,Bellingham,MN,56736,1
+1690,Sven,Larson,63,M,M,100000,3,4,High Schoo,Management,1,4,Gold Bar,MN,55407,1
+1691,Ole,Johnson,36,S,M,40000,3,3,Partial Co,Clerical,0,2,Westminster,NE,68199,3
+1692,Katrin,Olson,44,M,F,50000,0,0,Graduate D,Skilled Manual,0,0,Lynnwood,MN,56144,1
+1693,Carl,Anderson,34,M,M,10000,1,1,High Schoo,Manual,1,0,Colma,ND,58063,4
+1694,Erik,Larson,67,M,M,10000,2,0,Bachelors,Clerical,1,1,Seattle,MN,55175,1
+1695,Erika,Johnson,32,S,F,50000,1,1,Graduate D,Skilled Manual,0,0,Sedro Woolley,MN,55660,1
+1696,Sven,Carlson,69,S,M,90000,5,0,Bachelors,Management,0,2,Concord,ND,58560,4
+1697,Sven,Carlson,51,M,M,20000,2,0,Partial Co,Manual,0,1,Beaverton,SD,57613,1
+1698,Inga,Carlson,45,S,F,90000,4,4,Partial Co,Professional,1,3,Redmond,MN,56499,1
+1699,Sven,Anderson,37,M,M,10000,0,0,Partial Hi,Manual,0,2,Snohomish,MN,56098,1
+1700,Ole,Hanson,48,M,M,80000,5,4,Partial Co,Professional,0,3,Tucson,IL,60237,4
+1701,Katrin,Hanson,57,S,F,30000,1,0,Bachelors,Skilled Manual,0,1,Concord,ND,58316,4
+1702,Inga,Carlson,56,M,F,100000,3,4,High Schoo,Professional,0,3,Chula Vista,ND,58605,4
+1703,Carl,Carlson,55,S,M,70000,4,3,High Schoo,Professional,0,1,Lemon Grove,ND,58793,4
+1704,Katrin,Hanson,54,S,F,50000,2,0,High Schoo,Skilled Manual,1,2,Portland,SD,57267,1
+1705,Hans,Carlson,42,S,M,20000,1,1,Partial Co,Manual,1,0,Pigeon Forge,IN,47700,5
+1706,Ingrid,Carlson,42,S,F,50000,2,2,Bachelors,Skilled Manual,0,1,Chula Vista,ND,58819,4
+1707,Hans,Johnson,49,M,M,50000,1,0,Partial Co,Skilled Manual,0,1,Lebanon,SD,57341,1
+1708,Ole,Hanson,31,S,M,30000,0,0,Partial Hi,Clerical,1,2,Fremont,ND,58232,4
+1709,Sven,Johnson,33,S,M,30000,0,0,Partial Hi,Clerical,1,2,Burbank,ND,58401,4
+1710,Erik,Johnson,58,M,M,20000,2,0,Partial Co,Manual,0,1,Chula Vista,ND,58780,4
+1711,Hans,Hanson,60,M,M,30000,3,0,Partial Co,Clerical,1,2,Coronado,ND,58715,4
+1712,Erika,Carlson,45,S,F,30000,2,2,Partial Co,Clerical,1,2,Olympia,MN,56678,1
+1713,Ella,Larson,40,S,F,10000,3,2,Partial Hi,Manual,1,1,Braintree,WY,83106,2
+1714,Kirsten,Johnson,32,S,F,20000,0,0,High Schoo,Manual,0,1,Monrovia,ND,58265,4
+1715,Ole,Johnson,43,M,M,70000,5,5,Bachelors,Professional,1,3,Grossmont,ND,58465,4
+1716,Kirsten,Hanson,64,M,F,60000,4,0,Bachelors,Management,0,3,Colma,ND,58083,4
+1717,Ole,Larson,53,S,M,90000,2,1,High Schoo,Professional,0,2,Lakewood,NE,68450,0
+1718,Ole,Anderson,37,M,M,30000,1,1,Bachelors,Clerical,1,0,Los Angeles,ND,58850,4
+1719,Ella,Olson,50,M,F,70000,5,4,High Schoo,Professional,1,3,Milwaukee,WI,53202,0
+1720,Erik,Johnson,48,S,M,90000,5,4,Partial Co,Professional,1,3,Issaquah,MN,55219,1
+1721,Inga,Carlson,34,S,F,40000,0,0,High Schoo,Skilled Manual,1,2,Chula Vista,ND,58170,4
+1722,Ole,Anderson,51,S,M,20000,2,0,Partial Co,Manual,1,1,New Castle,MT,59869,3
+1723,Sven,Johnson,41,M,M,20000,3,3,High Schoo,Manual,1,1,Corvallis,SD,57701,1
+1724,John,Hanson,55,M,M,110000,3,4,Partial Co,Professional,1,4,Rio Rancho,MT,59199,4
+1725,Erika,Larson,58,M,F,70000,5,2,Partial Co,Professional,1,2,Scottsdale,IL,61965,4
+1726,Erik,Olson,67,S,M,100000,2,3,Graduate D,Management,0,3,Colma,ND,58168,4
+1727,Ella,Carlson,64,S,F,80000,5,0,Partial Co,Professional,1,2,Saint Louis,NE,68926,0
+1728,Kirsten,Larson,38,M,F,50000,1,1,Graduate D,Skilled Manual,1,0,Woodburn,SD,57407,1
+1729,Kirsten,Anderson,41,M,F,50000,2,2,Bachelors,Skilled Manual,1,0,Ballard,MN,55544,1
+1730,Ole,Carlson,56,M,M,50000,2,0,Partial Hi,Skilled Manual,1,2,Bellingham,MN,56653,1
+1731,Carl,Hanson,30,M,M,20000,0,0,Partial Hi,Manual,0,2,Colma,ND,58185,4
+1732,Hans,Anderson,46,M,M,20000,2,2,High Schoo,Manual,0,2,Kirkland,MN,55144,1
+1733,Erik,Larson,36,M,M,50000,0,0,High Schoo,Professional,0,2,Concord,ND,58308,4
+1734,Ella,Larson,37,M,F,110000,1,1,Graduate D,Management,1,3,Norwalk,ND,58285,4
+1735,Ella,Larson,44,S,F,70000,5,0,Graduate D,Professional,0,0,Oregon City,SD,57248,1
+1736,Erik,Johnson,45,S,M,70000,5,5,Bachelors,Professional,0,4,Madison Heights,WY,83014,0
+1737,Hans,Larson,33,S,M,30000,0,0,High Schoo,Manual,0,1,Parker,NE,68879,3
+1738,Inga,Johnson,49,S,F,50000,2,0,High Schoo,Skilled Manual,0,2,Concord,ND,58815,4
+1739,Erik,Olson,51,M,M,80000,5,0,Graduate D,Professional,1,0,Detroit,WY,82421,0
+1740,Katrin,Olson,43,S,F,80000,5,5,Graduate D,Management,1,3,Lebanon,SD,57596,1
+1741,Sven,Anderson,32,M,M,20000,0,0,High Schoo,Manual,1,1,Bremerton,MN,56349,1
+1742,Inga,Anderson,53,M,F,70000,2,1,Partial Co,Professional,1,0,Issaquah,MN,55905,1
+1743,Hans,Larson,53,S,M,70000,2,1,Partial Co,Professional,0,0,Concord,ND,58341,4
+1744,Katrin,Larson,53,S,F,130000,3,4,Partial Co,Professional,1,3,San Francisco,ND,58671,4
+1745,Erik,Olson,50,M,M,40000,4,2,High Schoo,Skilled Manual,1,2,Portland,SD,57332,1
+1746,Erika,Hanson,63,S,F,70000,4,1,Bachelors,Management,0,1,Chula Vista,ND,58384,4
+1747,Erik,Johnson,44,M,M,120000,0,0,Graduate D,Management,1,2,Newport Beach,ND,58680,4
+1748,Erika,Carlson,38,S,F,90000,0,0,Partial Hi,Professional,1,3,Lake Oswego,SD,57416,1
+1749,Katrin,Carlson,35,M,F,40000,3,3,Partial Co,Clerical,0,1,Ballard,MN,56371,1
+1750,John,Anderson,56,S,M,30000,1,0,High Schoo,Clerical,0,1,Culver City,ND,58256,4
+1751,Erika,Johnson,46,M,F,80000,4,3,Partial Co,Professional,1,1,La Jolla,ND,58187,4
+1752,Ella,Anderson,41,M,F,60000,2,0,Graduate D,Professional,0,0,Smithfield,ND,58097,5
+1753,Carl,Olson,33,S,M,20000,0,0,High Schoo,Manual,0,1,La Vergne,IN,46499,5
+1754,Hans,Larson,42,M,M,90000,4,4,Partial Co,Skilled Manual,0,2,Milwaukie,SD,57383,1
+1755,Carl,Hanson,56,S,M,80000,3,2,Partial Co,Professional,0,1,Bellevue,MN,56558,1
+1756,Sven,Olson,50,S,M,70000,5,4,Partial Co,Skilled Manual,1,3,Rock Springs,WY,82901,3
+1757,Ole,Hanson,60,M,M,100000,3,4,Partial Co,Management,1,4,National City,ND,58766,4
+1758,Carl,Anderson,53,S,M,20000,2,1,Partial Hi,Clerical,1,2,Woodburn,SD,57043,1
+1759,Ingrid,Carlson,64,M,F,40000,5,0,High Schoo,Professional,1,3,Port Orchard,MN,56401,1
+1760,Ella,Hanson,48,M,F,40000,4,3,High Schoo,Skilled Manual,0,3,Central Valley,MN,55546,2
+1761,Sven,Anderson,39,M,M,80000,0,0,Partial Hi,Professional,1,4,Decatur,WY,83006,5
+1762,Kirsten,Carlson,59,M,F,50000,2,1,High Schoo,Professional,1,2,Duvall,MN,55272,1
+1763,Katrin,Johnson,43,M,F,80000,5,5,Bachelors,Professional,1,4,Everett,MN,55483,1
+1764,Erik,Larson,50,S,M,40000,3,0,Partial Hi,Clerical,1,2,Bellingham,MN,55898,1
+1765,Ole,Anderson,34,S,M,20000,0,0,Partial Hi,Manual,0,1,Wood Dale,IL,60191,3
+1766,Inga,Hanson,42,M,F,70000,5,5,Bachelors,Professional,0,4,Shelton,MN,55335,1
+1767,Katrin,Larson,38,M,F,90000,0,0,High Schoo,Management,1,3,Olympia,MN,55810,1
+1768,Carl,Anderson,66,S,M,50000,2,0,Graduate D,Management,0,1,Chula Vista,ND,58022,4
+1769,Kirsten,Johnson,54,S,F,50000,2,0,High Schoo,Skilled Manual,1,2,Colma,ND,58676,4
+1770,Erik,Hanson,34,M,M,40000,0,0,High Schoo,Skilled Manual,1,2,Burbank,ND,58379,4
+1771,Hans,Carlson,65,M,M,40000,5,0,High Schoo,Professional,1,2,San Diego,ND,58570,4
+1772,Carl,Carlson,53,S,M,50000,2,0,High Schoo,Skilled Manual,0,2,West Covina,ND,58030,4
+1773,Ella,Hanson,39,M,F,90000,2,0,Bachelors,Professional,0,0,Berkeley,ND,58566,4
+1774,Hans,Anderson,48,M,M,70000,5,4,Partial Co,Skilled Manual,1,2,Concord,ND,58086,4
+1775,John,Carlson,31,S,M,20000,5,5,High Schoo,Manual,0,1,Beaverton,SD,57751,1
+1776,Hans,Olson,41,M,M,100000,1,0,Graduate D,Management,0,0,Colma,ND,58474,4
+1777,Carl,Carlson,58,M,M,30000,3,0,High Schoo,Skilled Manual,1,2,Bellingham,MN,56514,1
+1778,Hans,Johnson,49,S,M,50000,1,0,Partial Co,Skilled Manual,0,1,Newport Hills,MN,56406,1
+1779,Sven,Anderson,53,S,M,70000,2,1,Partial Co,Professional,1,0,Edmonds,MN,55646,1
+1780,Ole,Hanson,47,S,M,90000,0,0,Partial Co,Professional,0,1,Colma,ND,58420,4
+1781,John,Olson,37,S,M,40000,1,1,Bachelors,Skilled Manual,0,1,Ontario,ND,58529,4
+1782,Kirsten,Hanson,44,S,F,10000,4,4,Partial Hi,Manual,1,1,Santa Monica,ND,58320,4
+1783,Katrin,Anderson,61,M,F,50000,2,1,Partial Co,Professional,1,2,Ballard,MN,55048,1
+1784,Ella,Carlson,31,S,F,30000,0,0,High Schoo,Skilled Manual,0,2,Kenmore,MN,56288,1
+1785,Ella,Olson,51,M,F,20000,2,0,Partial Co,Manual,1,1,Colma,ND,58086,4
+1786,Sven,Carlson,46,S,M,70000,0,0,Bachelors,Professional,0,1,Fremont,ND,58141,4
+1787,Erik,Larson,39,S,M,50000,1,1,Graduate D,Skilled Manual,1,0,Westland,WY,82601,0
+1788,Hans,Carlson,56,S,M,80000,3,1,Partial Co,Professional,0,2,Concord,ND,58497,4
+1789,Katrin,Olson,46,S,F,30000,2,2,Partial Co,Clerical,1,2,Coronado,ND,58014,4
+1790,Katrin,Johnson,48,M,F,60000,1,0,Bachelors,Professional,1,1,Cheyenne,WY,82001,3
+1791,Hans,Anderson,42,S,M,70000,0,0,Bachelors,Professional,0,2,Palo Alto,ND,58486,4
+1792,Ella,Olson,40,M,F,50000,1,1,Bachelors,Skilled Manual,1,0,Colma,ND,58674,4
+1793,Inga,Larson,43,S,F,80000,5,5,Graduate D,Management,0,3,Monroe,MN,56377,1
+1794,Kirsten,Olson,54,M,F,120000,3,4,High Schoo,Professional,1,4,Glendale,ND,58132,4
+1795,Erika,Larson,39,M,F,30000,0,0,High Schoo,Manual,0,1,Ballard,MN,55039,1
+1796,Ole,Olson,40,M,M,120000,0,5,Partial Hi,Professional,0,4,Colma,ND,58059,4
+1797,Erika,Hanson,49,S,F,40000,4,3,High Schoo,Skilled Manual,0,3,Edmonds,MN,55392,1
+1798,Katrin,Larson,67,M,F,50000,2,0,Graduate D,Management,1,1,Bellingham,MN,56177,1
+1799,Inga,Larson,47,S,F,30000,1,0,Graduate D,Clerical,0,0,Bremerton,MN,56399,1
+1800,Carl,Anderson,43,M,M,50000,2,2,Bachelors,Skilled Manual,1,1,Grossmont,ND,58577,4
+1801,Ole,Larson,66,M,M,40000,4,0,High Schoo,Professional,1,2,Imperial Beach,ND,58001,4
+1802,Katrin,Carlson,49,M,F,70000,3,2,Partial Co,Professional,1,0,Burlingame,ND,58420,4
+1803,Katrin,Anderson,47,M,F,80000,5,4,Bachelors,Professional,0,1,Colma,ND,58064,4
+1804,Ole,Olson,78,S,M,10000,4,0,High Schoo,Manual,0,2,Los Angeles,ND,58634,4
+1805,Kirsten,Larson,32,M,F,40000,0,0,High Schoo,Skilled Manual,1,2,Concord,ND,58835,4
+1806,Hans,Johnson,46,S,M,80000,4,3,Partial Co,Professional,0,1,Everett,MN,56510,1
+1807,Hans,Larson,43,M,M,50000,0,0,Partial Co,Skilled Manual,0,1,National City,ND,58647,4
+1808,Ella,Carlson,37,S,F,50000,1,0,Graduate D,Skilled Manual,1,0,Colma,ND,58404,4
+1809,Inga,Johnson,61,S,F,30000,3,0,Partial Co,Clerical,0,2,Minneapolis,MN,55402,3
+1810,Katrin,Carlson,54,S,F,120000,3,4,High Schoo,Professional,0,4,Olympia,MN,56712,1
+1811,Erika,Olson,61,S,F,50000,2,1,Partial Co,Professional,0,2,Duvall,MN,55845,1
+1812,Ole,Olson,46,M,M,30000,1,0,Graduate D,Clerical,1,0,Chula Vista,ND,58068,4
+1813,Kirsten,Larson,49,M,F,30000,2,0,High Schoo,Skilled Manual,0,2,Long Beach,ND,58043,4
+1814,Inga,Johnson,66,S,F,70000,5,1,High Schoo,Professional,0,2,Whittier,ND,58240,4
+1815,Inga,Olson,44,S,F,30000,2,2,Partial Co,Manual,0,0,Chula Vista,ND,58416,4
+1816,Erika,Hanson,68,S,F,20000,1,0,Bachelors,Clerical,1,0,Beaverton,SD,57672,1
+1817,Hans,Hanson,46,M,M,50000,4,4,Bachelors,Skilled Manual,1,2,Oakland,ND,58344,4
+1818,Erika,Carlson,55,S,F,30000,1,0,High Schoo,Clerical,0,2,Palo Alto,ND,58639,4
+1819,Hans,Carlson,40,M,M,70000,4,0,Graduate D,Professional,0,0,Lynnwood,MN,56322,1
+1820,Kirsten,Carlson,51,S,F,40000,2,0,Partial Co,Clerical,1,1,Bothell,MN,55354,1
+1821,Inga,Larson,39,S,F,50000,1,1,Graduate D,Skilled Manual,0,0,Berkeley,ND,58214,4
+1822,Carl,Carlson,40,M,M,50000,1,1,Bachelors,Skilled Manual,1,1,Denver,NE,68197,3
+1823,Kirsten,Anderson,47,M,F,60000,3,2,Graduate D,Professional,1,0,Colma,ND,58852,4
+1824,Erika,Anderson,43,M,F,80000,5,5,Bachelors,Professional,0,4,Lebanon,SD,57289,1
+1825,Ella,Olson,48,M,F,40000,1,0,Bachelors,Skilled Manual,0,1,Corvallis,SD,57140,1
+1826,Ella,Johnson,39,S,F,50000,0,0,Graduate D,Skilled Manual,1,0,Chula Vista,ND,58539,4
+1827,Erika,Johnson,65,S,F,60000,4,0,Bachelors,Management,0,2,Burbank,ND,58749,4
+1828,Ella,Johnson,70,S,F,100000,2,3,Graduate D,Management,0,3,Concord,ND,58761,4
+1829,Ingrid,Anderson,72,M,F,50000,3,0,Graduate D,Management,1,2,Index,MN,55421,1
+1830,Ole,Anderson,47,S,M,60000,1,0,Partial Co,Skilled Manual,0,1,Chula Vista,ND,58436,4
+1831,Carl,Hanson,40,S,M,110000,0,5,High Schoo,Management,0,4,Burlingame,ND,58682,4
+1832,Inga,Larson,43,S,F,50000,0,0,Partial Co,Skilled Manual,0,1,Lebanon,SD,57229,1
+1833,John,Hanson,59,S,M,80000,5,2,High Schoo,Professional,0,2,Federal Way,MN,56533,1
+1834,Sven,Hanson,64,S,M,50000,5,0,Bachelors,Management,0,3,Port Orchard,MN,56417,1
+1835,Erik,Carlson,56,S,M,20000,3,0,Partial Hi,Manual,0,2,Everett,MN,56299,1
+1836,Sven,Olson,43,S,M,100000,2,0,Bachelors,Management,1,2,Colma,ND,58366,4
+1837,Ella,Olson,33,S,F,50000,0,0,Partial Co,Skilled Manual,0,2,Chula Vista,ND,58821,4
+1838,Inga,Hanson,39,S,F,60000,1,0,Graduate D,Professional,0,0,Concord,ND,58622,4
+1839,Katrin,Carlson,67,M,F,40000,2,0,Bachelors,Management,1,2,Everett,MN,55490,1
+1840,Kirsten,Olson,45,S,F,10000,1,0,Graduate D,Manual,0,0,Chicago,IL,60610,3
+1841,Kirsten,Larson,69,M,F,50000,4,0,Bachelors,Management,1,2,West Covina,ND,58843,4
+1842,Ella,Olson,39,S,F,30000,0,0,High Schoo,Manual,0,1,Lynnwood,MN,56362,1
+1843,Erika,Hanson,61,M,F,30000,3,0,Partial Co,Clerical,1,2,Florence,IA,52749,5
+1844,Kirsten,Carlson,44,M,F,60000,0,0,Graduate D,Professional,1,0,Colma,ND,58855,4
+1845,Sven,Hanson,67,S,M,160000,1,3,Bachelors,Management,0,3,Concord,ND,58636,4
+1846,Erik,Anderson,47,S,M,90000,2,1,High Schoo,Professional,1,1,Leesburg,ID,83690,5
+1847,Kirsten,Johnson,41,S,F,40000,0,0,Graduate D,Clerical,0,0,Concord,ND,58213,4
+1848,Inga,Carlson,56,S,F,100000,3,4,Partial Co,Professional,1,4,Lynnwood,MN,56741,1
+1849,Ole,Carlson,54,S,M,50000,2,0,Partial Hi,Skilled Manual,0,2,Issaquah,MN,56639,1
+1850,Hans,Carlson,46,S,M,40000,1,0,Bachelors,Skilled Manual,0,0,Torrance,ND,58113,4
+1851,Kirsten,Larson,36,S,F,60000,0,0,Partial Co,Professional,1,2,Concord,ND,58058,4
+1852,Katrin,Larson,44,M,F,50000,0,0,Graduate D,Skilled Manual,1,0,Westminster,NE,68596,3
+1853,Erik,Anderson,51,M,M,100000,1,1,Bachelors,Management,1,3,Edmonds,MN,56459,1
+1854,Katrin,Johnson,45,M,F,10000,1,1,High Schoo,Manual,0,1,Burlingame,ND,58703,4
+1855,Erik,Olson,40,S,M,20000,0,0,Partial Co,Manual,0,1,Houston,OH,43760,4
+1856,Katrin,Carlson,33,M,F,40000,1,1,Bachelors,Skilled Manual,0,1,Loveland,NE,69016,3
+1857,Kirsten,Carlson,51,S,F,90000,3,2,Partial Co,Professional,0,1,Woodland Hills,ND,58131,4
+1858,Ingrid,Anderson,35,S,F,30000,0,0,Partial Co,Clerical,1,1,Torrance,ND,58197,4
+1859,Inga,Larson,49,S,F,40000,4,3,High Schoo,Skilled Manual,1,3,Berkeley,ND,58126,4
+1860,Katrin,Hanson,44,S,F,70000,5,4,Partial Co,Skilled Manual,1,3,Chula Vista,ND,58170,4
+1861,Ole,Johnson,53,M,M,50000,2,1,Partial Hi,Skilled Manual,1,2,Marysville,MN,55377,1
+1862,Erika,Johnson,47,M,F,90000,0,0,Partial Co,Professional,1,1,Bountiful,UT,84010,0
+1863,Ole,Carlson,55,M,M,70000,4,3,High Schoo,Professional,1,1,Burlingame,ND,58228,4
+1864,Sven,Anderson,38,M,M,60000,1,0,Graduate D,Skilled Manual,1,0,San Gabriel,ND,58838,4
+1865,Carl,Anderson,46,S,M,70000,0,0,Bachelors,Professional,0,2,Lebanon,SD,57254,1
+1866,Ingrid,Hanson,42,S,F,10000,2,2,High Schoo,Manual,0,1,Bellflower,ND,58304,4
+1867,Sven,Hanson,34,S,M,80000,4,4,Graduate D,Management,1,1,Concord,ND,58665,4
+1868,John,Olson,38,M,M,50000,2,0,High Schoo,Skilled Manual,1,2,Holland,OH,43528,3
+1869,Sven,Johnson,50,S,M,100000,0,3,Partial Co,Professional,1,2,Concord,ND,58273,4
+1870,Sven,Johnson,35,M,M,40000,3,3,Partial Co,Clerical,1,2,Beaverton,SD,57227,1
+1871,Erik,Johnson,35,M,M,40000,3,3,Partial Co,Clerical,1,2,Beaverton,SD,57203,1
+1872,John,Hanson,40,S,M,40000,2,2,Partial Co,Clerical,1,2,Imperial Beach,ND,58427,4
+1873,Ella,Larson,51,M,F,40000,2,0,Partial Co,Clerical,1,1,Lynnwood,MN,56207,1
+1874,Erik,Anderson,36,S,M,60000,0,0,Partial Co,Professional,0,2,Mesquite,OH,43982,4
+1875,Erika,Larson,73,S,F,50000,3,0,Graduate D,Management,0,2,W. Linn,SD,57631,1
+1876,Katrin,Carlson,46,S,F,90000,2,0,Bachelors,Management,1,1,Lake George,MN,56620,2
+1877,Katrin,Hanson,69,S,F,80000,4,0,Bachelors,Management,1,2,Colma,ND,58389,4
+1878,Sven,Johnson,41,M,M,30000,3,3,Partial Co,Clerical,0,0,Coronado,ND,58694,4
+1879,Inga,Hanson,46,M,F,80000,4,3,Partial Co,Professional,1,1,Issaquah,MN,55440,1
+1880,Ingrid,Larson,43,M,F,40000,0,0,Bachelors,Clerical,0,0,Beaverton,SD,57402,1
+1881,Katrin,Anderson,60,M,F,50000,2,1,Partial Co,Professional,1,2,Lake Oswego,SD,57391,1
+1882,Ole,Olson,70,M,M,50000,3,0,Bachelors,Management,1,2,Marysville,MN,55156,1
+1883,Ingrid,Johnson,64,S,F,40000,4,0,High Schoo,Professional,0,2,Port Orchard,MN,56208,1
+1884,Erika,Larson,37,S,F,80000,0,0,Bachelors,Management,0,1,Marysville,MN,55770,1
+1885,Katrin,Larson,38,M,F,40000,2,2,Partial Co,Clerical,0,0,San Mateo,ND,58705,4
+1886,Hans,Olson,31,M,M,90000,4,4,Partial Co,Skilled Manual,1,2,Concord,ND,58437,4
+1887,Kirsten,Olson,33,M,F,20000,0,0,Partial Co,Manual,1,0,Millington,IN,46240,5
+1888,Ingrid,Olson,31,S,F,10000,0,0,Partial Co,Manual,0,1,Concord,ND,58793,4
+1889,Ingrid,Larson,42,S,F,110000,1,1,Graduate D,Management,0,3,Colma,ND,58413,4
+1890,Katrin,Johnson,34,S,F,60000,0,0,Partial Co,Skilled Manual,0,2,Milwaukie,SD,57507,1
+1891,Ella,Hanson,39,M,F,30000,0,0,High Schoo,Manual,1,1,Spokane,MN,55630,1
+1892,Erik,Larson,70,S,M,80000,4,0,Bachelors,Management,0,2,Colma,ND,58461,4
+1893,Katrin,Larson,46,M,F,40000,0,0,High Schoo,Skilled Manual,0,1,Issaquah,MN,56089,1
+1894,Ole,Carlson,34,S,M,40000,0,0,High Schoo,Skilled Manual,1,2,Colma,ND,58594,4
+1895,Inga,Johnson,53,M,F,50000,1,0,Partial Co,Skilled Manual,0,1,Seattle,MN,55618,1
+1896,Ole,Larson,51,M,M,70000,3,1,High Schoo,Professional,1,0,Seattle,MN,56115,1
+1897,Inga,Larson,37,M,F,50000,0,0,Graduate D,Skilled Manual,0,0,Concord,ND,58468,4
+1898,John,Anderson,38,S,M,40000,4,4,Partial Co,Clerical,0,2,Concord,ND,58525,4
+1899,Hans,Larson,46,M,M,40000,1,0,Bachelors,Skilled Manual,1,0,Colma,ND,58427,4
+1900,Inga,Olson,44,S,F,70000,5,0,Graduate D,Professional,0,0,Lincoln Acres,ND,58195,4
+1901,Erika,Johnson,37,S,F,90000,0,0,High Schoo,Management,1,3,Tupelo,NE,69065,5
+1902,Sven,Carlson,35,S,M,50000,0,0,High Schoo,Skilled Manual,1,2,Oregon City,SD,57020,1
+1903,Kirsten,Johnson,68,S,F,60000,3,0,Graduate D,Management,0,2,San Diego,ND,58649,4
+1904,Sven,Olson,49,M,M,80000,5,4,Partial Co,Professional,1,3,Renton,MN,55529,1
+1905,Erika,Larson,32,S,F,10000,0,0,Partial Hi,Manual,1,2,Lynnwood,MN,55619,1
+1906,Inga,Johnson,47,S,F,10000,3,2,Partial Hi,Manual,1,2,Corvallis,SD,57582,1
+1907,Sven,Olson,64,M,M,60000,5,0,Bachelors,Management,1,3,Colma,ND,58079,4
+1908,Erik,Carlson,52,S,M,60000,2,0,High Schoo,Professional,1,2,San Antonio,OH,43481,4
+1909,Carl,Olson,56,S,M,20000,2,0,Partial Hi,Manual,0,2,Bothell,MN,55311,1
+1910,Hans,Larson,63,M,M,40000,4,0,High Schoo,Professional,0,2,Burien,MN,56714,1
+1911,Erik,Johnson,34,S,M,30000,0,0,High Schoo,Skilled Manual,0,2,Kenmore,MN,55585,1
+1912,Ella,Johnson,57,S,F,90000,4,2,Partial Co,Professional,0,2,Bellflower,ND,58409,4
+1913,Ole,Anderson,63,M,M,130000,4,4,Partial Co,Professional,1,4,Lake Oswego,SD,57338,1
+1914,Sven,Johnson,40,S,M,50000,0,0,Graduate D,Skilled Manual,0,0,Lynnwood,MN,56494,1
+1915,Erik,Larson,69,S,M,50000,3,0,Bachelors,Management,1,2,Bellevue,MN,56260,1
+1916,Ella,Larson,49,M,F,40000,4,3,High Schoo,Skilled Manual,1,3,Redmond,MN,56356,1
+1917,John,Anderson,52,S,M,40000,1,0,Partial Co,Clerical,0,1,Woodburn,SD,57658,1
+1918,Hans,Larson,49,S,M,50000,1,0,Partial Co,Skilled Manual,1,1,Grossmont,ND,58817,4
+1919,Kirsten,Johnson,44,M,F,110000,0,0,Graduate D,Management,1,3,Chula Vista,ND,58821,4
+1920,Katrin,Hanson,31,M,F,30000,3,3,Partial Co,Clerical,1,2,Coronado,ND,58227,4
+1921,Ella,Larson,53,S,F,20000,2,1,Partial Hi,Clerical,1,2,Sedro Woolley,MN,56061,1
+1922,Ingrid,Anderson,32,S,F,50000,0,0,Partial Co,Skilled Manual,0,1,Issaquah,MN,56518,1
+1923,Erik,Anderson,62,S,M,30000,2,1,Partial Hi,Skilled Manual,0,4,Issaquah,MN,55665,1
+1924,Erika,Larson,74,M,F,60000,2,0,Graduate D,Management,1,2,Monroe,MN,55483,1
+1925,Erika,Anderson,53,M,F,70000,2,1,Partial Co,Professional,1,0,San Diego,ND,58834,4
+1926,Hans,Larson,50,M,M,60000,1,0,Partial Co,Skilled Manual,1,1,Chandler,IL,62321,4
+1927,Sven,Larson,73,S,M,130000,2,3,Bachelors,Management,0,3,Chula Vista,ND,58355,4
+1928,Carl,Carlson,43,S,M,30000,5,0,Graduate D,Clerical,1,0,Colma,ND,58845,4
+1929,Carl,Anderson,59,M,M,50000,2,1,High Schoo,Professional,1,2,Lake Oswego,SD,57341,1
+1930,Kirsten,Carlson,41,M,F,20000,0,0,Partial Co,Manual,1,1,Seattle,MN,55731,1
+1931,Hans,Johnson,40,S,M,70000,4,0,Graduate D,Professional,0,0,Lynnwood,MN,55322,1
+1932,Ella,Olson,32,S,F,20000,0,0,Bachelors,Clerical,0,0,Barstow,ND,58380,4
+1933,Kirsten,Johnson,39,S,F,130000,5,5,Partial Hi,Management,1,4,National City,ND,58073,4
+1934,Sven,Carlson,43,M,M,120000,0,1,Bachelors,Management,0,3,New York,MN,55435,2
+1935,Erika,Anderson,49,M,F,20000,1,0,Graduate D,Clerical,0,0,Bremerton,MN,55571,1
+1936,Ingrid,Anderson,38,M,F,40000,4,4,Partial Co,Clerical,1,2,Bothell,MN,56130,1
+1937,Ella,Larson,41,M,F,100000,1,0,Graduate D,Management,0,0,Detroit,WY,82928,0
+1938,Carl,Johnson,52,S,M,50000,2,0,High Schoo,Professional,0,2,Branson,NE,68341,0
+1939,Erika,Olson,37,M,F,50000,0,0,Graduate D,Skilled Manual,1,0,Lynnwood,MN,55475,1
+1940,Ella,Anderson,61,S,F,50000,2,1,Partial Co,Professional,0,2,Marysville,MN,56735,1
+1941,Hans,Larson,57,M,M,10000,2,1,High Schoo,Manual,1,2,Houston,OH,44894,4
+1942,Ingrid,Carlson,58,M,F,60000,2,1,High Schoo,Professional,1,2,Concord,ND,58805,4
+1943,Inga,Hanson,36,M,F,60000,2,0,Graduate D,Professional,0,0,Oregon City,SD,57200,1
+1944,Ole,Johnson,53,M,M,10000,1,0,Partial Co,Manual,1,0,Colma,ND,58133,4
+1945,Ella,Hanson,33,M,F,30000,0,0,High Schoo,Skilled Manual,1,2,Palo Alto,ND,58006,4
+1946,Katrin,Johnson,33,S,F,30000,0,0,Partial Hi,Clerical,0,2,Concord,ND,58316,4
+1947,Inga,Larson,63,M,F,90000,5,0,Partial Hi,Skilled Manual,0,2,Chula Vista,ND,58690,4
+1948,Erik,Anderson,63,M,M,120000,5,5,High Schoo,Management,0,4,W. Linn,SD,57644,1
+1949,Kirsten,Johnson,56,M,F,20000,1,0,Bachelors,Clerical,0,0,Memphis,IN,46660,5
+1950,Erik,Olson,64,S,M,10000,5,0,High Schoo,Skilled Manual,1,2,Lemon Grove,IL,60583,4
+1951,Ella,Hanson,31,S,F,40000,0,0,High Schoo,Skilled Manual,0,2,Duvall,MN,56002,1
+1952,Ingrid,Hanson,42,M,F,30000,1,0,Bachelors,Clerical,1,0,Florence,MT,59359,0
+1953,Ella,Hanson,58,S,F,70000,5,2,Partial Co,Professional,0,2,Concord,ND,58284,4
+1954,Erik,Larson,40,S,M,50000,1,1,Bachelors,Skilled Manual,1,1,Berkeley,ND,58266,4
+1955,Ella,Larson,50,S,F,30000,3,0,Bachelors,Clerical,0,0,Longview,MN,56737,1
+1956,Ingrid,Carlson,56,S,F,30000,1,0,High Schoo,Clerical,1,1,Chula Vista,ND,58223,4
+1957,Erika,Olson,50,M,F,80000,5,4,Partial Co,Professional,1,4,Burlingame,ND,58424,4
+1958,Carl,Larson,67,S,M,50000,2,0,Graduate D,Management,1,1,Fremont,ND,58132,4
+1959,Ingrid,Olson,65,M,F,30000,5,0,Partial Hi,Skilled Manual,1,3,Ballard,MN,56687,1
+1960,Kirsten,Hanson,37,M,F,50000,0,0,Partial Co,Skilled Manual,1,1,San Antonio,OH,43155,4
+1961,Kirsten,Anderson,47,M,F,50000,4,2,Bachelors,Professional,1,2,Bellingham,MN,55731,1
+1962,Inga,Anderson,48,S,F,30000,1,0,Partial Co,Clerical,1,1,Kirkland,MN,55715,1
+1963,Ole,Larson,49,S,M,80000,5,4,Partial Co,Professional,0,3,Yakima,MN,56648,1
+1964,Sven,Larson,56,S,M,10000,2,0,Partial Co,Manual,0,1,Concord,ND,58128,4
+1965,Hans,Olson,57,M,M,10000,2,1,Partial Hi,Clerical,1,2,Irving,OH,44665,4
+1966,Katrin,Olson,46,S,F,130000,0,1,Graduate D,Management,1,1,Montgomery,IA,51699,5
+1967,Inga,Hanson,44,S,F,50000,1,0,Partial Co,Skilled Manual,1,1,Torrance,ND,58096,4
+1968,Erika,Anderson,44,M,F,20000,1,1,High Schoo,Manual,1,1,Coronado,ND,58360,4
+1969,Hans,Olson,34,M,M,20000,0,0,High Schoo,Manual,0,1,Santa Monica,ND,58799,4
+1970,Kirsten,Carlson,52,M,F,90000,2,0,Bachelors,Professional,0,1,Palo Alto,ND,58771,4
+1971,Sven,Carlson,32,M,M,40000,0,0,High Schoo,Skilled Manual,1,2,Bellingham,MN,56400,1
+1972,John,Olson,31,M,M,20000,4,4,High Schoo,Manual,1,2,Randolph,WY,82059,2
+1973,Sven,Olson,39,S,M,90000,0,0,Partial Hi,Professional,1,4,North Las Vegas,MT,59621,4
+1974,Ella,Olson,44,M,F,60000,0,0,Graduate D,Professional,1,0,Oregon City,SD,57766,1
+1975,Sven,Olson,31,S,M,30000,0,0,High Schoo,Skilled Manual,1,2,Sandy,UT,84070,0
+1976,Ingrid,Johnson,50,M,F,40000,4,2,High Schoo,Skilled Manual,1,2,San Antonio,OH,45019,4
+1977,Ingrid,Olson,32,M,F,30000,0,0,High Schoo,Manual,1,1,Concord,ND,58686,4
+1978,Katrin,Carlson,38,M,F,90000,0,0,Bachelors,Professional,0,0,Beverly Hills,ND,58010,4
+1979,Ella,Hanson,65,M,F,20000,5,0,Partial Hi,Clerical,0,3,Index,MN,56428,1
+1980,Ole,Larson,69,S,M,100000,2,3,Graduate D,Management,1,3,Colma,ND,58037,4
+1981,Inga,Hanson,38,M,F,50000,1,1,Graduate D,Skilled Manual,1,0,Oberlin,OH,44074,3
+1982,Ole,Johnson,61,S,M,50000,2,1,Partial Co,Professional,0,2,Marysville,MN,55479,1
+1983,Carl,Johnson,33,M,M,30000,0,0,Partial Hi,Clerical,1,2,Bellingham,MN,55911,1
+1984,Sven,Hanson,44,S,M,50000,3,3,Bachelors,Skilled Manual,0,0,Colma,ND,58577,4
+1985,Erika,Larson,41,M,F,40000,0,0,Graduate D,Clerical,1,0,Colma,ND,58292,4
+1986,Carl,Johnson,46,S,M,100000,0,2,Partial Co,Professional,1,1,Colma,ND,58784,4
+1987,Kirsten,Olson,30,M,F,20000,0,0,Partial Hi,Manual,0,2,Woodburn,SD,57619,1
+1988,Carl,Olson,46,M,M,70000,0,0,Bachelors,Professional,1,1,Newport Hills,MN,55961,1
+1989,Inga,Larson,42,M,F,50000,2,2,Bachelors,Skilled Manual,1,1,Ballard,MN,55606,1
+1990,Erika,Hanson,50,S,F,40000,4,2,High Schoo,Skilled Manual,0,3,Issaquah,MN,56510,1
+1991,Sven,Anderson,40,S,M,130000,5,5,High Schoo,Management,0,4,Tacoma,MN,56230,1
+1992,Ole,Carlson,39,M,M,110000,0,0,Graduate D,Management,1,3,Lebanon,SD,57069,1
+1993,Ingrid,Carlson,32,S,F,120000,0,1,Bachelors,Management,0,4,Puyallup,MN,55709,1
+1994,Ella,Carlson,74,M,F,20000,1,0,Graduate D,Clerical,1,0,Beaverton,SD,57383,1
+1995,Inga,Anderson,33,S,F,30000,0,0,Partial Hi,Clerical,1,2,La Jolla,ND,58156,4
+1996,Ingrid,Hanson,47,S,F,70000,0,0,Bachelors,Professional,0,1,Newport Hills,MN,56621,1
+1997,Erika,Anderson,61,S,F,30000,4,0,High Schoo,Professional,1,2,Salem,SD,57475,1
+1998,John,Carlson,54,M,M,20000,3,0,Partial Hi,Clerical,1,2,Woodburn,SD,57101,1
+1999,Katrin,Johnson,38,S,F,10000,0,0,Partial Hi,Manual,0,2,Ballard,MN,55185,1
+2000,Ella,Olson,53,M,F,10000,1,0,Bachelors,Clerical,0,0,Olympia,MN,55529,1
+2001,Sven,Johnson,51,S,M,50000,4,0,Graduate D,Skilled Manual,1,0,Colma,ND,58540,4
+2002,Ella,Hanson,46,M,F,30000,2,0,High Schoo,Skilled Manual,1,2,Spokane,MN,55337,1
+2003,Ole,Larson,40,S,M,50000,2,2,Bachelors,Skilled Manual,1,0,Woodburn,SD,57739,1
+2004,Ingrid,Larson,53,S,F,90000,2,0,Partial Co,Professional,0,1,Ellensburg,MN,55225,1
+2005,Inga,Larson,40,S,F,60000,1,0,Graduate D,Professional,0,0,Bothell,MN,55215,1
+2006,Kirsten,Johnson,35,M,F,40000,0,0,High Schoo,Skilled Manual,0,1,La Jolla,ND,58335,4
+2007,Erika,Olson,48,M,F,50000,1,0,Partial Co,Skilled Manual,1,1,Albany,MN,56742,2
+2008,Katrin,Anderson,50,M,F,50000,1,0,Partial Co,Skilled Manual,1,1,National City,ND,58535,4
+2009,Katrin,Larson,57,M,F,50000,3,0,Graduate D,Management,1,2,Cincinnati,OH,45202,3
+2010,Carl,Hanson,41,S,M,50000,4,0,Graduate D,Skilled Manual,0,0,Chula Vista,ND,58523,4
+2011,Kirsten,Olson,67,M,F,90000,5,0,Bachelors,Management,1,2,Colma,ND,58487,4
+2012,Katrin,Johnson,54,M,F,70000,3,0,Partial Co,Professional,1,2,Oregon City,SD,57373,1
+2013,Hans,Larson,34,S,M,10000,1,1,High Schoo,Manual,0,0,Chula Vista,ND,58470,4
+2014,Ole,Anderson,44,S,M,50000,3,3,Bachelors,Skilled Manual,0,0,Raleigh,ND,58536,5
+2015,Erik,Carlson,48,M,M,40000,1,0,Bachelors,Skilled Manual,0,1,Santa Monica,ND,58146,4
+2016,Erik,Anderson,53,M,M,40000,1,0,Partial Co,Clerical,0,1,Colma,ND,58496,4
+2017,Erika,Olson,49,M,F,50000,1,0,Partial Co,Skilled Manual,1,1,Simi Valley,ND,58292,4
+2018,Kirsten,Anderson,66,M,F,30000,2,0,Partial Co,Clerical,1,2,Concord,ND,58659,4
+2019,Carl,Hanson,51,S,M,10000,1,1,High Schoo,Manual,0,1,Colma,ND,58071,4
+2020,Ole,Larson,73,S,M,70000,4,0,Graduate D,Management,1,2,Concord,ND,58705,4
+2021,Inga,Olson,31,M,F,20000,0,0,Bachelors,Clerical,1,0,Fort Worth,OH,44213,4
+2022,Hans,Johnson,38,M,M,80000,0,0,Bachelors,Management,1,1,Lake Elsinore,ND,58608,4
+2023,Ole,Larson,49,M,M,40000,4,3,High Schoo,Skilled Manual,1,3,San Diego,ND,58842,4
+2024,Carl,Larson,32,M,M,20000,0,0,Bachelors,Clerical,1,0,Chicago,IL,60610,3
+2025,Hans,Anderson,54,M,M,50000,2,0,High Schoo,Skilled Manual,1,2,El Segundo,ND,58315,4
+2026,Ole,Carlson,41,M,M,30000,0,0,Bachelors,Clerical,1,0,Nashville,IN,46833,5
+2027,Sven,Johnson,60,S,M,40000,2,1,Partial Hi,Skilled Manual,1,3,Austell,WY,82336,5
+2028,Katrin,Larson,33,S,F,20000,0,0,Partial Co,Manual,1,0,Downey,ND,58498,4
+2029,John,Hanson,51,S,M,30000,0,0,Bachelors,Clerical,0,0,Colma,ND,58588,4
+2030,Carl,Carlson,75,S,M,40000,3,0,Partial Co,Professional,0,2,Glendale,ND,58601,4
+2031,Carl,Johnson,35,S,M,70000,0,0,Partial Hi,Skilled Manual,1,3,Biloxi,NE,68942,5
+2032,Ole,Hanson,67,M,M,80000,5,0,Bachelors,Management,0,2,Concord,ND,58327,4
+2033,Ole,Olson,64,M,M,100000,2,3,Bachelors,Management,1,4,Imperial Beach,ND,58547,4
+2034,Erik,Hanson,55,M,M,20000,3,0,Partial Hi,Clerical,1,2,Woodburn,SD,57258,1
+2035,Hans,Anderson,31,S,M,30000,3,3,Partial Co,Clerical,0,2,College Station,OH,44535,4
+2036,Katrin,Olson,67,M,F,20000,2,0,Partial Co,Manual,1,0,Burien,MN,55891,1
+2037,John,Hanson,50,M,M,80000,5,4,Partial Co,Professional,1,4,Colma,ND,58621,4
+2038,Hans,Carlson,56,M,M,60000,3,1,Partial Hi,Skilled Manual,0,3,Bellingham,MN,55396,1
+2039,Sven,Johnson,46,M,M,50000,4,2,Bachelors,Skilled Manual,1,2,Beverly Hills,ND,58069,4
+2040,Carl,Carlson,51,M,M,60000,5,4,Bachelors,Professional,1,1,Bellingham,MN,56431,1
+2041,Sven,Hanson,34,M,M,50000,0,0,Partial Co,Skilled Manual,1,2,Walla Walla,MN,56074,1
+2042,John,Johnson,38,S,M,40000,4,3,High Schoo,Skilled Manual,0,3,Lebanon,SD,57327,1
+2043,Erik,Anderson,38,S,M,80000,0,0,Partial Hi,Professional,0,3,Lake Oswego,SD,57358,1
+2044,Hans,Carlson,42,M,M,40000,0,0,Graduate D,Clerical,0,0,Coronado,ND,58682,4
+2045,Ole,Johnson,65,S,M,50000,4,0,Bachelors,Management,1,2,Nashua,MT,59893,2
+2046,Sven,Johnson,36,S,M,50000,0,0,High Schoo,Professional,1,2,Mentor,OH,44060,3
+2047,Sven,Carlson,38,M,M,30000,0,0,High Schoo,Manual,0,1,Colma,ND,58693,4
+2048,Erik,Olson,47,S,M,40000,1,0,Bachelors,Skilled Manual,1,0,Berkeley,ND,58604,4
+2049,Hans,Johnson,60,M,M,70000,5,0,Bachelors,Management,0,2,Chula Vista,ND,58325,4
+2050,Hans,Carlson,46,M,M,10000,3,2,Partial Hi,Manual,0,2,Daly City,ND,58129,4
+2051,Ole,Anderson,36,S,M,50000,0,0,Graduate D,Skilled Manual,1,0,Imperial Beach,ND,58339,4
+2052,Ella,Johnson,48,S,F,50000,1,0,Partial Co,Skilled Manual,1,1,Salt Lake City,UT,84101,0
+2053,Katrin,Hanson,34,M,F,10000,0,0,High Schoo,Manual,1,2,Burien,MN,56494,1
+2054,Inga,Carlson,31,S,F,30000,0,0,Partial Hi,Clerical,1,2,Downey,ND,58524,4
+2055,Carl,Larson,53,M,M,130000,3,4,Partial Co,Professional,1,3,Olympia,MN,55275,1
+2056,Erik,Olson,61,M,M,10000,4,0,High Schoo,Skilled Manual,1,2,Bellingham,MN,55151,1
+2057,Hans,Anderson,53,S,M,80000,2,1,Bachelors,Management,1,0,Burbank,ND,58274,4
+2058,Katrin,Olson,53,M,F,10000,1,0,Bachelors,Clerical,1,0,Daleville,MT,59109,3
+2059,Katrin,Carlson,34,M,F,20000,0,0,High Schoo,Manual,1,1,West Chicago,IL,60185,3
